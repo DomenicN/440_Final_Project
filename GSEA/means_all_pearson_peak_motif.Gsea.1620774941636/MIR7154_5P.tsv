@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SHISA3	shisa family member 3 [Source:HGNC Symbol;Acc:HGNC:25159]	0	0.6350057721138	0.18133055	Yes	
+row_1	FOXD1	forkhead box D1 [Source:HGNC Symbol;Acc:HGNC:3802]	1	0.5772796869277954	0.34617698	Yes	
+row_2	SBSPON	somatomedin B and thrombospondin type 1 domain containing [Source:HGNC Symbol;Acc:HGNC:30362]	26	0.42632174491882324	0.45185202	Yes	
+row_3	SPRING1	SREBF pathway regulator in golgi 1 [Source:HGNC Symbol;Acc:HGNC:26128]	334	0.09726804494857788	0.27413902	No	
+row_4	AQP9	aquaporin 9 [Source:HGNC Symbol;Acc:HGNC:643]	438	0.02912834845483303	0.2135144	No	
+row_5	PAIP2B	poly(A) binding protein interacting protein 2B [Source:HGNC Symbol;Acc:HGNC:29200]	499	-0.002863276517018676	0.17417139	No	
+row_6	PCDH10	protocadherin 10 [Source:HGNC Symbol;Acc:HGNC:13404]	533	-0.019119396805763245	0.15754272	No	
+row_7	DPYSL2	dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	576	-0.041564974933862686	0.14129946	No	
+row_8	TMEFF2	transmembrane protein with EGF like and two follistatin like domains 2 [Source:HGNC Symbol;Acc:HGNC:11867]	649	-0.07994964718818665	0.11593688	No	
+row_9	EDIL3	EGF like repeats and discoidin domains 3 [Source:HGNC Symbol;Acc:HGNC:3173]	653	-0.08180677890777588	0.13728938	No	
+row_10	IL12A	interleukin 12A [Source:HGNC Symbol;Acc:HGNC:5969]	683	-0.09727256000041962	0.14565529	No	
+row_11	EPHA5	EPH receptor A5 [Source:HGNC Symbol;Acc:HGNC:3389]	692	-0.10254675894975662	0.16958351	No	
+row_12	SNAP25	synaptosome associated protein 25 [Source:HGNC Symbol;Acc:HGNC:11132]	739	-0.1280413717031479	0.17535685	No	
+row_13	TSPAN13	tetraspanin 13 [Source:HGNC Symbol;Acc:HGNC:21643]	883	-0.20472396910190582	0.13810107	No	
+row_14	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	1469	-0.4766983687877655	-0.117340475	No	
+row_15	SCN1B	sodium voltage-gated channel beta subunit 1 [Source:HGNC Symbol;Acc:HGNC:10586]	1485	-0.5023329854011536	0.016064234	No	

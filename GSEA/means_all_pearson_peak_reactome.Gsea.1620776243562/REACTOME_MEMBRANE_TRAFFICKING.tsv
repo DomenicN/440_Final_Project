@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AVPR2	arginine vasopressin receptor 2 [Source:HGNC Symbol;Acc:HGNC:897]	178	0.22900275886058807	-0.0865347	No	
+row_1	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	202	0.19746707379817963	-0.07274642	No	
+row_2	AP1S2	adaptor related protein complex 1 subunit sigma 2 [Source:HGNC Symbol;Acc:HGNC:560]	238	0.16600008308887482	-0.071768574	No	
+row_3	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	269	0.1396396905183792	-0.07132399	No	
+row_4	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	297	0.11805577576160431	-0.07205725	No	
+row_5	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	403	0.05269910395145416	-0.13535708	No	
+row_6	DENND5B	DENN domain containing 5B [Source:HGNC Symbol;Acc:HGNC:28338]	421	0.03971271589398384	-0.14096789	No	
+row_7	FTL	ferritin light chain [Source:HGNC Symbol;Acc:HGNC:3999]	423	0.038783859461545944	-0.13587674	No	
+row_8	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	437	0.02967085875570774	-0.14027114	No	
+row_9	TUBB3	tubulin beta 3 class III [Source:HGNC Symbol;Acc:HGNC:20772]	531	-0.018373560160398483	-0.20054641	No	
+row_10	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	550	-0.025797415524721146	-0.20890447	No	
+row_11	ANK2	ankyrin 2 [Source:HGNC Symbol;Acc:HGNC:493]	568	-0.03731574863195419	-0.2148718	No	
+row_12	TUBB4A	tubulin beta 4A class IVa [Source:HGNC Symbol;Acc:HGNC:20774]	583	-0.04777024686336517	-0.21725163	No	
+row_13	RAB39A	"RAB39A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:16521]"	610	-0.06038578972220421	-0.22588512	No	
+row_14	SYT11	synaptotagmin 11 [Source:HGNC Symbol;Acc:HGNC:19239]	615	-0.06294922530651093	-0.21923217	No	
+row_15	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	616	-0.06300358474254608	-0.20986113	No	
+row_16	SYT1	synaptotagmin 1 [Source:HGNC Symbol;Acc:HGNC:11509]	632	-0.06993547827005386	-0.20962164	No	
+row_17	AVP	arginine vasopressin [Source:HGNC Symbol;Acc:HGNC:894]	674	-0.09190980345010757	-0.2237289	No	
+row_18	RAB3A	"RAB3A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9777]"	838	-0.18475429713726044	-0.30668244	No	
+row_19	GABARAP	GABA type A receptor-associated protein [Source:HGNC Symbol;Acc:HGNC:4067]	982	-0.25841081142425537	-0.3651303	Yes	
+row_20	TBC1D10C	TBC1 domain family member 10C [Source:HGNC Symbol;Acc:HGNC:24702]	987	-0.2615015506744385	-0.328945	Yes	
+row_21	BIN1	bridging integrator 1 [Source:HGNC Symbol;Acc:HGNC:1052]	1003	-0.27175748348236084	-0.29868683	Yes	
+row_22	FTH1	ferritin heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:3976]	1063	-0.286516010761261	-0.29604378	Yes	
+row_23	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	1086	-0.2930918037891388	-0.26735494	Yes	
+row_24	GJB3	gap junction protein beta 3 [Source:HGNC Symbol;Acc:HGNC:4285]	1102	-0.29673612117767334	-0.23338148	Yes	
+row_25	SERPINA1	serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941]	1136	-0.30151134729385376	-0.21089289	Yes	
+row_26	GJB6	gap junction protein beta 6 [Source:HGNC Symbol;Acc:HGNC:4288]	1206	-0.3103110194206238	-0.2114857	Yes	
+row_27	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	1277	-0.3357487916946411	-0.20897244	Yes	
+row_28	GJB5	gap junction protein beta 5 [Source:HGNC Symbol;Acc:HGNC:4287]	1325	-0.3610648512840271	-0.18711103	Yes	
+row_29	COPZ2	COPI coat complex subunit zeta 2 [Source:HGNC Symbol;Acc:HGNC:19356]	1329	-0.3623313009738922	-0.13525099	Yes	
+row_30	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	1330	-0.36247342824935913	-0.081337266	Yes	
+row_31	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	1414	-0.4112602174282074	-0.07640014	Yes	
+row_32	FOLR1	folate receptor alpha [Source:HGNC Symbol;Acc:HGNC:3791]	1431	-0.42704227566719055	-0.023722664	Yes	
+row_33	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	1488	-0.5102289319038391	0.014227595	Yes	

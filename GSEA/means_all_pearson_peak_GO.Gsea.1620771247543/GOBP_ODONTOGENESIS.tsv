@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BGLAP	bone gamma-carboxyglutamate protein [Source:HGNC Symbol;Acc:HGNC:1043]	90	0.33991143107414246	-0.031108076	No	
+row_1	CD34	CD34 molecule [Source:HGNC Symbol;Acc:HGNC:1662]	135	0.28423795104026794	-0.03588524	No	
+row_2	DMP1	dentin matrix acidic phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:2932]	169	0.24279646575450897	-0.036851186	No	
+row_3	SMPD3	sphingomyelin phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:14240]	258	0.14831241965293884	-0.083529495	No	
+row_4	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	260	0.1476917713880539	-0.071159385	No	
+row_5	ID3	"inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]"	345	0.09081735461950302	-0.12020034	No	
+row_6	OSR2	odd-skipped related transciption factor 2 [Source:HGNC Symbol;Acc:HGNC:15830]	503	-0.0046761115081608295	-0.2264448	No	
+row_7	NGFR	nerve growth factor receptor [Source:HGNC Symbol;Acc:HGNC:7809]	528	-0.015897255390882492	-0.24134451	No	
+row_8	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	670	-0.08983606100082397	-0.329195	No	
+row_9	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	677	-0.09304129332304001	-0.32505032	No	
+row_10	TNFRSF11B	TNF receptor superfamily member 11b [Source:HGNC Symbol;Acc:HGNC:11909]	793	-0.159282848238945	-0.38910174	No	
+row_11	MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	857	-0.1917077898979187	-0.4149621	No	
+row_12	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	975	-0.2552524507045746	-0.4718927	Yes	
+row_13	FST	follistatin [Source:HGNC Symbol;Acc:HGNC:3971]	993	-0.2653563320636749	-0.45999578	Yes	
+row_14	COL1A2	collagen type I alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2198]	1001	-0.27010810375213623	-0.44088554	Yes	
+row_15	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	1006	-0.27206122875213623	-0.41956466	Yes	
+row_16	LAMB1	laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	1078	-0.29063165187835693	-0.4421193	Yes	
+row_17	TNC	tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	1116	-0.2997637987136841	-0.44076923	Yes	
+row_18	KLK4	kallikrein related peptidase 4 [Source:HGNC Symbol;Acc:HGNC:6365]	1167	-0.30151137709617615	-0.44809628	Yes	
+row_19	AQP5	aquaporin 5 [Source:HGNC Symbol;Acc:HGNC:638]	1214	-0.3134567141532898	-0.45165047	Yes	
+row_20	CSF1	colony stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:2432]	1217	-0.31442275643348694	-0.42522803	Yes	
+row_21	ASPN	asporin [Source:HGNC Symbol;Acc:HGNC:14872]	1219	-0.3153342008590698	-0.3980457	Yes	
+row_22	SERPINE1	serpin family E member 1 [Source:HGNC Symbol;Acc:HGNC:8583]	1221	-0.31629201769828796	-0.37077874	Yes	
+row_23	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	1232	-0.31841161847114563	-0.34943864	Yes	
+row_24	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	1238	-0.3201323449611664	-0.32454973	Yes	
+row_25	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	1254	-0.32789701223373413	-0.30576828	Yes	
+row_26	HAND1	heart and neural crest derivatives expressed 1 [Source:HGNC Symbol;Acc:HGNC:4807]	1279	-0.3363952338695526	-0.29235008	Yes	
+row_27	LAMA5	laminin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	1341	-0.36832940578460693	-0.30124617	Yes	
+row_28	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	1381	-0.38649383187294006	-0.29359165	Yes	
+row_29	ADM	adrenomedullin [Source:HGNC Symbol;Acc:HGNC:259]	1395	-0.3959651589393616	-0.26743728	Yes	
+row_30	SOSTDC1	sclerostin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21748]	1405	-0.40488001704216003	-0.2377778	Yes	
+row_31	ALPL	"alkaline phosphatase, biomineralization associated [Source:HGNC Symbol;Acc:HGNC:438]"	1427	-0.4217272102832794	-0.21478197	Yes	
+row_32	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5 [Source:HGNC Symbol;Acc:HGNC:221]	1448	-0.4412517547607422	-0.18938166	Yes	
+row_33	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.15767314	Yes	
+row_34	HTRA1	HtrA serine peptidase 1 [Source:HGNC Symbol;Acc:HGNC:9476]	1465	-0.46828731894493103	-0.11765582	Yes	
+row_35	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	1468	-0.47118115425109863	-0.07738281	Yes	
+row_36	CA2	carbonic anhydrase 2 [Source:HGNC Symbol;Acc:HGNC:1373]	1482	-0.5008823871612549	-0.04195835	Yes	
+row_37	PITX2	paired like homeodomain 2 [Source:HGNC Symbol;Acc:HGNC:9005]	1506	-0.6747854351997375	0.0020380153	Yes	

@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	73	0.36050134897232056	0.10784026	Yes	
+row_1	RPS12	ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10385]	74	0.36005106568336487	0.26431426	Yes	
+row_2	PBLD	phenazine biosynthesis like protein domain containing [Source:HGNC Symbol;Acc:HGNC:23301]	113	0.30634838342666626	0.37203166	Yes	
+row_3	RPL41	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	165	0.24525956809520721	0.4445049	Yes	
+row_4	PRORP	protein only RNase P catalytic subunit [Source:HGNC Symbol;Acc:HGNC:19958]	231	0.172538623213768	0.4760099	Yes	
+row_5	FMC1-LUC7L2	FMC1-LUC7L2 readthrough [Source:HGNC Symbol;Acc:HGNC:44671]	250	0.15549781918525696	0.5315473	Yes	
+row_6	EEF1A1	eukaryotic translation elongation factor 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:3189]	270	0.13957126438617706	0.57949436	Yes	
+row_7	RPL18	ribosomal protein L18 [Source:HGNC Symbol;Acc:HGNC:10310]	281	0.1316101849079132	0.6300016	Yes	
+row_8	RPS14	ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:10387]	310	0.11359653621912003	0.66064024	Yes	
+row_9	SNHG8	small nucleolar RNA host gene 8 [Source:HGNC Symbol;Acc:HGNC:33098]	331	0.09864698350429535	0.69013315	Yes	
+row_10	ATP5MC2	ATP synthase membrane subunit c locus 2 [Source:HGNC Symbol;Acc:HGNC:842]	417	0.04321669414639473	0.6520585	No	
+row_11	RCC1	regulator of chromosome condensation 1 [Source:HGNC Symbol;Acc:HGNC:1913]	424	0.037386298179626465	0.66429275	No	
+row_12	NCOA7	nuclear receptor coactivator 7 [Source:HGNC Symbol;Acc:HGNC:21081]	450	0.019657695665955544	0.6561133	No	
+row_13	SNHG3	small nucleolar RNA host gene 3 [Source:HGNC Symbol;Acc:HGNC:10118]	520	-0.011394578963518143	0.61491144	No	
+row_14	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]	702	-0.1057509258389473	0.53979933	No	

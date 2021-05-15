@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	209	0.1912640482187271	-0.090526775	No	
+row_1	KCNK2	potassium two pore domain channel subfamily K member 2 [Source:HGNC Symbol;Acc:HGNC:6277]	251	0.15413303673267365	-0.078244485	No	
+row_2	GDF15	growth differentiation factor 15 [Source:HGNC Symbol;Acc:HGNC:30142]	523	-0.013529550284147263	-0.25602996	No	
+row_3	MT3	metallothionein 3 [Source:HGNC Symbol;Acc:HGNC:7408]	557	-0.030318520963191986	-0.27029303	No	
+row_4	ARHGAP4	Rho GTPase activating protein 4 [Source:HGNC Symbol;Acc:HGNC:674]	645	-0.07782450318336487	-0.3084382	No	
+row_5	RGS4	regulator of G protein signaling 4 [Source:HGNC Symbol;Acc:HGNC:10000]	777	-0.1496666669845581	-0.3575072	No	
+row_6	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	796	-0.16015076637268066	-0.32829002	No	
+row_7	OSTN	osteocrin [Source:HGNC Symbol;Acc:HGNC:29961]	797	-0.16159941256046295	-0.28665954	No	
+row_8	RGS2	regulator of G protein signaling 2 [Source:HGNC Symbol;Acc:HGNC:9998]	841	-0.18526533246040344	-0.2676949	No	
+row_9	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	1367	-0.3810853362083435	-0.520692	Yes	
+row_10	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	1416	-0.41332489252090454	-0.44632018	Yes	
+row_11	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.3582199	Yes	
+row_12	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	1467	-0.46908071637153625	-0.24005309	Yes	
+row_13	NKD1	NKD inhibitor of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:17045]	1480	-0.49371251463890076	-0.120891914	Yes	
+row_14	RBP4	retinol binding protein 4 [Source:HGNC Symbol;Acc:HGNC:9922]	1495	-0.5419747233390808	0.0093645565	Yes	

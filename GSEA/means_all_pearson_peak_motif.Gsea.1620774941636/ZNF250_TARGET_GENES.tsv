@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	11	0.48075592517852783	0.108712964	Yes	
+row_1	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	73	0.36050134897232056	0.15475774	Yes	
+row_2	ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	116	0.30378711223602295	0.19988249	Yes	
+row_3	MT-RNR1	mitochondrially encoded 12S rRNA [Source:HGNC Symbol;Acc:HGNC:7470]	154	0.2577309310436249	0.23724641	Yes	
+row_4	UTP11	UTP11 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:24329]	170	0.24258656799793243	0.28574762	Yes	
+row_5	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	182	0.22630618512630463	0.3330068	Yes	
+row_6	RPLP0	ribosomal protein lateral stalk subunit P0 [Source:HGNC Symbol;Acc:HGNC:10371]	183	0.22600650787353516	0.38759106	Yes	
+row_7	KMT5A	lysine methyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:29489]	279	0.1323014199733734	0.355657	Yes	
+row_8	RGS5	regulator of G protein signaling 5 [Source:HGNC Symbol;Acc:HGNC:10001]	292	0.12308644503355026	0.37731445	Yes	
+row_9	PHLDA1	pleckstrin homology like domain family A member 1 [Source:HGNC Symbol;Acc:HGNC:8933]	293	0.1224835142493248	0.4068962	Yes	
+row_10	MICOS10	mitochondrial contact site and cristae organizing system subunit 10 [Source:HGNC Symbol;Acc:HGNC:32068]	311	0.11331111937761307	0.42283028	Yes	
+row_11	RPS27	ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:10416]	355	0.08513175696134567	0.4144737	Yes	
+row_12	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	362	0.07777255773544312	0.42922208	Yes	
+row_13	SIPA1L1	signal induced proliferation associated 1 like 1 [Source:HGNC Symbol;Acc:HGNC:20284]	400	0.05468025803565979	0.41754594	No	
+row_14	RACK1	receptor for activated C kinase 1 [Source:HGNC Symbol;Acc:HGNC:4399]	490	0.00206623412668705	0.35819292	No	
+row_15	RPL5	ribosomal protein L5 [Source:HGNC Symbol;Acc:HGNC:10360]	555	-0.02983498014509678	0.32235888	No	
+row_16	ZFAS1	ZNFX1 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:33101]	608	-0.058198340237140656	0.301445	No	
+row_17	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	631	-0.0697760060429573	0.30350214	No	
+row_18	H2AZ2	H2A.Z variant histone 2 [Source:HGNC Symbol;Acc:HGNC:20664]	646	-0.07837473601102829	0.313016	No	
+row_19	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]	702	-0.1057509258389473	0.30156937	No	
+row_20	S100A14	S100 calcium binding protein A14 [Source:HGNC Symbol;Acc:HGNC:18901]	922	-0.23009763658046722	0.2098653	No	
+row_21	MICOS10-NBL1	MICOS10-NBL1 readthrough [Source:HGNC Symbol;Acc:HGNC:48338]	1362	-0.3795033097267151	0.006296278	No	
+row_22	DYNC2I1	dynein 2 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:21862]	1365	-0.38046252727508545	0.096839204	No	

@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH3A1	aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405]	3	0.5612565279006958	0.097533695	Yes	
+row_1	MGST1	microsomal glutathione S-transferase 1 [Source:HGNC Symbol;Acc:HGNC:7061]	7	0.509557843208313	0.18589823	Yes	
+row_2	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.21981134	Yes	
+row_3	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.2857952	Yes	
+row_4	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.35154787	Yes	
+row_5	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.41727716	Yes	
+row_6	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.48206127	Yes	
+row_7	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.5438968	Yes	
+row_8	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.6083896	Yes	
+row_9	ADH7	"alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [Source:HGNC Symbol;Acc:HGNC:256]"	98	0.32291388511657715	0.6469066	Yes	
+row_10	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	106	0.315805047750473	0.6982285	Yes	
+row_11	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	147	0.2687534689903259	0.71910226	Yes	
+row_12	MGST3	microsomal glutathione S-transferase 3 [Source:HGNC Symbol;Acc:HGNC:7064]	153	0.25936466455459595	0.76175356	Yes	
+row_13	GSTM1	glutathione S-transferase mu 1 [Source:HGNC Symbol;Acc:HGNC:4632]	175	0.2340511679649353	0.78919864	Yes	
+row_14	MGST2	microsomal glutathione S-transferase 2 [Source:HGNC Symbol;Acc:HGNC:7063]	500	-0.003220265032723546	0.57275707	No	
+row_15	GSTT2	glutathione S-transferase theta 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:4642]	865	-0.19598440825939178	0.36371195	No	
+row_16	ADH1B	"alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]"	1358	-0.3775678873062134	0.10113863	No	

@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	172	0.2416912317276001	-0.04697587	No	
+row_1	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	352	0.08835358917713165	-0.1418228	No	
+row_2	HLA-A	"major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]"	360	0.08176814764738083	-0.12347442	No	
+row_3	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	366	0.07710650563240051	-0.10510123	No	
+row_4	HLA-DRB1	"major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]"	441	0.02703806199133396	-0.14698407	No	
+row_5	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	458	0.016846800222992897	-0.15294138	No	
+row_6	HLA-B	"major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]"	652	-0.08174639195203781	-0.25901383	No	
+row_7	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	1054	-0.28443652391433716	-0.4471274	Yes	
+row_8	TAP1	"transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]"	1073	-0.2890883982181549	-0.37774342	Yes	
+row_9	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	1139	-0.30151134729385376	-0.33629858	Yes	
+row_10	HLA-DOB	"major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]"	1209	-0.311649888753891	-0.2946737	Yes	
+row_11	HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	1244	-0.32405078411102295	-0.22614466	Yes	
+row_12	HLA-DQA1	"major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]"	1289	-0.3401789367198944	-0.15976195	Yes	
+row_13	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	1367	-0.3810853362083435	-0.10393119	Yes	
+row_14	CTSB	cathepsin B [Source:HGNC Symbol;Acc:HGNC:2527]	1508	-0.703851580619812	6.6882174E-4	Yes	

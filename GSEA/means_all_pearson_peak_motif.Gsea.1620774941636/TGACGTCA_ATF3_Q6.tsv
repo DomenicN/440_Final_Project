@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPL41	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	165	0.24525956809520721	-0.06509549	No	
+row_1	GPM6B	glycoprotein M6B [Source:HGNC Symbol;Acc:HGNC:4461]	208	0.1920117437839508	-0.05723423	No	
+row_2	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	322	0.10545624792575836	-0.11360012	No	
+row_3	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	403	0.05269910395145416	-0.1576455	No	
+row_4	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	477	0.009643237106502056	-0.20508514	No	
+row_5	ARIH1	ariadne RBR E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:689]	508	-0.005610201507806778	-0.22427033	No	
+row_6	CRH	corticotropin releasing hormone [Source:HGNC Symbol;Acc:HGNC:2355]	522	-0.013239412568509579	-0.23054613	No	
+row_7	PEG3	paternally expressed 3 [Source:HGNC Symbol;Acc:HGNC:8826]	532	-0.018905723467469215	-0.23305458	No	
+row_8	C11orf87	chromosome 11 open reading frame 87 [Source:HGNC Symbol;Acc:HGNC:33788]	546	-0.024564258754253387	-0.23719522	No	
+row_9	NCALD	neurocalcin delta [Source:HGNC Symbol;Acc:HGNC:7655]	581	-0.04572169482707977	-0.25151697	No	
+row_10	AHI1	Abelson helper integration site 1 [Source:HGNC Symbol;Acc:HGNC:21575]	600	-0.05414270609617233	-0.2534548	No	
+row_11	WFDC3	WAP four-disulfide core domain 3 [Source:HGNC Symbol;Acc:HGNC:15957]	607	-0.05807055905461311	-0.24655493	No	
+row_12	RPRD1A	regulation of nuclear pre-mRNA domain containing 1A [Source:HGNC Symbol;Acc:HGNC:25560]	611	-0.06076836585998535	-0.23712213	No	
+row_13	SCG2	secretogranin II [Source:HGNC Symbol;Acc:HGNC:10575]	629	-0.06810969859361649	-0.23575191	No	
+row_14	CMSS1	cms1 ribosomal small subunit homolog [Source:HGNC Symbol;Acc:HGNC:28666]	647	-0.07848714292049408	-0.23242515	No	
+row_15	CHGB	chromogranin B [Source:HGNC Symbol;Acc:HGNC:1930]	681	-0.09634135663509369	-0.23652843	No	
+row_16	SNAP25	synaptosome associated protein 25 [Source:HGNC Symbol;Acc:HGNC:11132]	739	-0.1280413717031479	-0.25084943	No	
+row_17	RUNDC3A	RUN domain containing 3A [Source:HGNC Symbol;Acc:HGNC:16984]	835	-0.18343739211559296	-0.28036723	No	
+row_18	VGF	VGF nerve growth factor inducible [Source:HGNC Symbol;Acc:HGNC:12684]	946	-0.24289412796497345	-0.30879667	No	
+row_19	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	1056	-0.2848147749900818	-0.32864776	No	
+row_20	CLDN6	claudin 6 [Source:HGNC Symbol;Acc:HGNC:2048]	1252	-0.3267107307910919	-0.3986296	Yes	
+row_21	SST	somatostatin [Source:HGNC Symbol;Acc:HGNC:11329]	1278	-0.3358786702156067	-0.35217312	Yes	
+row_22	CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	1293	-0.34252020716667175	-0.29704204	Yes	
+row_23	FLT1	fms related receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:3763]	1351	-0.37326377630233765	-0.2651295	Yes	
+row_24	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	1366	-0.38103729486465454	-0.20273651	Yes	
+row_25	TH	tyrosine hydroxylase [Source:HGNC Symbol;Acc:HGNC:11782]	1428	-0.4217941164970398	-0.16437325	Yes	
+row_26	LMCD1	LIM and cysteine rich domains 1 [Source:HGNC Symbol;Acc:HGNC:6633]	1470	-0.47978660464286804	-0.10158098	Yes	
+row_27	PITX2	paired like homeodomain 2 [Source:HGNC Symbol;Acc:HGNC:9005]	1506	-0.6747854351997375	0.0020243959	Yes	

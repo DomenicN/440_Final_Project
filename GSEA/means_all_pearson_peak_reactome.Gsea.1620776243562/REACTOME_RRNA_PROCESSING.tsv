@@ -1,0 +1,48 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPS12	ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10385]	74	0.36005106568336487	-9.660488E-4	Yes	
+row_1	RPL38	ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:10349]	78	0.3552364110946655	0.045934863	Yes	
+row_2	EXOSC2	exosome component 2 [Source:HGNC Symbol;Acc:HGNC:17097]	81	0.348597913980484	0.09260451	Yes	
+row_3	RPL22L1	ribosomal protein L22 like 1 [Source:HGNC Symbol;Acc:HGNC:27610]	126	0.29439282417297363	0.10309659	Yes	
+row_4	RPS2	ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:10404]	151	0.26069504022598267	0.12261565	Yes	
+row_5	MT-RNR1	mitochondrially encoded 12S rRNA [Source:HGNC Symbol;Acc:HGNC:7470]	154	0.2577309310436249	0.15676385	Yes	
+row_6	RPS18	ribosomal protein S18 [Source:HGNC Symbol;Acc:HGNC:10401]	157	0.25524580478668213	0.19056961	Yes	
+row_7	RPL41	ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:10354]	165	0.24525956809520721	0.21958163	Yes	
+row_8	RPS28	ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:10418]	167	0.244924858212471	0.25264868	Yes	
+row_9	UTP11	UTP11 small subunit processome component [Source:HGNC Symbol;Acc:HGNC:24329]	170	0.24258656799793243	0.28471002	Yes	
+row_10	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	173	0.2374507635831833	0.3160636	Yes	
+row_11	RPLP0	ribosomal protein lateral stalk subunit P0 [Source:HGNC Symbol;Acc:HGNC:10371]	183	0.22600650787353516	0.3410555	Yes	
+row_12	RPLP1	ribosomal protein lateral stalk subunit P1 [Source:HGNC Symbol;Acc:HGNC:10372]	201	0.1977231800556183	0.35668176	Yes	
+row_13	RPL32	ribosomal protein L32 [Source:HGNC Symbol;Acc:HGNC:10336]	206	0.19260351359844208	0.38048837	Yes	
+row_14	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	207	0.1923254281282425	0.40699077	Yes	
+row_15	PRORP	protein only RNase P catalytic subunit [Source:HGNC Symbol;Acc:HGNC:19958]	231	0.172538623213768	0.4150454	Yes	
+row_16	RPL13A	ribosomal protein L13a [Source:HGNC Symbol;Acc:HGNC:10304]	248	0.15681472420692444	0.425718	Yes	
+row_17	RPL35	ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:10344]	253	0.152143657207489	0.44394928	Yes	
+row_18	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	267	0.1402418613433838	0.4543887	Yes	
+row_19	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	269	0.1396396905183792	0.4729475	Yes	
+row_20	RPL39	ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:10350]	271	0.1391732394695282	0.49144202	Yes	
+row_21	RPS4X	ribosomal protein S4 X-linked [Source:HGNC Symbol;Acc:HGNC:10424]	273	0.1367633044719696	0.50960445	Yes	
+row_22	RPS23	ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:10410]	278	0.13324686884880066	0.5252317	Yes	
+row_23	RPL18	ribosomal protein L18 [Source:HGNC Symbol;Acc:HGNC:10310]	281	0.1316101849079132	0.54200053	Yes	
+row_24	RPL10	ribosomal protein L10 [Source:HGNC Symbol;Acc:HGNC:10298]	305	0.11506337672472	0.5421351	Yes	
+row_25	RPS14	ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:10387]	310	0.11359653621912003	0.55505455	Yes	
+row_26	FAU	FAU ubiquitin like and ribosomal protein S30 fusion [Source:HGNC Symbol;Acc:HGNC:3597]	315	0.10990303009748459	0.56746507	Yes	
+row_27	RPS29	ribosomal protein S29 [Source:HGNC Symbol;Acc:HGNC:10419]	322	0.10545624792575836	0.57789576	Yes	
+row_28	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	350	0.08908809721469879	0.57171685	Yes	
+row_29	RPS27	ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:10416]	355	0.08513175696134567	0.58071387	Yes	
+row_30	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	358	0.08204741030931473	0.59065294	Yes	
+row_31	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	362	0.07777255773544312	0.5993194	Yes	
+row_32	MT-RNR2	mitochondrially encoded 16S rRNA [Source:HGNC Symbol;Acc:HGNC:7471]	373	0.06940291076898575	0.6020478	Yes	
+row_33	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	375	0.06834742426872253	0.61078256	Yes	
+row_34	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	391	0.05842460319399834	0.6085805	Yes	
+row_35	RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	393	0.0578058660030365	0.61586267	Yes	
+row_36	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	408	0.050420571118593216	0.6132412	No	
+row_37	RPS3A	ribosomal protein S3A [Source:HGNC Symbol;Acc:HGNC:10421]	429	0.03559090942144394	0.6044751	No	
+row_38	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	452	0.018741441890597343	0.5920201	No	
+row_39	RPL37A	ribosomal protein L37a [Source:HGNC Symbol;Acc:HGNC:10348]	453	0.01870943233370781	0.59459823	No	
+row_40	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	464	0.014581971801817417	0.58977234	No	
+row_41	RPL31	ribosomal protein L31 [Source:HGNC Symbol;Acc:HGNC:10334]	467	0.013271933421492577	0.59023416	No	
+row_42	RPS5	ribosomal protein S5 [Source:HGNC Symbol;Acc:HGNC:10426]	488	0.0028164794202893972	0.57695174	No	
+row_43	SNU13	small nuclear ribonucleoprotein 13 [Source:HGNC Symbol;Acc:HGNC:7819]	515	-0.008851125836372375	0.5603997	No	
+row_44	RPL5	ribosomal protein L5 [Source:HGNC Symbol;Acc:HGNC:10360]	555	-0.02983498014509678	0.5378534	No	
+row_45	UTP25	UTP25 small subunit processor component [Source:HGNC Symbol;Acc:HGNC:28440]	1272	-0.3350229859352112	0.094614185	No	
+row_46	RPL39L	ribosomal protein L39 like [Source:HGNC Symbol;Acc:HGNC:17094]	1473	-0.4840224087238312	0.024606958	No	

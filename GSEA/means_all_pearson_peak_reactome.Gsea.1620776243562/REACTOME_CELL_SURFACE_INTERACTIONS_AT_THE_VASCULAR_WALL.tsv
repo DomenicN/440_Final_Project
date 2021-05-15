@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PF4	platelet factor 4 [Source:HGNC Symbol;Acc:HGNC:8861]	102	0.31899720430374146	-0.02620333	No	
+row_1	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	107	0.3139176666736603	0.013085408	No	
+row_2	FCER1G	Fc fragment of IgE receptor Ig [Source:HGNC Symbol;Acc:HGNC:3611]	108	0.31334033608436584	0.0549978	No	
+row_3	CD48	CD48 molecule [Source:HGNC Symbol;Acc:HGNC:1683]	234	0.16967006027698517	-0.0067095715	No	
+row_4	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	511	-0.007313071750104427	-0.19209194	No	
+row_5	LYN	"LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]"	548	-0.025067318230867386	-0.21304685	No	
+row_6	JAM2	junctional adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:14686]	566	-0.03696415573358536	-0.21958125	No	
+row_7	SPN	sialophorin [Source:HGNC Symbol;Acc:HGNC:11249]	627	-0.0676245391368866	-0.25104895	No	
+row_8	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	694	-0.10333802551031113	-0.28179094	No	
+row_9	IGHM	immunoglobulin heavy constant mu [Source:HGNC Symbol;Acc:HGNC:5541]	819	-0.1743619441986084	-0.3421955	No	
+row_10	SELPLG	selectin P ligand [Source:HGNC Symbol;Acc:HGNC:10722]	880	-0.20274044573307037	-0.35559013	Yes	
+row_11	EPCAM	epithelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:11529]	915	-0.2236897498369217	-0.34862685	Yes	
+row_12	INPP5D	inositol polyphosphate-5-phosphatase D [Source:HGNC Symbol;Acc:HGNC:6079]	937	-0.23647111654281616	-0.3311761	Yes	
+row_13	VPREB1	V-set pre-B cell surrogate light chain 1 [Source:HGNC Symbol;Acc:HGNC:12709]	943	-0.24169817566871643	-0.30222267	Yes	
+row_14	CD244	CD244 molecule [Source:HGNC Symbol;Acc:HGNC:18171]	980	-0.25824546813964844	-0.29198766	Yes	
+row_15	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	992	-0.264244943857193	-0.26406968	Yes	
+row_16	COL1A2	collagen type I alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2198]	1001	-0.27010810375213623	-0.23334178	Yes	
+row_17	VPREB3	V-set pre-B cell surrogate light chain 3 [Source:HGNC Symbol;Acc:HGNC:12710]	1005	-0.27206099033355713	-0.19897658	Yes	
+row_18	IGLL1	immunoglobulin lambda like polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:5870]	1030	-0.2783809006214142	-0.17794563	Yes	
+row_19	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	1054	-0.28443652391433716	-0.15542945	Yes	
+row_20	THBD	thrombomodulin [Source:HGNC Symbol;Acc:HGNC:11784]	1207	-0.3103732168674469	-0.2165473	Yes	
+row_21	LCK	"LCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6524]"	1224	-0.31720656156539917	-0.18492126	Yes	
+row_22	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	1254	-0.32789701223373413	-0.16064315	Yes	
+row_23	ITGA5	integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	1258	-0.32986360788345337	-0.118546255	Yes	
+row_24	OLR1	oxidized low density lipoprotein receptor 1 [Source:HGNC Symbol;Acc:HGNC:8133]	1310	-0.35167863965034485	-0.10594193	Yes	
+row_25	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	1335	-0.36475124955177307	-0.07335808	Yes	
+row_26	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	1381	-0.38649383187294006	-0.052045554	Yes	
+row_27	SLC16A3	solute carrier family 16 member 3 [Source:HGNC Symbol;Acc:HGNC:10924]	1478	-0.49303361773490906	-0.050918464	Yes	
+row_28	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	1494	-0.5321084856987	0.01012806	Yes	

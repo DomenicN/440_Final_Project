@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SHISA3	shisa family member 3 [Source:HGNC Symbol;Acc:HGNC:25159]	0	0.6350057721138	0.07903859	No	
+row_1	TIPARP	TCDD inducible poly(ADP-ribose) polymerase [Source:HGNC Symbol;Acc:HGNC:23696]	40	0.391708105802536	0.10129958	No	
+row_2	TMEM158	transmembrane protein 158 [Source:HGNC Symbol;Acc:HGNC:30293]	118	0.30160248279571533	0.08652998	No	
+row_3	MMP10	matrix metallopeptidase 10 [Source:HGNC Symbol;Acc:HGNC:7156]	239	0.16502778232097626	0.025549093	No	
+row_4	FRY	FRY microtubule binding protein [Source:HGNC Symbol;Acc:HGNC:20367]	265	0.1406800001859665	0.02607571	No	
+row_5	MTCL1	microtubule crosslinking factor 1 [Source:HGNC Symbol;Acc:HGNC:29121]	353	0.08797231316566467	-0.02207772	No	
+row_6	SELENOF	selenoprotein F [Source:HGNC Symbol;Acc:HGNC:17705]	390	0.05867889150977135	-0.039230533	No	
+row_7	CYRIB	CYFIP related Rac1 interactor B [Source:HGNC Symbol;Acc:HGNC:25216]	419	0.04216567054390907	-0.053003952	No	
+row_8	GRIA2	glutamate ionotropic receptor AMPA type subunit 2 [Source:HGNC Symbol;Acc:HGNC:4572]	436	0.029707184061408043	-0.06017589	No	
+row_9	SPRY2	sprouty RTK signaling antagonist 2 [Source:HGNC Symbol;Acc:HGNC:11270]	457	0.01795578934252262	-0.071527906	No	
+row_10	PLAGL1	PLAG1 like zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:9046]	485	0.005343432072550058	-0.089205205	No	
+row_11	OPRM1	opioid receptor mu 1 [Source:HGNC Symbol;Acc:HGNC:8156]	487	0.003329536644741893	-0.089470126	No	
+row_12	KALRN	kalirin RhoGEF kinase [Source:HGNC Symbol;Acc:HGNC:4814]	518	-0.01087872963398695	-0.1084965	No	
+row_13	MBLAC2	metallo-beta-lactamase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:33711]	605	-0.057074833661317825	-0.15981635	No	
+row_14	RAB39A	"RAB39A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:16521]"	610	-0.06038578972220421	-0.15501758	No	
+row_15	RPRD1A	regulation of nuclear pre-mRNA domain containing 1A [Source:HGNC Symbol;Acc:HGNC:25560]	611	-0.06076836585998535	-0.1474538	No	
+row_16	NRK	Nik related kinase [Source:HGNC Symbol;Acc:HGNC:25391]	626	-0.0671922042965889	-0.14860132	No	
+row_17	SCG2	secretogranin II [Source:HGNC Symbol;Acc:HGNC:10575]	629	-0.06810969859361649	-0.14148247	No	
+row_18	NRXN1	neurexin 1 [Source:HGNC Symbol;Acc:HGNC:8008]	666	-0.08826746046543121	-0.15495242	No	
+row_19	CRMP1	collapsin response mediator protein 1 [Source:HGNC Symbol;Acc:HGNC:2365]	671	-0.08997119963169098	-0.14647117	No	
+row_20	EPHA5	EPH receptor A5 [Source:HGNC Symbol;Acc:HGNC:3389]	692	-0.10254675894975662	-0.14729424	No	
+row_21	RBMS3	RNA binding motif single stranded interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:13427]	701	-0.1054629385471344	-0.13960214	No	
+row_22	IL31RA	interleukin 31 receptor A [Source:HGNC Symbol;Acc:HGNC:18969]	715	-0.11337708681821823	-0.13432172	No	
+row_23	EVI2B	ecotropic viral integration site 2B [Source:HGNC Symbol;Acc:HGNC:3500]	774	-0.14793440699577332	-0.15531063	No	
+row_24	GIMAP1	"GTPase, IMAP family member 1 [Source:HGNC Symbol;Acc:HGNC:23237]"	785	-0.15536285936832428	-0.14276624	No	
+row_25	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	940	-0.2392478883266449	-0.21760684	No	
+row_26	C1R	complement C1r [Source:HGNC Symbol;Acc:HGNC:1246]	955	-0.2455955147743225	-0.19654866	No	
+row_27	GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	958	-0.2460385411977768	-0.16728316	No	
+row_28	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	1331	-0.3630671501159668	-0.37480992	Yes	
+row_29	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	1336	-0.36551499366760254	-0.332032	Yes	
+row_30	CXCL3	C-X-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:4604]	1342	-0.3687995970249176	-0.28952459	Yes	
+row_31	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	1384	-0.38765156269073486	-0.26912722	Yes	
+row_32	GADD45A	growth arrest and DNA damage inducible alpha [Source:HGNC Symbol;Acc:HGNC:4095]	1386	-0.38830357789993286	-0.22147477	Yes	
+row_33	ZBTB21	zinc finger and BTB domain containing 21 [Source:HGNC Symbol;Acc:HGNC:13083]	1407	-0.4061293303966522	-0.18451118	Yes	
+row_34	TNFRSF9	TNF receptor superfamily member 9 [Source:HGNC Symbol;Acc:HGNC:11924]	1439	-0.43367666006088257	-0.15159163	Yes	
+row_35	DPPA5	developmental pluripotency associated 5 [Source:HGNC Symbol;Acc:HGNC:19201]	1444	-0.4384865164756775	-0.099731006	Yes	
+row_36	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5 [Source:HGNC Symbol;Acc:HGNC:221]	1448	-0.4412517547607422	-0.046846844	Yes	
+row_37	CTSB	cathepsin B [Source:HGNC Symbol;Acc:HGNC:2527]	1508	-0.703851580619812	6.7939877E-4	Yes	

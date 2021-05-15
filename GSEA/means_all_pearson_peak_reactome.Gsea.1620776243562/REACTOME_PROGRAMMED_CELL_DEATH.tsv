@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD14	CD14 molecule [Source:HGNC Symbol;Acc:HGNC:1628]	51	0.3785676658153534	0.072225906	Yes	
+row_1	H1-2	"H1.2 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4716]"	75	0.3598572909832001	0.15793659	Yes	
+row_2	CDKN2A	cyclin dependent kinase inhibitor 2A [Source:HGNC Symbol;Acc:HGNC:1787]	99	0.3208618462085724	0.23269108	Yes	
+row_3	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	109	0.31026989221572876	0.31384048	Yes	
+row_4	GSDMD	gasdermin D [Source:HGNC Symbol;Acc:HGNC:25697]	111	0.30771031975746155	0.3996255	Yes	
+row_5	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	124	0.29552096128463745	0.47462302	Yes	
+row_6	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	269	0.1396396905183792	0.41747066	No	
+row_7	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	366	0.07710650563240051	0.3748775	No	
+row_8	SEM1	SEM1 26S proteasome complex subunit [Source:HGNC Symbol;Acc:HGNC:10845]	406	0.05157686024904251	0.36326414	No	
+row_9	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	458	0.016846800222992897	0.33386087	No	
+row_10	MAPT	microtubule associated protein tau [Source:HGNC Symbol;Acc:HGNC:6893]	596	-0.052717819809913635	0.25697234	No	
+row_11	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	690	-0.10144675523042679	0.22322586	No	
+row_12	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	916	-0.22392523288726807	0.13553753	No	
+row_13	PRKCQ	protein kinase C theta [Source:HGNC Symbol;Acc:HGNC:9410]	1007	-0.27217382192611694	0.15176658	No	
+row_14	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	1068	-0.2885275185108185	0.19267069	No	
+row_15	SFN	stratifin [Source:HGNC Symbol;Acc:HGNC:10773]	1330	-0.36247342824935913	0.11981251	No	

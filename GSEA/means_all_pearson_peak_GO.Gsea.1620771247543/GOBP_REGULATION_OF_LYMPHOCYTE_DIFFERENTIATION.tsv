@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	314	0.11209279298782349	-0.19171081	No	
+row_1	RHOH	ras homolog family member H [Source:HGNC Symbol;Acc:HGNC:686]	329	0.09953681379556656	-0.18361226	No	
+row_2	HLA-DRB1	"major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]"	441	0.02703806199133396	-0.25359896	No	
+row_3	TMEM131L	transmembrane 131 like [Source:HGNC Symbol;Acc:HGNC:29146]	480	0.00854493584483862	-0.27768362	No	
+row_4	LILRB4	leukocyte immunoglobulin like receptor B4 [Source:HGNC Symbol;Acc:HGNC:6608]	486	0.004704725928604603	-0.2802222	No	
+row_5	CTLA4	cytotoxic T-lymphocyte associated protein 4 [Source:HGNC Symbol;Acc:HGNC:2505]	502	-0.004440709948539734	-0.2895413	No	
+row_6	SASH3	SAM and SH3 domain containing 3 [Source:HGNC Symbol;Acc:HGNC:15975]	572	-0.03961919620633125	-0.32902992	No	
+row_7	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	685	-0.0990724042057991	-0.3870064	No	
+row_8	IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	916	-0.22392523288726807	-0.5024604	Yes	
+row_9	CD27	CD27 molecule [Source:HGNC Symbol;Acc:HGNC:11922]	936	-0.23621954023838043	-0.47366217	Yes	
+row_10	INPP5D	inositol polyphosphate-5-phosphatase D [Source:HGNC Symbol;Acc:HGNC:6079]	937	-0.23647111654281616	-0.432025	Yes	
+row_11	IRF4	interferon regulatory factor 4 [Source:HGNC Symbol;Acc:HGNC:6119]	970	-0.25329461693763733	-0.4089744	Yes	
+row_12	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	992	-0.264244943857193	-0.3765883	Yes	
+row_13	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	1006	-0.27206122875213623	-0.33743873	Yes	
+row_14	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	1054	-0.28443652391433716	-0.3190058	Yes	
+row_15	IKZF3	IKAROS family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:13178]	1095	-0.29444482922554016	-0.2940968	Yes	
+row_16	LGALS9	galectin 9 [Source:HGNC Symbol;Acc:HGNC:6570]	1177	-0.30217245221138	-0.29543656	Yes	
+row_17	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	1190	-0.3054347634315491	-0.24973726	Yes	
+row_18	MMP14	matrix metallopeptidase 14 [Source:HGNC Symbol;Acc:HGNC:7160]	1191	-0.3061200976371765	-0.1958365	Yes	
+row_19	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	1257	-0.32975485920906067	-0.18154523	Yes	
+row_20	LOXL3	lysyl oxidase like 3 [Source:HGNC Symbol;Acc:HGNC:13869]	1269	-0.33326563239097595	-0.13027215	Yes	
+row_21	MDK	midkine [Source:HGNC Symbol;Acc:HGNC:6972]	1312	-0.3533845543861389	-0.09633202	Yes	
+row_22	TNFRSF18	TNF receptor superfamily member 18 [Source:HGNC Symbol;Acc:HGNC:11914]	1328	-0.36131471395492554	-0.042813744	Yes	
+row_23	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.05158724	Yes	
+row_24	VNN1	vanin 1 [Source:HGNC Symbol;Acc:HGNC:12705]	1466	-0.4689059555530548	0.028956205	Yes	

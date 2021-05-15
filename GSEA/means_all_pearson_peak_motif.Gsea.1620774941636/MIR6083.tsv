@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GFRA1	GDNF family receptor alpha 1 [Source:HGNC Symbol;Acc:HGNC:4243]	272	0.1385548859834671	-0.1517902	No	
+row_1	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	376	0.06741883605718613	-0.2059238	No	
+row_2	SELENOF	selenoprotein F [Source:HGNC Symbol;Acc:HGNC:17705]	390	0.05867889150977135	-0.20152934	No	
+row_3	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	428	0.03573082014918327	-0.21839917	No	
+row_4	GRIA2	glutamate ionotropic receptor AMPA type subunit 2 [Source:HGNC Symbol;Acc:HGNC:4572]	436	0.029707184061408043	-0.21645565	No	
+row_5	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	477	0.009643237106502056	-0.24117944	No	
+row_6	DLG1	discs large MAGUK scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:2900]	541	-0.020672962069511414	-0.278892	No	
+row_7	CDK8	cyclin dependent kinase 8 [Source:HGNC Symbol;Acc:HGNC:1779]	562	-0.03447383642196655	-0.28461838	No	
+row_8	MBLAC2	metallo-beta-lactamase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:33711]	605	-0.057074833661317825	-0.3000721	No	
+row_9	SLIT2	slit guidance ligand 2 [Source:HGNC Symbol;Acc:HGNC:11086]	706	-0.10882721096277237	-0.3429233	No	
+row_10	PDE10A	phosphodiesterase 10A [Source:HGNC Symbol;Acc:HGNC:8772]	763	-0.1415276974439621	-0.34888697	No	
+row_11	ELAVL4	ELAV like RNA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:3315]	818	-0.17247247695922852	-0.34658182	No	
+row_12	NHLH2	nescient helix-loop-helix 2 [Source:HGNC Symbol;Acc:HGNC:7818]	918	-0.2273315191268921	-0.36224234	No	
+row_13	GCG	glucagon [Source:HGNC Symbol;Acc:HGNC:4191]	933	-0.23483695089817047	-0.31909966	No	
+row_14	LOXL3	lysyl oxidase like 3 [Source:HGNC Symbol;Acc:HGNC:13869]	1269	-0.33326563239097595	-0.46965665	Yes	
+row_15	RSPO3	R-spondin 3 [Source:HGNC Symbol;Acc:HGNC:20866]	1299	-0.344847172498703	-0.41197678	Yes	
+row_16	OGN	osteoglycin [Source:HGNC Symbol;Acc:HGNC:8126]	1321	-0.3579358458518982	-0.34599164	Yes	
+row_17	SFRP2	secreted frizzled related protein 2 [Source:HGNC Symbol;Acc:HGNC:10777]	1337	-0.3655227720737457	-0.27427644	Yes	
+row_18	RFLNB	refilin B [Source:HGNC Symbol;Acc:HGNC:28705]	1354	-0.3742354214191437	-0.20128357	Yes	
+row_19	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	1384	-0.38765156269073486	-0.13402504	Yes	
+row_20	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5 [Source:HGNC Symbol;Acc:HGNC:221]	1448	-0.4412517547607422	-0.077621445	Yes	
+row_21	BNIP3	BCL2 interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:1084]	1492	-0.5270589590072632	0.01142475	Yes	

@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CBX3	chromobox 3 [Source:HGNC Symbol;Acc:HGNC:1553]	287	0.12660075724124908	-0.16434571	No	
+row_1	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	489	0.002353942720219493	-0.2983678	No	
+row_2	CRH	corticotropin releasing hormone [Source:HGNC Symbol;Acc:HGNC:2355]	522	-0.013239412568509579	-0.3168842	No	
+row_3	ATP2B1	ATPase plasma membrane Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:814]	655	-0.08206415921449661	-0.3872458	No	
+row_4	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	677	-0.09304129332304001	-0.3809036	No	
+row_5	AGTR2	angiotensin II receptor type 2 [Source:HGNC Symbol;Acc:HGNC:338]	745	-0.13071973621845245	-0.39709058	No	
+row_6	SOX10	SRY-box transcription factor 10 [Source:HGNC Symbol;Acc:HGNC:11190]	1018	-0.2749854326248169	-0.51886415	No	
+row_7	TNC	tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	1116	-0.2997637987136841	-0.51807016	No	
+row_8	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	1257	-0.32975485920906067	-0.53948265	Yes	
+row_9	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	1277	-0.3357487916946411	-0.47859046	Yes	
+row_10	ARG1	arginase 1 [Source:HGNC Symbol;Acc:HGNC:663]	1397	-0.39762771129608154	-0.47106627	Yes	
+row_11	ICAM1	intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	1436	-0.429869145154953	-0.40225658	Yes	
+row_12	SERPINF1	serpin family F member 1 [Source:HGNC Symbol;Acc:HGNC:8824]	1463	-0.45972543954849243	-0.31886902	Yes	
+row_13	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	1467	-0.46908071637153625	-0.21803553	Yes	
+row_14	KLF2	Kruppel like factor 2 [Source:HGNC Symbol;Acc:HGNC:6347]	1486	-0.505791187286377	-0.11919376	Yes	
+row_15	SGK1	serum/glucocorticoid regulated kinase 1 [Source:HGNC Symbol;Acc:HGNC:10810]	1504	-0.6108329892158508	0.0033467743	Yes	

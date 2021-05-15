@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	50	0.3796742558479309	0.09701461	Yes	
+row_1	NCF2	neutrophil cytosolic factor 2 [Source:HGNC Symbol;Acc:HGNC:7661]	52	0.3780738413333893	0.22625524	Yes	
+row_2	TM4SF1	transmembrane 4 L six family member 1 [Source:HGNC Symbol;Acc:HGNC:11853]	152	0.26004815101623535	0.24938934	Yes	
+row_3	MT-RNR1	mitochondrially encoded 12S rRNA [Source:HGNC Symbol;Acc:HGNC:7470]	154	0.2577309310436249	0.33727908	Yes	
+row_4	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	225	0.1756497323513031	0.35081112	Yes	
+row_5	RAB5IF	RAB5 interacting factor [Source:HGNC Symbol;Acc:HGNC:15870]	227	0.17314165830612183	0.40963525	Yes	
+row_6	SRGN	serglycin [Source:HGNC Symbol;Acc:HGNC:9361]	256	0.14896610379219055	0.4420922	Yes	
+row_7	NME1-NME2	NME1-NME2 readthrough [Source:HGNC Symbol;Acc:HGNC:33531]	374	0.0693056657910347	0.3876454	No	
+row_8	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	428	0.03573082014918327	0.36447132	No	
+row_9	AFDN	"afadin, adherens junction formation factor [Source:HGNC Symbol;Acc:HGNC:7137]"	543	-0.021544890478253365	0.29562014	No	
+row_10	HIKESHI	heat shock protein nuclear import factor hikeshi [Source:HGNC Symbol;Acc:HGNC:26938]	559	-0.031787723302841187	0.29650924	No	
+row_11	PGAM1	phosphoglycerate mutase 1 [Source:HGNC Symbol;Acc:HGNC:8888]	640	-0.07475580275058746	0.2686843	No	
+row_12	EGLN3	egl-9 family hypoxia inducible factor 3 [Source:HGNC Symbol;Acc:HGNC:14661]	905	-0.21845769882202148	0.16715966	No	
+row_13	LAMB1	laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	1078	-0.29063165187835693	0.15197311	No	
+row_14	TINAGL1	tubulointerstitial nephritis antigen like 1 [Source:HGNC Symbol;Acc:HGNC:19168]	1392	-0.3947867453098297	0.07826078	No	

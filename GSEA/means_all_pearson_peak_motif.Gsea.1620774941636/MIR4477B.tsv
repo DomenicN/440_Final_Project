@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TCF4	transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11634]	367	0.0759039968252182	-0.22790812	No	
+row_1	CCL4L2	C-C motif chemokine ligand 4 like 2 [Source:HGNC Symbol;Acc:HGNC:24066]	492	0.0015646567335352302	-0.31069788	No	
+row_2	RRM2B	ribonucleotide reductase regulatory TP53 inducible subunit M2B [Source:HGNC Symbol;Acc:HGNC:17296]	494	7.289532222785056E-4	-0.31119344	No	
+row_3	PEG3	paternally expressed 3 [Source:HGNC Symbol;Acc:HGNC:8826]	532	-0.018905723467469215	-0.33146703	No	
+row_4	DLG1	discs large MAGUK scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:2900]	541	-0.020672962069511414	-0.33186603	No	
+row_5	RPRM	"reprimo, TP53 dependent G2 arrest mediator homolog [Source:HGNC Symbol;Acc:HGNC:24201]"	594	-0.052395470440387726	-0.35415432	No	
+row_6	GTF2I	general transcription factor IIi [Source:HGNC Symbol;Acc:HGNC:4659]	722	-0.11751735210418701	-0.41109934	No	
+row_7	RYR3	ryanodine receptor 3 [Source:HGNC Symbol;Acc:HGNC:10485]	873	-0.2001262903213501	-0.46362403	Yes	
+row_8	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	903	-0.2159879356622696	-0.4311845	Yes	
+row_9	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	995	-0.2660684585571289	-0.42829633	Yes	
+row_10	CD19	CD19 molecule [Source:HGNC Symbol;Acc:HGNC:1633]	1020	-0.2753041088581085	-0.37825304	Yes	
+row_11	MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	1222	-0.31656068563461304	-0.43701044	Yes	
+row_12	HES5	hes family bHLH transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:19764]	1246	-0.3246709704399109	-0.37443644	Yes	
+row_13	UTP25	UTP25 small subunit processor component [Source:HGNC Symbol;Acc:HGNC:28440]	1272	-0.3350229859352112	-0.3107168	Yes	
+row_14	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	1336	-0.36551499366760254	-0.26515797	Yes	
+row_15	CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	1378	-0.38564401865005493	-0.20000805	Yes	
+row_16	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	1384	-0.38765156269073486	-0.110230975	Yes	
+row_17	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	1389	-0.3925377130508423	-0.018609349	Yes	
+row_18	DAZL	deleted in azoospermia like [Source:HGNC Symbol;Acc:HGNC:2685]	1411	-0.4096754193305969	0.06572775	Yes	

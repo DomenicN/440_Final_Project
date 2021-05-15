@@ -1,0 +1,41 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	10	0.4853570759296417	0.0433406	No	
+row_1	PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	82	0.3473512828350067	0.030926919	No	
+row_2	CDKN2A	cyclin dependent kinase inhibitor 2A [Source:HGNC Symbol;Acc:HGNC:1787]	99	0.3208618462085724	0.05319152	No	
+row_3	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	124	0.29552096128463745	0.06739592	No	
+row_4	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	150	0.26287075877189636	0.07754688	No	
+row_5	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	209	0.1912640482187271	0.057851017	No	
+row_6	LAMA1	laminin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6481]	291	0.12403398752212524	0.015563202	No	
+row_7	ELOC	elongin C [Source:HGNC Symbol;Acc:HGNC:11617]	347	0.08979254215955734	-0.0125750955	No	
+row_8	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	366	0.07710650563240051	-0.016853949	No	
+row_9	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	428	0.03573082014918327	-0.054659117	No	
+row_10	ELOB	elongin B [Source:HGNC Symbol;Acc:HGNC:11619]	475	0.010218258947134018	-0.08489596	No	
+row_11	CDKN2B	cyclin dependent kinase inhibitor 2B [Source:HGNC Symbol;Acc:HGNC:1788]	563	-0.03448808938264847	-0.1405166	No	
+row_12	COL4A1	collagen type IV alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2202]	578	-0.042106542736291885	-0.14569029	No	
+row_13	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	668	-0.08976595103740692	-0.19696058	No	
+row_14	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	670	-0.08983606100082397	-0.1883597	No	
+row_15	COL4A2	collagen type IV alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2203]	696	-0.10371076315641403	-0.1946519	No	
+row_16	RAC2	Rac family small GTPase 2 [Source:HGNC Symbol;Acc:HGNC:9802]	710	-0.11015617847442627	-0.19211496	No	
+row_17	CSF1R	colony stimulating factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:2433]	773	-0.14793381094932556	-0.21900846	No	
+row_18	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	825	-0.17866285145282745	-0.23524427	Yes	
+row_19	TRAF5	TNF receptor associated factor 5 [Source:HGNC Symbol;Acc:HGNC:12035]	843	-0.18595637381076813	-0.22759734	Yes	
+row_20	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	867	-0.19688302278518677	-0.22290316	Yes	
+row_21	FOS	"Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]"	887	-0.20903688669204712	-0.21423227	Yes	
+row_22	EGLN3	egl-9 family hypoxia inducible factor 3 [Source:HGNC Symbol;Acc:HGNC:14661]	905	-0.21845769882202148	-0.20322755	Yes	
+row_23	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	975	-0.2552524507045746	-0.22379562	Yes	
+row_24	FGF19	fibroblast growth factor 19 [Source:HGNC Symbol;Acc:HGNC:3675]	1026	-0.27699562907218933	-0.22919218	Yes	
+row_25	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	1068	-0.2885275185108185	-0.22727492	Yes	
+row_26	LAMB1	laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	1078	-0.29063165187835693	-0.20337157	Yes	
+row_27	RET	ret proto-oncogene [Source:HGNC Symbol;Acc:HGNC:9967]	1092	-0.2942045331001282	-0.18182017	Yes	
+row_28	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	1185	-0.3032148480415344	-0.21307941	Yes	
+row_29	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	1215	-0.3140980005264282	-0.20035714	Yes	
+row_30	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	1238	-0.3201323449611664	-0.18224953	Yes	
+row_31	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	1264	-0.3308278024196625	-0.16507778	Yes	
+row_32	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	1296	-0.3439367115497589	-0.15063334	Yes	
+row_33	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	1335	-0.36475124955177307	-0.13880041	Yes	
+row_34	LAMA5	laminin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	1341	-0.36832940578460693	-0.10414884	Yes	
+row_35	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	1343	-0.3690465986728668	-0.06670208	Yes	
+row_36	LAMC1	laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	1372	-0.38212400674819946	-0.04627162	Yes	
+row_37	MMP9	matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	1399	-0.40021416544914246	-0.022611672	Yes	
+row_38	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.017386207	Yes	
+row_39	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	1468	-0.47118115425109863	0.027891211	Yes	

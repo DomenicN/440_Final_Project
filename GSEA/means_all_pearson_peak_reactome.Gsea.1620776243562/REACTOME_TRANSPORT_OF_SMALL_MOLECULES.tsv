@@ -1,0 +1,65 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANO1	anoctamin 1 [Source:HGNC Symbol;Acc:HGNC:21625]	6	0.5221797823905945	0.028253097	No	
+row_1	SLC7A3	solute carrier family 7 member 3 [Source:HGNC Symbol;Acc:HGNC:11061]	55	0.37282291054725647	0.018192606	No	
+row_2	SLC40A1	solute carrier family 40 member 1 [Source:HGNC Symbol;Acc:HGNC:10909]	65	0.3680843412876129	0.034809034	No	
+row_3	SLC13A4	solute carrier family 13 member 4 [Source:HGNC Symbol;Acc:HGNC:15827]	68	0.3674572706222534	0.056227487	No	
+row_4	GNGT2	G protein subunit gamma transducin 2 [Source:HGNC Symbol;Acc:HGNC:4412]	133	0.2862521708011627	0.029730076	No	
+row_5	GNGT1	G protein subunit gamma transducin 1 [Source:HGNC Symbol;Acc:HGNC:4411]	145	0.26934534311294556	0.03883639	No	
+row_6	AQP4	aquaporin 4 [Source:HGNC Symbol;Acc:HGNC:637]	161	0.25276124477386475	0.044147372	No	
+row_7	ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:813]	177	0.23048673570156097	0.048076168	No	
+row_8	AVPR2	arginine vasopressin receptor 2 [Source:HGNC Symbol;Acc:HGNC:897]	178	0.22900275886058807	0.062286325	No	
+row_9	SLC22A18	solute carrier family 22 member 18 [Source:HGNC Symbol;Acc:HGNC:10964]	179	0.2277657836675644	0.076419726	No	
+row_10	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	202	0.19746707379817963	0.07345863	No	
+row_11	GNG10	G protein subunit gamma 10 [Source:HGNC Symbol;Acc:HGNC:4402]	221	0.17895354330539703	0.07211498	No	
+row_12	ABCA6	ATP binding cassette subfamily A member 6 [Source:HGNC Symbol;Acc:HGNC:36]	223	0.17684629559516907	0.08239715	No	
+row_13	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	260	0.1476917713880539	0.0666655	No	
+row_14	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	269	0.1396396905183792	0.06979796	No	
+row_15	LPL	lipoprotein lipase [Source:HGNC Symbol;Acc:HGNC:6677]	295	0.12003626674413681	0.059957422	No	
+row_16	SLC25A5	solute carrier family 25 member 5 [Source:HGNC Symbol;Acc:HGNC:10991]	304	0.11572198569774628	0.061605737	No	
+row_17	ATP13A5	ATPase 13A5 [Source:HGNC Symbol;Acc:HGNC:31789]	326	0.10154776275157928	0.053384192	No	
+row_18	SLC16A2	solute carrier family 16 member 2 [Source:HGNC Symbol;Acc:HGNC:10923]	332	0.09842228144407272	0.05603371	No	
+row_19	SEM1	SEM1 26S proteasome complex subunit [Source:HGNC Symbol;Acc:HGNC:10845]	406	0.05157686024904251	0.008750077	No	
+row_20	FTL	ferritin light chain [Source:HGNC Symbol;Acc:HGNC:3999]	423	0.038783859461545944	9.169924E-5	No	
+row_21	AQP9	aquaporin 9 [Source:HGNC Symbol;Acc:HGNC:643]	438	0.02912834845483303	-0.0077827	No	
+row_22	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	458	0.016846800222992897	-0.019877013	No	
+row_23	GNG11	G protein subunit gamma 11 [Source:HGNC Symbol;Acc:HGNC:4403]	476	0.00973500031977892	-0.031029504	No	
+row_24	ANO4	anoctamin 4 [Source:HGNC Symbol;Acc:HGNC:23837]	493	9.299451485276222E-4	-0.042036805	No	
+row_25	HEPH	hephaestin [Source:HGNC Symbol;Acc:HGNC:4866]	614	-0.06238245218992233	-0.121153384	No	
+row_26	LCN2	lipocalin 2 [Source:HGNC Symbol;Acc:HGNC:6526]	625	-0.06682074069976807	-0.12392263	No	
+row_27	GNG8	G protein subunit gamma 8 [Source:HGNC Symbol;Acc:HGNC:19664]	634	-0.0714263990521431	-0.12502296	No	
+row_28	ATP2B1	ATPase plasma membrane Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:814]	655	-0.08206415921449661	-0.13376194	No	
+row_29	GNG3	G protein subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:4405]	664	-0.08640851080417633	-0.13393259	No	
+row_30	AVP	arginine vasopressin [Source:HGNC Symbol;Acc:HGNC:894]	674	-0.09190980345010757	-0.13445345	No	
+row_31	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	677	-0.09304129332304001	-0.13006315	No	
+row_32	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	690	-0.10144675523042679	-0.13206689	No	
+row_33	CSN3	casein kappa [Source:HGNC Symbol;Acc:HGNC:2446]	753	-0.13450323045253754	-0.16659756	No	
+row_34	ATP8B4	ATPase phospholipid transporting 8B4 (putative) [Source:HGNC Symbol;Acc:HGNC:13536]	811	-0.16848203539848328	-0.19556193	No	
+row_35	HMOX1	heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013]	823	-0.1776341199874878	-0.19214652	No	
+row_36	RYR3	ryanodine receptor 3 [Source:HGNC Symbol;Acc:HGNC:10485]	873	-0.2001262903213501	-0.2136148	No	
+row_37	APOD	apolipoprotein D [Source:HGNC Symbol;Acc:HGNC:612]	986	-0.2608025074005127	-0.27488646	No	
+row_38	ANGPTL4	angiopoietin like 4 [Source:HGNC Symbol;Acc:HGNC:16039]	1039	-0.280145525932312	-0.29346403	Yes	
+row_39	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	1058	-0.2857552468776703	-0.28818038	Yes	
+row_40	FTH1	ferritin heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:3976]	1063	-0.286516010761261	-0.27316764	Yes	
+row_41	SLC12A3	solute carrier family 12 member 3 [Source:HGNC Symbol;Acc:HGNC:10912]	1074	-0.2896798849105835	-0.26210797	Yes	
+row_42	SLC28A2	solute carrier family 28 member 2 [Source:HGNC Symbol;Acc:HGNC:11002]	1089	-0.29375308752059937	-0.2535618	Yes	
+row_43	TRPV2	transient receptor potential cation channel subfamily V member 2 [Source:HGNC Symbol;Acc:HGNC:18082]	1096	-0.29497113823890686	-0.23940751	Yes	
+row_44	CA4	carbonic anhydrase 4 [Source:HGNC Symbol;Acc:HGNC:1375]	1115	-0.29974937438964844	-0.2332555	Yes	
+row_45	AQP8	aquaporin 8 [Source:HGNC Symbol;Acc:HGNC:642]	1132	-0.30151131749153137	-0.22561103	Yes	
+row_46	AQP5	aquaporin 5 [Source:HGNC Symbol;Acc:HGNC:638]	1214	-0.3134567141532898	-0.2621769	Yes	
+row_47	ABCB5	ATP binding cassette subfamily B member 5 [Source:HGNC Symbol;Acc:HGNC:46]	1251	-0.3261938989162445	-0.26683208	Yes	
+row_48	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	1254	-0.32789701223373413	-0.24786843	Yes	
+row_49	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	1264	-0.3308278024196625	-0.23356386	Yes	
+row_50	SLC38A4	solute carrier family 38 member 4 [Source:HGNC Symbol;Acc:HGNC:14679]	1268	-0.33319729566574097	-0.21496287	Yes	
+row_51	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1283	-0.3376322090625763	-0.2036939	Yes	
+row_52	SLC4A2	solute carrier family 4 member 2 [Source:HGNC Symbol;Acc:HGNC:11028]	1338	-0.366493821144104	-0.2182965	Yes	
+row_53	PLTP	phospholipid transfer protein [Source:HGNC Symbol;Acc:HGNC:9093]	1339	-0.3669529855251312	-0.1955262	Yes	
+row_54	SLC2A3	solute carrier family 2 member 3 [Source:HGNC Symbol;Acc:HGNC:11007]	1376	-0.3828654885292053	-0.19666477	Yes	
+row_55	FXYD3	FXYD domain containing ion transport regulator 3 [Source:HGNC Symbol;Acc:HGNC:4027]	1393	-0.3954697847366333	-0.18318996	Yes	
+row_56	APOC1	apolipoprotein C1 [Source:HGNC Symbol;Acc:HGNC:607]	1425	-0.41983717679977417	-0.17857653	Yes	
+row_57	FXYD1	FXYD domain containing ion transport regulator 1 [Source:HGNC Symbol;Acc:HGNC:4025]	1459	-0.45822805166244507	-0.17296398	Yes	
+row_58	SLC16A3	solute carrier family 16 member 3 [Source:HGNC Symbol;Acc:HGNC:10924]	1478	-0.49303361773490906	-0.15481824	Yes	
+row_59	CA2	carbonic anhydrase 2 [Source:HGNC Symbol;Acc:HGNC:1373]	1482	-0.5008823871612549	-0.125812	Yes	
+row_60	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	1494	-0.5321084856987	-0.10040061	Yes	
+row_61	SLC5A5	solute carrier family 5 member 5 [Source:HGNC Symbol;Acc:HGNC:11040]	1499	-0.563143253326416	-0.06822251	Yes	
+row_62	CP	ceruloplasmin [Source:HGNC Symbol;Acc:HGNC:2295]	1500	-0.5777613520622253	-0.03237107	Yes	
+row_63	SGK1	serum/glucocorticoid regulated kinase 1 [Source:HGNC Symbol;Acc:HGNC:10810]	1504	-0.6108329892158508	0.0034578554	Yes	

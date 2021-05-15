@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.045043968	Yes	
+row_1	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.12752241	Yes	
+row_2	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.2097118	Yes	
+row_3	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.29187196	Yes	
+row_4	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.37301773	Yes	
+row_5	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.45114568	Yes	
+row_6	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.5319273	Yes	
+row_7	FMC1-LUC7L2	FMC1-LUC7L2 readthrough [Source:HGNC Symbol;Acc:HGNC:44671]	250	0.15549781918525696	0.44575667	No	
+row_8	TCF4	transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11634]	367	0.0759039968252182	0.38483608	No	
+row_9	DENND5B	DENN domain containing 5B [Source:HGNC Symbol;Acc:HGNC:28338]	421	0.03971271589398384	0.3581173	No	
+row_10	PRRX1	paired related homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9142]	501	-0.004290629178285599	0.30611944	No	
+row_11	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	694	-0.10333802551031113	0.20034245	No	
+row_12	MS4A1	membrane spanning 4-domains A1 [Source:HGNC Symbol;Acc:HGNC:7315]	806	-0.1666489690542221	0.16289058	No	
+row_13	ELAVL4	ELAV like RNA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:3315]	818	-0.17247247695922852	0.19375388	No	
+row_14	MYH11	myosin heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:7569]	848	-0.1877615600824356	0.21594232	No	
+row_15	COL1A2	collagen type I alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2198]	1001	-0.27010810375213623	0.17394674	No	
+row_16	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	1331	-0.3630671501159668	0.03392682	No	
+row_17	GPX3	glutathione peroxidase 3 [Source:HGNC Symbol;Acc:HGNC:4555]	1371	-0.3820860981941223	0.09249325	No	

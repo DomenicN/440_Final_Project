@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MMP12	matrix metallopeptidase 12 [Source:HGNC Symbol;Acc:HGNC:7158]	103	0.3184586763381958	-0.037335433	No	
+row_1	HSD11B1	hydroxysteroid 11-beta dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:5208]	198	0.20325860381126404	-0.08036307	No	
+row_2	SMPD3	sphingomyelin phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:14240]	258	0.14831241965293884	-0.105244726	No	
+row_3	LAMA1	laminin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6481]	291	0.12403398752212524	-0.11427217	No	
+row_4	SOX11	SRY-box transcription factor 11 [Source:HGNC Symbol;Acc:HGNC:11191]	320	0.106447733938694	-0.12238456	No	
+row_5	EDN2	endothelin 2 [Source:HGNC Symbol;Acc:HGNC:3177]	363	0.0774415135383606	-0.14298055	No	
+row_6	SPRY2	sprouty RTK signaling antagonist 2 [Source:HGNC Symbol;Acc:HGNC:11270]	457	0.01795578934252262	-0.20431969	No	
+row_7	BASP1	brain abundant membrane attached signal protein 1 [Source:HGNC Symbol;Acc:HGNC:957]	474	0.010275444947183132	-0.21413617	No	
+row_8	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	489	0.002353942720219493	-0.22340578	No	
+row_9	HIKESHI	heat shock protein nuclear import factor hikeshi [Source:HGNC Symbol;Acc:HGNC:26938]	559	-0.031787723302841187	-0.267023	No	
+row_10	PHOX2B	paired like homeobox 2B [Source:HGNC Symbol;Acc:HGNC:9143]	609	-0.058212652802467346	-0.2943451	No	
+row_11	GNG8	G protein subunit gamma 8 [Source:HGNC Symbol;Acc:HGNC:19664]	634	-0.0714263990521431	-0.3033293	No	
+row_12	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	670	-0.08983606100082397	-0.31789955	No	
+row_13	HOXA5	homeobox A5 [Source:HGNC Symbol;Acc:HGNC:5106]	732	-0.12479612976312637	-0.34655	No	
+row_14	IGFBP5	insulin like growth factor binding protein 5 [Source:HGNC Symbol;Acc:HGNC:5474]	755	-0.13605229556560516	-0.34755224	No	
+row_15	RAB3A	"RAB3A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9777]"	838	-0.18475429713726044	-0.38432413	No	
+row_16	GPC3	glypican 3 [Source:HGNC Symbol;Acc:HGNC:4451]	884	-0.20671699941158295	-0.3937093	No	
+row_17	PTN	pleiotrophin [Source:HGNC Symbol;Acc:HGNC:9630]	944	-0.2417324185371399	-0.40901676	No	
+row_18	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	975	-0.2552524507045746	-0.40323752	No	
+row_19	TNC	tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	1116	-0.2997637987136841	-0.46762478	Yes	
+row_20	AARD	alanine and arginine rich domain containing protein [Source:HGNC Symbol;Acc:HGNC:33842]	1125	-0.301021546125412	-0.4422092	Yes	
+row_21	CHI3L1	chitinase 3 like 1 [Source:HGNC Symbol;Acc:HGNC:1932]	1173	-0.3019251525402069	-0.4431956	Yes	
+row_22	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	1190	-0.3054347634315491	-0.42276254	Yes	
+row_23	MMP14	matrix metallopeptidase 14 [Source:HGNC Symbol;Acc:HGNC:7160]	1191	-0.3061200976371765	-0.3913897	Yes	
+row_24	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	1232	-0.31841161847114563	-0.38593102	Yes	
+row_25	CCN2	cellular communication network factor 2 [Source:HGNC Symbol;Acc:HGNC:2500]	1248	-0.32522132992744446	-0.36279076	Yes	
+row_26	LOXL3	lysyl oxidase like 3 [Source:HGNC Symbol;Acc:HGNC:13869]	1269	-0.33326563239097595	-0.34222284	Yes	
+row_27	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	1296	-0.3439367115497589	-0.32463735	Yes	
+row_28	SPARC	secreted protein acidic and cysteine rich [Source:HGNC Symbol;Acc:HGNC:11219]	1315	-0.35486260056495667	-0.30049735	Yes	
+row_29	LAMA5	laminin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	1341	-0.36832940578460693	-0.27973264	Yes	
+row_30	LOX	lysyl oxidase [Source:HGNC Symbol;Acc:HGNC:6664]	1380	-0.3862215280532837	-0.26596576	Yes	
+row_31	ARG1	arginase 1 [Source:HGNC Symbol;Acc:HGNC:663]	1397	-0.39762771129608154	-0.23608424	Yes	
+row_32	RCN3	reticulocalbin 3 [Source:HGNC Symbol;Acc:HGNC:21145]	1453	-0.4493486285209656	-0.22739667	Yes	
+row_33	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.18580844	Yes	
+row_34	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	1468	-0.47118115425109863	-0.14091595	Yes	
+row_35	KLF2	Kruppel like factor 2 [Source:HGNC Symbol;Acc:HGNC:6347]	1486	-0.505791187286377	-0.1006286	Yes	
+row_36	RBP4	retinol binding protein 4 [Source:HGNC Symbol;Acc:HGNC:9922]	1495	-0.5419747233390808	-0.050518837	Yes	
+row_37	CRISPLD2	cysteine rich secretory protein LCCL domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25248]	1501	-0.5791106224060059	0.0054348633	Yes	

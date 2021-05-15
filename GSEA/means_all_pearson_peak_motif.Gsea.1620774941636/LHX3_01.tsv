@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAC1	tachykinin precursor 1 [Source:HGNC Symbol;Acc:HGNC:11517]	199	0.20248159766197205	-0.08953132	No	
+row_1	NREP	neuronal regeneration related protein [Source:HGNC Symbol;Acc:HGNC:16834]	303	0.11592654883861542	-0.13342316	No	
+row_2	ID3	"inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]"	345	0.09081735461950302	-0.14106251	No	
+row_3	COL4A3	collagen type IV alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2204]	379	0.06700477749109268	-0.14855212	No	
+row_4	PCSK2	proprotein convertase subtilisin/kexin type 2 [Source:HGNC Symbol;Acc:HGNC:8744]	451	0.01875528320670128	-0.19226779	No	
+row_5	OPRM1	opioid receptor mu 1 [Source:HGNC Symbol;Acc:HGNC:8156]	487	0.003329536644741893	-0.21511988	No	
+row_6	PRRX1	paired related homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9142]	501	-0.004290629178285599	-0.22293563	No	
+row_7	OSR2	odd-skipped related transciption factor 2 [Source:HGNC Symbol;Acc:HGNC:15830]	503	-0.0046761115081608295	-0.22258028	No	
+row_8	DCX	doublecortin [Source:HGNC Symbol;Acc:HGNC:2714]	504	-0.004741968587040901	-0.22153659	No	
+row_9	TAFA1	TAFA chemokine like family member 1 [Source:HGNC Symbol;Acc:HGNC:21587]	509	-0.0062446617521345615	-0.22285756	No	
+row_10	KALRN	kalirin RhoGEF kinase [Source:HGNC Symbol;Acc:HGNC:4814]	518	-0.01087872963398695	-0.22585402	No	
+row_11	PCDH10	protocadherin 10 [Source:HGNC Symbol;Acc:HGNC:13404]	533	-0.019119396805763245	-0.23107985	No	
+row_12	PHOX2B	paired like homeobox 2B [Source:HGNC Symbol;Acc:HGNC:9143]	609	-0.058212652802467346	-0.26880646	No	
+row_13	MYL1	myosin light chain 1 [Source:HGNC Symbol;Acc:HGNC:7582]	620	-0.06391658633947372	-0.2614771	No	
+row_14	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	704	-0.1084197610616684	-0.2935441	No	
+row_15	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	796	-0.16015076637268066	-0.31961605	No	
+row_16	CGA	"glycoprotein hormones, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:1885]"	826	-0.17884455621242523	-0.29979458	No	
+row_17	FGF19	fibroblast growth factor 19 [Source:HGNC Symbol;Acc:HGNC:3675]	1026	-0.27699562907218933	-0.37292555	No	
+row_18	BARHL1	BarH like homeobox 1 [Source:HGNC Symbol;Acc:HGNC:953]	1152	-0.30151134729385376	-0.3907954	Yes	
+row_19	KRT23	keratin 23 [Source:HGNC Symbol;Acc:HGNC:6438]	1153	-0.30151134729385376	-0.3244335	Yes	
+row_20	PRL	prolactin [Source:HGNC Symbol;Acc:HGNC:9445]	1175	-0.302083820104599	-0.2720965	Yes	
+row_21	ARNTL	aryl hydrocarbon receptor nuclear translocator like [Source:HGNC Symbol;Acc:HGNC:701]	1211	-0.31243962049484253	-0.22691421	Yes	
+row_22	CXCL13	C-X-C motif chemokine ligand 13 [Source:HGNC Symbol;Acc:HGNC:10639]	1274	-0.3352290391921997	-0.19491008	Yes	
+row_23	FBLN2	fibulin 2 [Source:HGNC Symbol;Acc:HGNC:3601]	1350	-0.37246015667915344	-0.16347158	Yes	
+row_24	MSX2	msh homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7392]	1498	-0.5486116409301758	-0.14178008	Yes	
+row_25	PITX2	paired like homeodomain 2 [Source:HGNC Symbol;Acc:HGNC:9005]	1506	-0.6747854351997375	0.0020215996	Yes	

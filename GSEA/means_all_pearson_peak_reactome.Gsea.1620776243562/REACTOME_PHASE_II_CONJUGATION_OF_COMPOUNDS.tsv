@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MGST1	microsomal glutathione S-transferase 1 [Source:HGNC Symbol;Acc:HGNC:7061]	7	0.509557843208313	0.09110567	Yes	
+row_1	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.12896174	Yes	
+row_2	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.1989054	Yes	
+row_3	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.26860395	Yes	
+row_4	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.3382777	Yes	
+row_5	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.40698937	Yes	
+row_6	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.47273442	Yes	
+row_7	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.5411373	Yes	
+row_8	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	106	0.315805047750473	0.57638025	Yes	
+row_9	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	147	0.2687534689903259	0.6000965	Yes	
+row_10	MGST3	microsomal glutathione S-transferase 3 [Source:HGNC Symbol;Acc:HGNC:7064]	153	0.25936466455459595	0.6455061	Yes	
+row_11	GSTM1	glutathione S-transferase mu 1 [Source:HGNC Symbol;Acc:HGNC:4632]	175	0.2340511679649353	0.67543286	Yes	
+row_12	GLYAT	glycine-N-acyltransferase [Source:HGNC Symbol;Acc:HGNC:13734]	344	0.09095744043588638	0.5799324	No	
+row_13	MGST2	microsomal glutathione S-transferase 2 [Source:HGNC Symbol;Acc:HGNC:7063]	500	-0.003220265032723546	0.47665042	No	
+row_14	GSTT2	glutathione S-transferase theta 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:4642]	865	-0.19598440825939178	0.26952785	No	
+row_15	SULT2A1	sulfotransferase family 2A member 1 [Source:HGNC Symbol;Acc:HGNC:11458]	978	-0.2557598948478699	0.24254392	No	
+row_16	PODXL2	podocalyxin like 2 [Source:HGNC Symbol;Acc:HGNC:17936]	1094	-0.2943032681941986	0.22079547	No	
+row_17	SULT1E1	sulfotransferase family 1E member 1 [Source:HGNC Symbol;Acc:HGNC:11377]	1146	-0.30151134729385376	0.24329759	No	

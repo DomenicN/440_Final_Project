@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	50	0.3796742558479309	0.061029963	No	
+row_1	C3AR1	complement C3a receptor 1 [Source:HGNC Symbol;Acc:HGNC:1319]	261	0.14755740761756897	-0.042806707	No	
+row_2	C1QC	complement C1q C chain [Source:HGNC Symbol;Acc:HGNC:1245]	524	-0.013545284979045391	-0.21480356	No	
+row_3	C1QB	complement C1q B chain [Source:HGNC Symbol;Acc:HGNC:1242]	544	-0.021791141480207443	-0.2220975	No	
+row_4	C1QA	complement C1q A chain [Source:HGNC Symbol;Acc:HGNC:1241]	717	-0.11404962092638016	-0.30883884	No	
+row_5	SERPING1	serpin family G member 1 [Source:HGNC Symbol;Acc:HGNC:1228]	748	-0.13257819414138794	-0.29592177	No	
+row_6	PLAUR	"plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]"	829	-0.17967276275157928	-0.30475053	No	
+row_7	C1R	complement C1r [Source:HGNC Symbol;Acc:HGNC:1246]	955	-0.2455955147743225	-0.32729223	No	
+row_8	SERPINA1	serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941]	1136	-0.30151134729385376	-0.37273097	Yes	
+row_9	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	1154	-0.30151134729385376	-0.30906662	Yes	
+row_10	THBD	thrombomodulin [Source:HGNC Symbol;Acc:HGNC:11784]	1207	-0.3103732168674469	-0.26662368	Yes	
+row_11	SERPINE1	serpin family E member 1 [Source:HGNC Symbol;Acc:HGNC:8583]	1221	-0.31629201769828796	-0.19660321	Yes	
+row_12	F3	"coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]"	1230	-0.3181763291358948	-0.12276702	Yes	
+row_13	KNG1	kininogen 1 [Source:HGNC Symbol;Acc:HGNC:6383]	1357	-0.37718725204467773	-0.1132262	Yes	
+row_14	C1S	complement C1s [Source:HGNC Symbol;Acc:HGNC:1247]	1422	-0.4187310039997101	-0.05184621	Yes	
+row_15	TFPI	tissue factor pathway inhibitor [Source:HGNC Symbol;Acc:HGNC:11760]	1446	-0.4395908713340759	0.042168695	Yes	

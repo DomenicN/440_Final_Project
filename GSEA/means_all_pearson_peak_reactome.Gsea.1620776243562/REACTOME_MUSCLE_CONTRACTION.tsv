@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	101	0.3190290033817291	-0.031227177	No	
+row_1	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	109	0.31026989221572876	8.453708E-5	No	
+row_2	ACTG2	"actin gamma 2, smooth muscle [Source:HGNC Symbol;Acc:HGNC:145]"	122	0.29911935329437256	0.026720209	No	
+row_3	ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:813]	177	0.23048673570156097	0.016985135	No	
+row_4	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	202	0.19746707379817963	0.023698078	No	
+row_5	KCNK2	potassium two pore domain channel subfamily K member 2 [Source:HGNC Symbol;Acc:HGNC:6277]	251	0.15413303673267365	0.0091496445	No	
+row_6	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	314	0.11209279298782349	-0.019748539	No	
+row_7	TNNT3	"troponin T3, fast skeletal type [Source:HGNC Symbol;Acc:HGNC:11950]"	394	0.05758382007479668	-0.06647339	No	
+row_8	MYL1	myosin light chain 1 [Source:HGNC Symbol;Acc:HGNC:7582]	620	-0.06391658633947372	-0.21117789	No	
+row_9	ATP2B1	ATPase plasma membrane Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:814]	655	-0.08206415921449661	-0.22463284	No	
+row_10	NPPA	natriuretic peptide A [Source:HGNC Symbol;Acc:HGNC:7939]	678	-0.09351284801959991	-0.22864419	No	
+row_11	TPM1	tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	727	-0.12095149606466293	-0.2470474	No	
+row_12	ACTA2	"actin alpha 2, smooth muscle [Source:HGNC Symbol;Acc:HGNC:130]"	771	-0.14707638323307037	-0.25903493	No	
+row_13	MYH11	myosin heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:7569]	848	-0.1877615600824356	-0.2886084	No	
+row_14	RYR3	ryanodine receptor 3 [Source:HGNC Symbol;Acc:HGNC:10485]	873	-0.2001262903213501	-0.28158653	No	
+row_15	NPPC	natriuretic peptide C [Source:HGNC Symbol;Acc:HGNC:7941]	909	-0.22060750424861908	-0.27962276	No	
+row_16	SCN4B	sodium voltage-gated channel beta subunit 4 [Source:HGNC Symbol;Acc:HGNC:10592]	1052	-0.28443220257759094	-0.34259057	No	
+row_17	TPM2	tropomyosin 2 [Source:HGNC Symbol;Acc:HGNC:12011]	1067	-0.28801214694976807	-0.3185975	No	
+row_18	MYL10	myosin light chain 10 [Source:HGNC Symbol;Acc:HGNC:29825]	1077	-0.290318101644516	-0.2909559	No	
+row_19	TNNT1	"troponin T1, slow skeletal type [Source:HGNC Symbol;Acc:HGNC:11948]"	1184	-0.3031286597251892	-0.3274109	No	
+row_20	MYL9	myosin light chain 9 [Source:HGNC Symbol;Acc:HGNC:15754]	1202	-0.30955663323402405	-0.30294338	No	
+row_21	MYL7	myosin light chain 7 [Source:HGNC Symbol;Acc:HGNC:21719]	1349	-0.37208110094070435	-0.35843337	Yes	
+row_22	ACTA1	"actin alpha 1, skeletal muscle [Source:HGNC Symbol;Acc:HGNC:129]"	1369	-0.38165703415870667	-0.32694206	Yes	
+row_23	ACTC1	actin alpha cardiac muscle 1 [Source:HGNC Symbol;Acc:HGNC:143]	1388	-0.38989418745040894	-0.2938177	Yes	
+row_24	FXYD3	FXYD domain containing ion transport regulator 3 [Source:HGNC Symbol;Acc:HGNC:4027]	1393	-0.3954697847366333	-0.25057974	Yes	
+row_25	MYLPF	"myosin light chain, phosphorylatable, fast skeletal muscle [Source:HGNC Symbol;Acc:HGNC:29824]"	1410	-0.4085484743118286	-0.21393602	Yes	
+row_26	MYL4	myosin light chain 4 [Source:HGNC Symbol;Acc:HGNC:7585]	1423	-0.41927027702331543	-0.17334218	Yes	
+row_27	FXYD1	FXYD domain containing ion transport regulator 1 [Source:HGNC Symbol;Acc:HGNC:4025]	1459	-0.45822805166244507	-0.1437736	Yes	
+row_28	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	1469	-0.4766983687877655	-0.094479844	Yes	
+row_29	SCN1B	sodium voltage-gated channel beta subunit 1 [Source:HGNC Symbol;Acc:HGNC:10586]	1485	-0.5023329854011536	-0.046264857	Yes	
+row_30	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	1494	-0.5321084856987	0.0101421345	Yes	

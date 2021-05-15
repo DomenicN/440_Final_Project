@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RTRAF	"RNA transcription, translation and transport factor [Source:HGNC Symbol;Acc:HGNC:23169]"	456	0.01799335889518261	-0.29932618	No	
+row_1	DCX	doublecortin [Source:HGNC Symbol;Acc:HGNC:2714]	504	-0.004741968587040901	-0.3292646	No	
+row_2	NOL4L	nucleolar protein 4 like [Source:HGNC Symbol;Acc:HGNC:16106]	585	-0.04788188263773918	-0.3676333	No	
+row_3	BDNF	brain derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:1033]	604	-0.05579611286520958	-0.36202747	No	
+row_4	PHOX2B	paired like homeobox 2B [Source:HGNC Symbol;Acc:HGNC:9143]	609	-0.058212652802467346	-0.34629285	No	
+row_5	ELAVL2	ELAV like RNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3313]	621	-0.06393291056156158	-0.33343142	No	
+row_6	ELAVL4	ELAV like RNA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:3315]	818	-0.17247247695922852	-0.40998933	No	
+row_7	ADCYAP1	adenylate cyclase activating polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:241]	1025	-0.2767486870288849	-0.46025804	Yes	
+row_8	IFNK	interferon kappa [Source:HGNC Symbol;Acc:HGNC:21714]	1093	-0.2942166030406952	-0.41202578	Yes	
+row_9	OTP	orthopedia homeobox [Source:HGNC Symbol;Acc:HGNC:8518]	1137	-0.30151134729385376	-0.345433	Yes	
+row_10	BARHL1	BarH like homeobox 1 [Source:HGNC Symbol;Acc:HGNC:953]	1152	-0.30151134729385376	-0.2594422	Yes	
+row_11	ERG	ETS transcription factor ERG [Source:HGNC Symbol;Acc:HGNC:3446]	1226	-0.3174959421157837	-0.20786108	Yes	
+row_12	PNOC	prepronociceptin [Source:HGNC Symbol;Acc:HGNC:9163]	1353	-0.3741176426410675	-0.17382437	Yes	
+row_13	TNMD	tenomodulin [Source:HGNC Symbol;Acc:HGNC:17757]	1420	-0.4156189560890198	-0.08652878	Yes	
+row_14	SERPINF1	serpin family F member 1 [Source:HGNC Symbol;Acc:HGNC:8824]	1463	-0.45972543954849243	0.030769357	Yes	

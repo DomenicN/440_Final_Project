@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EHF	ETS homologous factor [Source:HGNC Symbol;Acc:HGNC:3246]	39	0.3926125466823578	0.060663234	Yes	
+row_1	TIPARP	TCDD inducible poly(ADP-ribose) polymerase [Source:HGNC Symbol;Acc:HGNC:23696]	40	0.391708105802536	0.14745961	Yes	
+row_2	S100A6	S100 calcium binding protein A6 [Source:HGNC Symbol;Acc:HGNC:10496]	60	0.3691079020500183	0.21641898	Yes	
+row_3	EXOSC2	exosome component 2 [Source:HGNC Symbol;Acc:HGNC:17097]	81	0.348597913980484	0.28015843	Yes	
+row_4	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	124	0.29552096128463745	0.31728202	Yes	
+row_5	TSPAN8	tetraspanin 8 [Source:HGNC Symbol;Acc:HGNC:11855]	162	0.25072675943374634	0.34785604	Yes	
+row_6	RPLP0	ribosomal protein lateral stalk subunit P0 [Source:HGNC Symbol;Acc:HGNC:10371]	183	0.22600650787353516	0.38443115	Yes	
+row_7	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	203	0.19677749276161194	0.4152048	Yes	
+row_8	NSD3	nuclear receptor binding SET domain protein 3 [Source:HGNC Symbol;Acc:HGNC:12767]	236	0.16765473783016205	0.43074742	Yes	
+row_9	RBM3	RNA binding motif protein 3 [Source:HGNC Symbol;Acc:HGNC:9900]	301	0.11670763790607452	0.41339397	Yes	
+row_10	RPL10	ribosomal protein L10 [Source:HGNC Symbol;Acc:HGNC:10298]	305	0.11506337672472	0.43686455	Yes	
+row_11	FAU	FAU ubiquitin like and ribosomal protein S30 fusion [Source:HGNC Symbol;Acc:HGNC:3597]	315	0.10990303009748459	0.45514038	Yes	
+row_12	HECTD4	HECT domain E3 ubiquitin protein ligase 4 [Source:HGNC Symbol;Acc:HGNC:26611]	339	0.09538894891738892	0.46074703	Yes	
+row_13	ATP5MC2	ATP synthase membrane subunit c locus 2 [Source:HGNC Symbol;Acc:HGNC:842]	417	0.04321669414639473	0.41833127	No	
+row_14	RPS3A	ribosomal protein S3A [Source:HGNC Symbol;Acc:HGNC:10421]	429	0.03559090942144394	0.41879025	No	
+row_15	ETFBKMT	electron transfer flavoprotein subunit beta lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:28739]	440	0.027155837044119835	0.41805536	No	
+row_16	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	477	0.009643237106502056	0.39588425	No	
+row_17	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [Source:HGNC Symbol;Acc:HGNC:1987]	478	0.008975071832537651	0.39787298	No	
+row_18	RACK1	receptor for activated C kinase 1 [Source:HGNC Symbol;Acc:HGNC:4399]	490	0.00206623412668705	0.3909034	No	
+row_19	YBX1	Y-box binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8014]	491	0.0018686347175389528	0.39131746	No	
+row_20	GMCL1	"germ cell-less 1, spermatogenesis associated [Source:HGNC Symbol;Acc:HGNC:23843]"	586	-0.04833207279443741	0.33855647	No	
+row_21	AHI1	Abelson helper integration site 1 [Source:HGNC Symbol;Acc:HGNC:21575]	600	-0.05414270609617233	0.3417758	No	
+row_22	KRT8	keratin 8 [Source:HGNC Symbol;Acc:HGNC:6446]	631	-0.0697760060429573	0.3369805	No	
+row_23	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]	702	-0.1057509258389473	0.31314787	No	
+row_24	FMN1	formin 1 [Source:HGNC Symbol;Acc:HGNC:3768]	733	-0.1256830245256424	0.32074067	No	
+row_25	DCAF17	DDB1 and CUL4 associated factor 17 [Source:HGNC Symbol;Acc:HGNC:25784]	784	-0.15450990200042725	0.32121667	No	
+row_26	HMOX1	heme oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:5013]	823	-0.1776341199874878	0.33491927	No	
+row_27	GABARAP	GABA type A receptor-associated protein [Source:HGNC Symbol;Acc:HGNC:4067]	982	-0.25841081142425537	0.2854944	No	
+row_28	CSF1	colony stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:2432]	1217	-0.31442275643348694	0.19716421	No	

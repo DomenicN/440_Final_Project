@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	73	0.36050134897232056	0.07298413	Yes	
+row_1	RPL38	ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:10349]	78	0.3552364110946655	0.19049557	Yes	
+row_2	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	173	0.2374507635831833	0.20775096	Yes	
+row_3	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	182	0.22630618512630463	0.27895367	Yes	
+row_4	RPLP1	ribosomal protein lateral stalk subunit P1 [Source:HGNC Symbol;Acc:HGNC:10372]	201	0.1977231800556183	0.33377373	Yes	
+row_5	FDX2	ferredoxin 2 [Source:HGNC Symbol;Acc:HGNC:30546]	233	0.1696966141462326	0.37038606	Yes	
+row_6	ST7	suppression of tumorigenicity 7 [Source:HGNC Symbol;Acc:HGNC:11351]	245	0.15952418744564056	0.4169793	Yes	
+row_7	RPS4X	ribosomal protein S4 X-linked [Source:HGNC Symbol;Acc:HGNC:10424]	273	0.1367633044719696	0.44513306	Yes	
+row_8	EIF5A	eukaryotic translation initiation factor 5A [Source:HGNC Symbol;Acc:HGNC:3300]	282	0.13109681010246277	0.48412117	Yes	
+row_9	RGS5	regulator of G protein signaling 5 [Source:HGNC Symbol;Acc:HGNC:10001]	292	0.12308644503355026	0.5197278	Yes	
+row_10	NREP	neuronal regeneration related protein [Source:HGNC Symbol;Acc:HGNC:16834]	303	0.11592654883861542	0.5522407	Yes	
+row_11	MRPL53	mitochondrial ribosomal protein L53 [Source:HGNC Symbol;Acc:HGNC:16684]	321	0.10635636001825333	0.5768175	Yes	
+row_12	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	362	0.07777255773544312	0.5762866	Yes	
+row_13	NME1-NME2	NME1-NME2 readthrough [Source:HGNC Symbol;Acc:HGNC:33531]	374	0.0693056657910347	0.592354	Yes	
+row_14	RCC1	regulator of chromosome condensation 1 [Source:HGNC Symbol;Acc:HGNC:1913]	424	0.037386298179626465	0.5721179	No	
+row_15	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	464	0.014581971801817417	0.55087733	No	
+row_16	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	616	-0.06300358474254608	0.4708526	No	
+row_17	VAV1	vav guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:12657]	686	-0.09925055503845215	0.4581258	No	
+row_18	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]	702	-0.1057509258389473	0.48384002	No	
+row_19	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	812	-0.1687563806772232	0.4677852	No	

@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EFEMP1	EGF containing fibulin extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	444	0.025409085676074028	-0.2920646	No	
+row_1	FBLN5	fibulin 5 [Source:HGNC Symbol;Acc:HGNC:3602]	448	0.02207306958734989	-0.28962123	No	
+row_2	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	705	-0.10849088430404663	-0.43909433	No	
+row_3	EMILIN1	elastin microfibril interfacer 1 [Source:HGNC Symbol;Acc:HGNC:19880]	1070	-0.28862062096595764	-0.6245305	Yes	
+row_4	MFAP4	microfibril associated protein 4 [Source:HGNC Symbol;Acc:HGNC:7035]	1108	-0.29764971137046814	-0.58927023	Yes	
+row_5	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	1135	-0.30151131749153137	-0.54586846	Yes	
+row_6	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	1232	-0.31841161847114563	-0.54591256	Yes	
+row_7	FBLN1	fibulin 1 [Source:HGNC Symbol;Acc:HGNC:3600]	1243	-0.3235108256340027	-0.48736474	Yes	
+row_8	LTBP2	latent transforming growth factor beta binding protein 2 [Source:HGNC Symbol;Acc:HGNC:6715]	1287	-0.33892595767974854	-0.44779655	Yes	
+row_9	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	1323	-0.3583299219608307	-0.39896047	Yes	
+row_10	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	1335	-0.36475124955177307	-0.3327652	Yes	
+row_11	FBLN2	fibulin 2 [Source:HGNC Symbol;Acc:HGNC:3601]	1350	-0.37246015667915344	-0.2670233	Yes	
+row_12	ELN	elastin [Source:HGNC Symbol;Acc:HGNC:3327]	1454	-0.4497087001800537	-0.24527457	Yes	
+row_13	MFAP5	microfibril associated protein 5 [Source:HGNC Symbol;Acc:HGNC:29673]	1461	-0.4588227868080139	-0.15676148	Yes	
+row_14	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.06423169	Yes	
+row_15	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	1468	-0.47118115425109863	0.027443014	Yes	

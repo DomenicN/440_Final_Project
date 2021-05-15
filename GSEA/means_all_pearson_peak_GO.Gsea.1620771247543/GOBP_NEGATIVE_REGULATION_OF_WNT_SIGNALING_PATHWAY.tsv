@@ -1,0 +1,33 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SHISA3	shisa family member 3 [Source:HGNC Symbol;Acc:HGNC:25159]	0	0.6350057721138	0.06997335	No	
+row_1	DKK4	dickkopf WNT signaling pathway inhibitor 4 [Source:HGNC Symbol;Acc:HGNC:2894]	294	0.12082095444202423	-0.11495385	No	
+row_2	ISL1	ISL LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6132]	318	0.10786421597003937	-0.118629515	No	
+row_3	TLE5	"TLE family member 5, transcriptional modulator [Source:HGNC Symbol;Acc:HGNC:307]"	449	0.021407170221209526	-0.20422728	No	
+row_4	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	458	0.016846800222992897	-0.2077836	No	
+row_5	TMEM131L	transmembrane 131 like [Source:HGNC Symbol;Acc:HGNC:29146]	480	0.00854493584483862	-0.2210504	No	
+row_6	RACK1	receptor for activated C kinase 1 [Source:HGNC Symbol;Acc:HGNC:4399]	490	0.00206623412668705	-0.22691202	No	
+row_7	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	597	-0.05299721285700798	-0.29279062	No	
+row_8	DKK2	dickkopf WNT signaling pathway inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:2892]	622	-0.06507532298564911	-0.30185792	No	
+row_9	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	690	-0.10144675523042679	-0.3360107	No	
+row_10	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	694	-0.10333802551031113	-0.32665333	No	
+row_11	RBMS3	RNA binding motif single stranded interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:13427]	701	-0.1054629385471344	-0.31909156	No	
+row_12	GPC3	glypican 3 [Source:HGNC Symbol;Acc:HGNC:4451]	884	-0.20671699941158295	-0.4194521	No	
+row_13	CITED1	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 1 [Source:HGNC Symbol;Acc:HGNC:1986]	890	-0.2101229876279831	-0.3996809	No	
+row_14	DKK1	dickkopf WNT signaling pathway inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:2891]	923	-0.2301630824804306	-0.3959694	No	
+row_15	SOX10	SRY-box transcription factor 10 [Source:HGNC Symbol;Acc:HGNC:11190]	1018	-0.2749854326248169	-0.42926732	No	
+row_16	SOX17	SRY-box transcription factor 17 [Source:HGNC Symbol;Acc:HGNC:18122]	1172	-0.30151140689849854	-0.49956104	No	
+row_17	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	1257	-0.32975485920906067	-0.52005786	Yes	
+row_18	IGFBP6	insulin like growth factor binding protein 6 [Source:HGNC Symbol;Acc:HGNC:5475]	1266	-0.33205363154411316	-0.48888052	Yes	
+row_19	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1283	-0.3376322090625763	-0.46250117	Yes	
+row_20	MDK	midkine [Source:HGNC Symbol;Acc:HGNC:6972]	1312	-0.3533845543861389	-0.4425051	Yes	
+row_21	SFRP2	secreted frizzled related protein 2 [Source:HGNC Symbol;Acc:HGNC:10777]	1337	-0.3655227720737457	-0.4184651	Yes	
+row_22	SOSTDC1	sclerostin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21748]	1405	-0.40488001704216003	-0.4191816	Yes	
+row_23	NOTUM	"notum, palmitoleoyl-protein carboxylesterase [Source:HGNC Symbol;Acc:HGNC:27106]"	1406	-0.40571537613868713	-0.3744745	Yes	
+row_24	CTHRC1	collagen triple helix repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:18831]	1419	-0.41518479585647583	-0.336843	Yes	
+row_25	IGFBP2	insulin like growth factor binding protein 2 [Source:HGNC Symbol;Acc:HGNC:5471]	1424	-0.41954001784324646	-0.2933189	Yes	
+row_26	SFRP5	secreted frizzled related protein 5 [Source:HGNC Symbol;Acc:HGNC:10779]	1441	-0.43607234954833984	-0.2560921	Yes	
+row_27	NKD1	NKD inhibitor of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:17045]	1480	-0.49371251463890076	-0.22739874	Yes	
+row_28	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	1489	-0.5104344487190247	-0.17656504	Yes	
+row_29	SFRP4	secreted frizzled related protein 4 [Source:HGNC Symbol;Acc:HGNC:10778]	1490	-0.5148093104362488	-0.119836524	Yes	
+row_30	DKKL1	dickkopf like acrosomal protein 1 [Source:HGNC Symbol;Acc:HGNC:16528]	1493	-0.5319274067878723	-0.0625749	Yes	
+row_31	IGFBP4	insulin like growth factor binding protein 4 [Source:HGNC Symbol;Acc:HGNC:5473]	1505	-0.6599653959274292	0.0027063417	Yes	

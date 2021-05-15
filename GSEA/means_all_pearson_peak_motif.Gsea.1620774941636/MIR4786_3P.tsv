@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.04842872	Yes	
+row_1	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.13431299	Yes	
+row_2	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.21989627	Yes	
+row_3	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.30544916	Yes	
+row_4	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.38997293	Yes	
+row_5	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.47146323	Yes	
+row_6	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.55560786	Yes	
+row_7	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	124	0.29552096128463745	0.58761084	Yes	
+row_8	SLC6A16	solute carrier family 6 member 16 [Source:HGNC Symbol;Acc:HGNC:13622]	210	0.1905261129140854	0.5745846	Yes	
+row_9	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	259	0.14821434020996094	0.5766064	Yes	
+row_10	ADGRD1	adhesion G protein-coupled receptor D1 [Source:HGNC Symbol;Acc:HGNC:19893]	268	0.14017896354198456	0.6036008	Yes	
+row_11	ADGRF5	adhesion G protein-coupled receptor F5 [Source:HGNC Symbol;Acc:HGNC:19030]	553	-0.027423739433288574	0.41945535	No	
+row_12	NOL4L	nucleolar protein 4 like [Source:HGNC Symbol;Acc:HGNC:16106]	585	-0.04788188263773918	0.40971735	No	
+row_13	SYT1	synaptotagmin 1 [Source:HGNC Symbol;Acc:HGNC:11509]	632	-0.06993547827005386	0.39501002	No	
+row_14	ATP2B1	ATPase plasma membrane Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:814]	655	-0.08206415921449661	0.39919913	No	
+row_15	CBLN2	cerebellin 2 precursor [Source:HGNC Symbol;Acc:HGNC:1544]	735	-0.1265869289636612	0.37543684	No	
+row_16	SNCA	synuclein alpha [Source:HGNC Symbol;Acc:HGNC:11138]	747	-0.13138440251350403	0.398389	No	
+row_17	APELA	apelin receptor early endogenous ligand [Source:HGNC Symbol;Acc:HGNC:48925]	780	-0.15180696547031403	0.41197118	No	
+row_18	FIBIN	fin bud initiation factor homolog [Source:HGNC Symbol;Acc:HGNC:33747]	1261	-0.3304855227470398	0.1663314	No	

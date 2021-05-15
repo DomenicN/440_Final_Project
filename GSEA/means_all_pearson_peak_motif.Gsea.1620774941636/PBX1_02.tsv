@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	203	0.19677749276161194	-0.09547657	No	
+row_1	COL4A3	collagen type IV alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2204]	379	0.06700477749109268	-0.19899765	No	
+row_2	CIAO2A	cytosolic iron-sulfur assembly component 2A [Source:HGNC Symbol;Acc:HGNC:26235]	443	0.025640584528446198	-0.23595129	No	
+row_3	TAFA1	TAFA chemokine like family member 1 [Source:HGNC Symbol;Acc:HGNC:21587]	509	-0.0062446617521345615	-0.27825543	No	
+row_4	MEIS2	Meis homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7001]	575	-0.04151482507586479	-0.3132693	No	
+row_5	CCL11	C-C motif chemokine ligand 11 [Source:HGNC Symbol;Acc:HGNC:10610]	684	-0.09822956472635269	-0.36539996	No	
+row_6	TSHZ2	teashirt zinc finger homeobox 2 [Source:HGNC Symbol;Acc:HGNC:13010]	766	-0.143264040350914	-0.3901134	No	
+row_7	HHEX	hematopoietically expressed homeobox [Source:HGNC Symbol;Acc:HGNC:4901]	966	-0.25175294280052185	-0.47154385	Yes	
+row_8	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	975	-0.2552524507045746	-0.42414904	Yes	
+row_9	ADCYAP1	adenylate cyclase activating polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:241]	1025	-0.2767486870288849	-0.39980927	Yes	
+row_10	OTP	orthopedia homeobox [Source:HGNC Symbol;Acc:HGNC:8518]	1137	-0.30151134729385376	-0.41193393	Yes	
+row_11	VXN	vexin [Source:HGNC Symbol;Acc:HGNC:28498]	1144	-0.30151134729385376	-0.35363606	Yes	
+row_12	PRL	prolactin [Source:HGNC Symbol;Acc:HGNC:9445]	1175	-0.302083820104599	-0.31131643	Yes	
+row_13	ABCB5	ATP binding cassette subfamily B member 5 [Source:HGNC Symbol;Acc:HGNC:46]	1251	-0.3261938989162445	-0.29419437	Yes	
+row_14	SST	somatostatin [Source:HGNC Symbol;Acc:HGNC:11329]	1278	-0.3358786702156067	-0.24220663	Yes	
+row_15	PNOC	prepronociceptin [Source:HGNC Symbol;Acc:HGNC:9163]	1353	-0.3741176426410675	-0.21450812	Yes	
+row_16	SLC43A3	solute carrier family 43 member 3 [Source:HGNC Symbol;Acc:HGNC:17466]	1359	-0.37784984707832336	-0.13976048	Yes	
+row_17	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	1471	-0.48159700632095337	-0.11466166	Yes	
+row_18	PITX2	paired like homeodomain 2 [Source:HGNC Symbol;Acc:HGNC:9005]	1506	-0.6747854351997375	0.0020121522	Yes	

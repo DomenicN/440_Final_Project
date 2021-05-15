@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	172	0.2416912317276001	-0.05297406	No	
+row_1	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	212	0.18926751613616943	-0.030406602	No	
+row_2	AP1S2	adaptor related protein complex 1 subunit sigma 2 [Source:HGNC Symbol;Acc:HGNC:560]	238	0.16600008308887482	-0.004451761	No	
+row_3	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	297	0.11805577576160431	-0.012914591	No	
+row_4	HLA-DRB1	"major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]"	441	0.02703806199133396	-0.1016777	No	
+row_5	TUBB3	tubulin beta 3 class III [Source:HGNC Symbol;Acc:HGNC:20772]	531	-0.018373560160398483	-0.15652439	No	
+row_6	TUBB4A	tubulin beta 4A class IVa [Source:HGNC Symbol;Acc:HGNC:20774]	583	-0.04777024686336517	-0.17837638	No	
+row_7	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	616	-0.06300358474254608	-0.18359344	No	
+row_8	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	1054	-0.28443652391433716	-0.40295133	Yes	
+row_9	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	1139	-0.30151134729385376	-0.38163984	Yes	
+row_10	HLA-DOB	"major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]"	1209	-0.311649888753891	-0.34768093	Yes	
+row_11	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	1259	-0.33013036847114563	-0.29558274	Yes	
+row_12	HLA-DQA1	"major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]"	1289	-0.3401789367198944	-0.2275136	Yes	
+row_13	CTSE	cathepsin E [Source:HGNC Symbol;Acc:HGNC:2530]	1333	-0.3645981550216675	-0.16253564	Yes	
+row_14	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	1367	-0.3810853362083435	-0.08662441	Yes	
+row_15	CTSB	cathepsin B [Source:HGNC Symbol;Acc:HGNC:2527]	1508	-0.703851580619812	6.6931784E-4	Yes	

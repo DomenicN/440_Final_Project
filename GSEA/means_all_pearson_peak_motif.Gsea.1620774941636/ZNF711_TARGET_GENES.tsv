@@ -1,0 +1,52 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GCH1	GTP cyclohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:4193]	14	0.4541090726852417	0.05932295	Yes	
+row_1	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	73	0.36050134897232056	0.07428174	Yes	
+row_2	NOA1	nitric oxide associated 1 [Source:HGNC Symbol;Acc:HGNC:28473]	96	0.3265123963356018	0.10875657	Yes	
+row_3	PBLD	phenazine biosynthesis like protein domain containing [Source:HGNC Symbol;Acc:HGNC:23301]	113	0.30634838342666626	0.1442836	Yes	
+row_4	PTPMT1	protein tyrosine phosphatase mitochondrial 1 [Source:HGNC Symbol;Acc:HGNC:26965]	123	0.2991170585155487	0.18351094	Yes	
+row_5	RPL22L1	ribosomal protein L22 like 1 [Source:HGNC Symbol;Acc:HGNC:27610]	126	0.29439282417297363	0.22681913	Yes	
+row_6	MT-RNR1	mitochondrially encoded 12S rRNA [Source:HGNC Symbol;Acc:HGNC:7470]	154	0.2577309310436249	0.24742824	Yes	
+row_7	RPL32	ribosomal protein L32 [Source:HGNC Symbol;Acc:HGNC:10336]	206	0.19260351359844208	0.24170355	Yes	
+row_8	PRELID3B	PRELI domain containing 3B [Source:HGNC Symbol;Acc:HGNC:15892]	222	0.17722727358341217	0.2583197	Yes	
+row_9	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	225	0.1756497323513031	0.28360668	Yes	
+row_10	PRORP	protein only RNase P catalytic subunit [Source:HGNC Symbol;Acc:HGNC:19958]	231	0.172538623213768	0.30636525	Yes	
+row_11	NSD3	nuclear receptor binding SET domain protein 3 [Source:HGNC Symbol;Acc:HGNC:12767]	236	0.16765473783016205	0.32906803	Yes	
+row_12	EEF1A1	eukaryotic translation elongation factor 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:3189]	270	0.13957126438617706	0.32763204	Yes	
+row_13	RPS23	ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:10410]	278	0.13324686884880066	0.34305665	Yes	
+row_14	RGS5	regulator of G protein signaling 5 [Source:HGNC Symbol;Acc:HGNC:10001]	292	0.12308644503355026	0.35282683	Yes	
+row_15	MRPL53	mitochondrial ribosomal protein L53 [Source:HGNC Symbol;Acc:HGNC:16684]	321	0.10635636001825333	0.34977695	Yes	
+row_16	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	324	0.10258325189352036	0.36397487	Yes	
+row_17	RPL27A	ribosomal protein L27a [Source:HGNC Symbol;Acc:HGNC:10329]	350	0.08908809721469879	0.3603604	Yes	
+row_18	RPS27	ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:10416]	355	0.08513175696134567	0.37053898	Yes	
+row_19	RPL37	ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:10347]	362	0.07777255773544312	0.37822986	Yes	
+row_20	PEG10	paternally expressed 10 [Source:HGNC Symbol;Acc:HGNC:14005]	368	0.07455828785896301	0.3861183	Yes	
+row_21	NME1-NME2	NME1-NME2 readthrough [Source:HGNC Symbol;Acc:HGNC:33531]	374	0.0693056657910347	0.39320958	Yes	
+row_22	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	375	0.06834742426872253	0.40358242	Yes	
+row_23	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	391	0.05842460319399834	0.4021683	Yes	
+row_24	SEM1	SEM1 26S proteasome complex subunit [Source:HGNC Symbol;Acc:HGNC:10845]	406	0.05157686024904251	0.40040034	Yes	
+row_25	ATP5MC2	ATP synthase membrane subunit c locus 2 [Source:HGNC Symbol;Acc:HGNC:842]	417	0.04321669414639473	0.40010518	Yes	
+row_26	RCC1	regulator of chromosome condensation 1 [Source:HGNC Symbol;Acc:HGNC:1913]	424	0.037386298179626465	0.40166676	Yes	
+row_27	SEPTIN2	septin 2 [Source:HGNC Symbol;Acc:HGNC:7729]	427	0.035911675542593	0.40574613	Yes	
+row_28	NCOA7	nuclear receptor coactivator 7 [Source:HGNC Symbol;Acc:HGNC:21081]	450	0.019657695665955544	0.3936507	No	
+row_29	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	452	0.018741441890597343	0.39580962	No	
+row_30	RPL37A	ribosomal protein L37a [Source:HGNC Symbol;Acc:HGNC:10348]	453	0.01870943233370781	0.3986491	No	
+row_31	SELENOH	selenoprotein H [Source:HGNC Symbol;Acc:HGNC:18251]	473	0.010743028484284878	0.38725692	No	
+row_32	RPS5	ribosomal protein S5 [Source:HGNC Symbol;Acc:HGNC:10426]	488	0.0028164794202893972	0.37808874	No	
+row_33	RRM2B	ribonucleotide reductase regulatory TP53 inducible subunit M2B [Source:HGNC Symbol;Acc:HGNC:17296]	494	7.289532222785056E-4	0.37477237	No	
+row_34	ARIH1	ariadne RBR E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:689]	508	-0.005610201507806778	0.36671358	No	
+row_35	SNHG3	small nucleolar RNA host gene 3 [Source:HGNC Symbol;Acc:HGNC:10118]	520	-0.011394578963518143	0.3609035	No	
+row_36	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	550	-0.025797415524721146	0.34494206	No	
+row_37	CCT6A	chaperonin containing TCP1 subunit 6A [Source:HGNC Symbol;Acc:HGNC:1620]	569	-0.037998657673597336	0.33837175	No	
+row_38	KANSL2	KAT8 regulatory NSL complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:26024]	577	-0.04190851375460625	0.33993426	No	
+row_39	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	588	-0.04961687698960304	0.34061044	No	
+row_40	ZFAS1	ZNFX1 antisense RNA 1 [Source:HGNC Symbol;Acc:HGNC:33101]	608	-0.058198340237140656	0.3364204	No	
+row_41	USP40	ubiquitin specific peptidase 40 [Source:HGNC Symbol;Acc:HGNC:20069]	700	-0.10527843236923218	0.29002663	No	
+row_42	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]	702	-0.1057509258389473	0.3053907	No	
+row_43	KMT5B	lysine methyltransferase 5B [Source:HGNC Symbol;Acc:HGNC:24283]	729	-0.12164518982172012	0.30603194	No	
+row_44	TTC3	tetratricopeptide repeat domain 3 [Source:HGNC Symbol;Acc:HGNC:12393]	751	-0.13410277664661407	0.31199083	No	
+row_45	DCAF17	DDB1 and CUL4 associated factor 17 [Source:HGNC Symbol;Acc:HGNC:25784]	784	-0.15450990200042725	0.31350744	No	
+row_46	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	851	-0.18895038962364197	0.29694733	No	
+row_47	STMN3	stathmin 3 [Source:HGNC Symbol;Acc:HGNC:15926]	852	-0.1903633326292038	0.3258381	No	
+row_48	C9orf116	chromosome 9 open reading frame 116 [Source:HGNC Symbol;Acc:HGNC:28435]	876	-0.20104704797267914	0.3405861	No	
+row_49	LRP11	LDL receptor related protein 11 [Source:HGNC Symbol;Acc:HGNC:16936]	990	-0.26412999629974365	0.30322188	No	
+row_50	PSCA	prostate stem cell antigen [Source:HGNC Symbol;Acc:HGNC:9500]	1290	-0.34141847491264343	0.1501029	No	

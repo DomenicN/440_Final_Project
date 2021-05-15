@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.058371104	Yes	
+row_1	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.1541105	Yes	
+row_2	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.2495144	Yes	
+row_3	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.34488437	Yes	
+row_4	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.43918547	Yes	
+row_5	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.5304183	Yes	
+row_6	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.62429667	Yes	
+row_7	CD34	CD34 molecule [Source:HGNC Symbol;Acc:HGNC:1662]	135	0.28423795104026794	0.6539343	Yes	
+row_8	RAB5IF	RAB5 interacting factor [Source:HGNC Symbol;Acc:HGNC:15870]	227	0.17314165830612183	0.63757974	No	
+row_9	CELF4	CUGBP Elav-like family member 4 [Source:HGNC Symbol;Acc:HGNC:14015]	445	0.02537578158080578	0.49886224	No	
+row_10	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	477	0.009643237106502056	0.48059413	No	
+row_11	RGS16	regulator of G protein signaling 16 [Source:HGNC Symbol;Acc:HGNC:9997]	560	-0.034059248864650726	0.43447262	No	
+row_12	GIMAP1	"GTPase, IMAP family member 1 [Source:HGNC Symbol;Acc:HGNC:23237]"	785	-0.15536285936832428	0.3245202	No	
+row_13	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	796	-0.16015076637268066	0.3590395	No	
+row_14	STMN4	stathmin 4 [Source:HGNC Symbol;Acc:HGNC:16078]	881	-0.2028234601020813	0.3550086	No	
+row_15	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	965	-0.25130486488342285	0.3641231	No	

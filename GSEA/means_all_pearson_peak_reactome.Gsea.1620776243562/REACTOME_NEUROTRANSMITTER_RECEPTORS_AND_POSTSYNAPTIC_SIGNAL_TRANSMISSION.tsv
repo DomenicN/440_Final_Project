@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	82	0.3473512828350067	0.07818506	Yes	
+row_1	GNGT2	G protein subunit gamma transducin 2 [Source:HGNC Symbol;Acc:HGNC:4412]	133	0.2862521708011627	0.15442932	Yes	
+row_2	GNGT1	G protein subunit gamma transducin 1 [Source:HGNC Symbol;Acc:HGNC:4411]	145	0.26934534311294556	0.25039542	Yes	
+row_3	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	202	0.19746707379817963	0.28853703	Yes	
+row_4	GNG10	G protein subunit gamma 10 [Source:HGNC Symbol;Acc:HGNC:4402]	221	0.17895354330539703	0.3451119	Yes	
+row_5	GRIK3	glutamate ionotropic receptor kainate type subunit 3 [Source:HGNC Symbol;Acc:HGNC:4581]	280	0.13184653222560883	0.3567282	Yes	
+row_6	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	297	0.11805577576160431	0.39127824	Yes	
+row_7	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	428	0.03573082014918327	0.31762397	Yes	
+row_8	GRIA2	glutamate ionotropic receptor AMPA type subunit 2 [Source:HGNC Symbol;Acc:HGNC:4572]	436	0.029707184061408043	0.3243195	Yes	
+row_9	GNG11	G protein subunit gamma 11 [Source:HGNC Symbol;Acc:HGNC:4403]	476	0.00973500031977892	0.30184555	Yes	
+row_10	TUBB3	tubulin beta 3 class III [Source:HGNC Symbol;Acc:HGNC:20772]	531	-0.018373560160398483	0.2726059	Yes	
+row_11	DLG1	discs large MAGUK scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:2900]	541	-0.020672962069511414	0.27449057	Yes	
+row_12	NCALD	neurocalcin delta [Source:HGNC Symbol;Acc:HGNC:7655]	581	-0.04572169482707977	0.2658261	Yes	
+row_13	TUBB4A	tubulin beta 4A class IVa [Source:HGNC Symbol;Acc:HGNC:20774]	583	-0.04777024686336517	0.28348544	Yes	
+row_14	MAPT	microtubule associated protein tau [Source:HGNC Symbol;Acc:HGNC:6893]	596	-0.052717819809913635	0.29565084	Yes	
+row_15	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	616	-0.06300358474254608	0.30705902	Yes	
+row_16	CHRNA3	cholinergic receptor nicotinic alpha 3 subunit [Source:HGNC Symbol;Acc:HGNC:1957]	623	-0.06591233611106873	0.32831997	Yes	
+row_17	GNG8	G protein subunit gamma 8 [Source:HGNC Symbol;Acc:HGNC:19664]	634	-0.0714263990521431	0.3490087	Yes	
+row_18	GNG3	G protein subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:4405]	664	-0.08640851080417633	0.36267787	Yes	
+row_19	NEFL	neurofilament light [Source:HGNC Symbol;Acc:HGNC:7739]	815	-0.17085957527160645	0.32743707	Yes	
+row_20	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	816	-0.17124798893928528	0.39315176	Yes	
+row_21	HTR3A	5-hydroxytryptamine receptor 3A [Source:HGNC Symbol;Acc:HGNC:5297]	847	-0.1873713880777359	0.44489238	Yes	

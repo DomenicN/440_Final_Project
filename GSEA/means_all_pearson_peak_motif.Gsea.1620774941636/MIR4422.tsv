@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRABP2	cellular retinoic acid binding protein 2 [Source:HGNC Symbol;Acc:HGNC:2339]	185	0.22468383610248566	-0.087998256	No	
+row_1	SMPD3	sphingomyelin phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:14240]	258	0.14831241965293884	-0.11233631	No	
+row_2	PHLDA1	pleckstrin homology like domain family A member 1 [Source:HGNC Symbol;Acc:HGNC:8933]	293	0.1224835142493248	-0.11529034	No	
+row_3	PCDH17	protocadherin 17 [Source:HGNC Symbol;Acc:HGNC:14267]	340	0.09522701799869537	-0.13076282	No	
+row_4	SUMF1	sulfatase modifying factor 1 [Source:HGNC Symbol;Acc:HGNC:20376]	422	0.03906433656811714	-0.1789482	No	
+row_5	CSRP3	cysteine and glycine rich protein 3 [Source:HGNC Symbol;Acc:HGNC:2472]	463	0.01523011177778244	-0.2034046	No	
+row_6	NTNG1	netrin G1 [Source:HGNC Symbol;Acc:HGNC:23319]	482	0.0077674901112914085	-0.21426119	No	
+row_7	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	637	-0.07348579913377762	-0.30600062	No	
+row_8	ATP2B1	ATPase plasma membrane Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:814]	655	-0.08206415921449661	-0.30408755	No	
+row_9	EPHA5	EPH receptor A5 [Source:HGNC Symbol;Acc:HGNC:3389]	692	-0.10254675894975662	-0.3116343	No	
+row_10	SLIT2	slit guidance ligand 2 [Source:HGNC Symbol;Acc:HGNC:11086]	706	-0.10882721096277237	-0.3026703	No	
+row_11	SYT4	synaptotagmin 4 [Source:HGNC Symbol;Acc:HGNC:11512]	754	-0.13556884229183197	-0.3122481	No	
+row_12	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	995	-0.2660684585571289	-0.43054557	No	
+row_13	KRT4	keratin 4 [Source:HGNC Symbol;Acc:HGNC:6441]	1103	-0.2967502176761627	-0.4542854	No	
+row_14	F3	"coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]"	1230	-0.3181763291358948	-0.48733148	Yes	
+row_15	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	1257	-0.32975485920906067	-0.45115238	Yes	
+row_16	ITM2A	integral membrane protein 2A [Source:HGNC Symbol;Acc:HGNC:6173]	1260	-0.3304803967475891	-0.39869356	Yes	
+row_17	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	1296	-0.3439367115497589	-0.36626613	Yes	
+row_18	FBXL4	F-box and leucine rich repeat protein 4 [Source:HGNC Symbol;Acc:HGNC:13601]	1318	-0.35590240359306335	-0.32246292	Yes	
+row_19	ACTC1	actin alpha cardiac muscle 1 [Source:HGNC Symbol;Acc:HGNC:143]	1388	-0.38989418745040894	-0.30544874	Yes	
+row_20	SOSTDC1	sclerostin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21748]	1405	-0.40488001704216003	-0.2503045	Yes	
+row_21	TFPI	tissue factor pathway inhibitor [Source:HGNC Symbol;Acc:HGNC:11760]	1446	-0.4395908713340759	-0.20567057	Yes	
+row_22	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	1467	-0.46908071637153625	-0.14276737	Yes	
+row_23	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	1488	-0.5102289319038391	-0.07316482	Yes	
+row_24	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	1494	-0.5321084856987	0.010100959	Yes	

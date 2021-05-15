@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UCHL1	ubiquitin C-terminal hydrolase L1 [Source:HGNC Symbol;Acc:HGNC:12513]	104	0.31789758801460266	0.022046354	Yes	
+row_1	HOXA9	homeobox A9 [Source:HGNC Symbol;Acc:HGNC:5109]	144	0.27410489320755005	0.07524813	Yes	
+row_2	PTMA	prothymosin alpha [Source:HGNC Symbol;Acc:HGNC:9623]	211	0.18934187293052673	0.085641615	Yes	
+row_3	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	225	0.1756497323513031	0.12782551	Yes	
+row_4	NSD3	nuclear receptor binding SET domain protein 3 [Source:HGNC Symbol;Acc:HGNC:12767]	236	0.16765473783016205	0.16971435	Yes	
+row_5	AP1S2	adaptor related protein complex 1 subunit sigma 2 [Source:HGNC Symbol;Acc:HGNC:560]	238	0.16600008308887482	0.21719605	Yes	
+row_6	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	259	0.14821434020996094	0.24669762	Yes	
+row_7	KMT5A	lysine methyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:29489]	279	0.1323014199733734	0.27225763	Yes	
+row_8	EIF5A	eukaryotic translation initiation factor 5A [Source:HGNC Symbol;Acc:HGNC:3300]	282	0.13109681010246277	0.30893916	Yes	
+row_9	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	290	0.12412277609109879	0.3402237	Yes	
+row_10	TRIR	telomerase RNA component interacting RNase [Source:HGNC Symbol;Acc:HGNC:28424]	299	0.11749348044395447	0.36891034	Yes	
+row_11	SLC16A2	solute carrier family 16 member 2 [Source:HGNC Symbol;Acc:HGNC:10923]	332	0.09842228144407272	0.3758701	Yes	
+row_12	ID3	"inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]"	345	0.09081735461950302	0.39411896	Yes	
+row_13	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	375	0.06834742426872253	0.39437833	Yes	
+row_14	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	376	0.06741883605718613	0.4139365	Yes	
+row_15	ATP5MC2	ATP synthase membrane subunit c locus 2 [Source:HGNC Symbol;Acc:HGNC:842]	417	0.04321669414639473	0.39948305	No	
+row_16	SLBP	stem-loop binding protein [Source:HGNC Symbol;Acc:HGNC:10904]	420	0.040670063346624374	0.40993187	No	
+row_17	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [Source:HGNC Symbol;Acc:HGNC:1987]	478	0.008975071832537651	0.37407398	No	
+row_18	TMEM131L	transmembrane 131 like [Source:HGNC Symbol;Acc:HGNC:29146]	480	0.00854493584483862	0.3758781	No	
+row_19	PEG3	paternally expressed 3 [Source:HGNC Symbol;Acc:HGNC:8826]	532	-0.018905723467469215	0.3469497	No	
+row_20	NRP2	neuropilin 2 [Source:HGNC Symbol;Acc:HGNC:8005]	558	-0.03032108210027218	0.3388767	No	
+row_21	MEIS2	Meis homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7001]	575	-0.04151482507586479	0.3401239	No	
+row_22	DPYSL2	dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	576	-0.041564974933862686	0.35218185	No	
+row_23	SYT11	synaptotagmin 11 [Source:HGNC Symbol;Acc:HGNC:19239]	615	-0.06294922530651093	0.34480235	No	
+row_24	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]	702	-0.1057509258389473	0.3174509	No	
+row_25	HOXC10	homeobox C10 [Source:HGNC Symbol;Acc:HGNC:5122]	846	-0.18672479689121246	0.27512836	No	
+row_26	ARHGAP36	Rho GTPase activating protein 36 [Source:HGNC Symbol;Acc:HGNC:26388]	1002	-0.2715805470943451	0.24932523	No	
+row_27	ERG	ETS transcription factor ERG [Source:HGNC Symbol;Acc:HGNC:3446]	1226	-0.3174959421157837	0.19095817	No	

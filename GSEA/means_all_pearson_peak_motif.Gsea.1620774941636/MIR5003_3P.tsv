@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	297	0.11805577576160431	-0.17513683	No	
+row_1	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	366	0.07710650563240051	-0.20486008	No	
+row_2	PAPPA2	pappalysin 2 [Source:HGNC Symbol;Acc:HGNC:14615]	479	0.008589123375713825	-0.2783493	No	
+row_3	SERPINI1	serpin family I member 1 [Source:HGNC Symbol;Acc:HGNC:8943]	534	-0.019404709339141846	-0.31061918	No	
+row_4	ANK2	ankyrin 2 [Source:HGNC Symbol;Acc:HGNC:493]	568	-0.03731574863195419	-0.32506517	No	
+row_5	MBLAC2	metallo-beta-lactamase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:33711]	605	-0.057074833661317825	-0.3374334	No	
+row_6	ELAVL2	ELAV like RNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3313]	621	-0.06393291056156158	-0.3342678	No	
+row_7	GREB1	growth regulating estrogen receptor binding 1 [Source:HGNC Symbol;Acc:HGNC:24885]	723	-0.1178574338555336	-0.37772527	No	
+row_8	KMT5B	lysine methyltransferase 5B [Source:HGNC Symbol;Acc:HGNC:24283]	729	-0.12164518982172012	-0.35588187	No	
+row_9	SYT4	synaptotagmin 4 [Source:HGNC Symbol;Acc:HGNC:11512]	754	-0.13556884229183197	-0.34392244	No	
+row_10	TMEM245	transmembrane protein 245 [Source:HGNC Symbol;Acc:HGNC:1363]	775	-0.14895659685134888	-0.326501	No	
+row_11	NDN	"necdin, MAGE family member [Source:HGNC Symbol;Acc:HGNC:7675]"	926	-0.23199614882469177	-0.37924024	No	
+row_12	ADCYAP1	adenylate cyclase activating polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:241]	1025	-0.2767486870288849	-0.38776097	No	
+row_13	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	1068	-0.2885275185108185	-0.35620683	No	
+row_14	OGN	osteoglycin [Source:HGNC Symbol;Acc:HGNC:8126]	1321	-0.3579358458518982	-0.45140103	Yes	
+row_15	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	1331	-0.3630671501159668	-0.38222563	Yes	
+row_16	LAMC1	laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	1372	-0.38212400674819946	-0.32993516	Yes	
+row_17	BHMT	betaine--homocysteine S-methyltransferase [Source:HGNC Symbol;Acc:HGNC:1047]	1377	-0.3849104344844818	-0.25287384	Yes	
+row_18	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	1384	-0.38765156269073486	-0.17658868	Yes	
+row_19	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	1389	-0.3925377130508423	-0.09794706	Yes	
+row_20	FBXO34	F-box protein 34 [Source:HGNC Symbol;Acc:HGNC:20201]	1417	-0.41423511505126953	-0.030266961	Yes	
+row_21	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5 [Source:HGNC Symbol;Acc:HGNC:221]	1448	-0.4412517547607422	0.040994592	Yes	

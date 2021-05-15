@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ST3GAL6	"ST3 beta-galactoside alpha-2,3-sialyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:18080]"	32	0.40808629989624023	0.09601324	No	
+row_1	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	269	0.1396396905183792	-0.021768775	No	
+row_2	TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	297	0.11805577576160431	-0.005868946	No	
+row_3	DPM1	"dolichyl-phosphate mannosyltransferase subunit 1, catalytic [Source:HGNC Symbol;Acc:HGNC:3005]"	354	0.08636140078306198	-0.018500574	No	
+row_4	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	403	0.05269910395145416	-0.03546422	No	
+row_5	TUBB3	tubulin beta 3 class III [Source:HGNC Symbol;Acc:HGNC:20772]	531	-0.018373560160398483	-0.115183674	No	
+row_6	ANK2	ankyrin 2 [Source:HGNC Symbol;Acc:HGNC:493]	568	-0.03731574863195419	-0.12854196	No	
+row_7	TUBB4A	tubulin beta 4A class IVa [Source:HGNC Symbol;Acc:HGNC:20774]	583	-0.04777024686336517	-0.12416626	No	
+row_8	TUBB2B	tubulin beta 2B class IIb [Source:HGNC Symbol;Acc:HGNC:30829]	616	-0.06300358474254608	-0.12745515	No	
+row_9	CGA	"glycoprotein hormones, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:1885]"	826	-0.17884455621242523	-0.21588315	No	
+row_10	SERPINA1	serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941]	1136	-0.30151134729385376	-0.33594656	No	
+row_11	COPZ2	COPI coat complex subunit zeta 2 [Source:HGNC Symbol;Acc:HGNC:19356]	1329	-0.3623313009738922	-0.36019498	Yes	
+row_12	RENBP	renin binding protein [Source:HGNC Symbol;Acc:HGNC:9959]	1347	-0.37171944975852966	-0.26460662	Yes	
+row_13	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	1414	-0.4112602174282074	-0.19043773	Yes	
+row_14	FOLR1	folate receptor alpha [Source:HGNC Symbol;Acc:HGNC:3791]	1431	-0.42704227566719055	-0.07826016	Yes	
+row_15	NPL	N-acetylneuraminate pyruvate lyase [Source:HGNC Symbol;Acc:HGNC:16781]	1455	-0.45106425881385803	0.03614465	Yes	

@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	10	0.4853570759296417	0.15922083	Yes	
+row_1	CLEC4A	C-type lectin domain family 4 member A [Source:HGNC Symbol;Acc:HGNC:13257]	33	0.40804359316825867	0.2839868	Yes	
+row_2	FCER1G	Fc fragment of IgE receptor Ig [Source:HGNC Symbol;Acc:HGNC:3611]	108	0.31334033608436584	0.34159774	Yes	
+row_3	CLEC6A	C-type lectin domain containing 6A [Source:HGNC Symbol;Acc:HGNC:14556]	132	0.2883477807044983	0.42477915	Yes	
+row_4	CLEC4D	C-type lectin domain family 4 member D [Source:HGNC Symbol;Acc:HGNC:14554]	155	0.25711390376091003	0.49795276	Yes	
+row_5	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	202	0.19746707379817963	0.53468376	Yes	
+row_6	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	254	0.1506601721048355	0.5520703	Yes	
+row_7	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	269	0.1396396905183792	0.59043884	Yes	
+row_8	SEM1	SEM1 26S proteasome complex subunit [Source:HGNC Symbol;Acc:HGNC:10845]	406	0.05157686024904251	0.5170995	No	
+row_9	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	458	0.016846800222992897	0.48874453	No	
+row_10	PAK3	p21 (RAC1) activated kinase 3 [Source:HGNC Symbol;Acc:HGNC:8592]	507	-0.005295726470649242	0.45844775	No	
+row_11	LYN	"LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]"	548	-0.025067318230867386	0.44026065	No	
+row_12	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	690	-0.10144675523042679	0.38062388	No	
+row_13	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	825	-0.17866285145282745	0.35206416	No	
+row_14	MUC13	"mucin 13, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7511]"	1193	-0.30656152963638306	0.21137126	No	

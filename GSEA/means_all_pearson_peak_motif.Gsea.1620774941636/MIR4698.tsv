@@ -1,0 +1,40 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	G0S2	G0/G1 switch 2 [Source:HGNC Symbol;Acc:HGNC:30229]	48	0.38145679235458374	0.018003859	No	
+row_1	SLC40A1	solute carrier family 40 member 1 [Source:HGNC Symbol;Acc:HGNC:10909]	65	0.3680843412876129	0.055986565	No	
+row_2	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	173	0.2374507635831833	0.014766236	No	
+row_3	TPT1	"tumor protein, translationally-controlled 1 [Source:HGNC Symbol;Acc:HGNC:12022]"	187	0.21854186058044434	0.03493804	No	
+row_4	LAMA1	laminin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6481]	291	0.12403398752212524	-0.018618034	No	
+row_5	SOX11	SRY-box transcription factor 11 [Source:HGNC Symbol;Acc:HGNC:11191]	320	0.106447733938694	-0.02352279	No	
+row_6	COL6A6	collagen type VI alpha 6 chain [Source:HGNC Symbol;Acc:HGNC:27023]	343	0.09169887006282806	-0.02630646	No	
+row_7	TCF4	transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11634]	367	0.0759039968252182	-0.031866554	No	
+row_8	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	376	0.06741883605718613	-0.02835583	No	
+row_9	KCNQ5	potassium voltage-gated channel subfamily Q member 5 [Source:HGNC Symbol;Acc:HGNC:6299]	380	0.06616978347301483	-0.021611856	No	
+row_10	SEM1	SEM1 26S proteasome complex subunit [Source:HGNC Symbol;Acc:HGNC:10845]	406	0.05157686024904251	-0.031760767	No	
+row_11	RCC1	regulator of chromosome condensation 1 [Source:HGNC Symbol;Acc:HGNC:1913]	424	0.037386298179626465	-0.03835486	No	
+row_12	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	428	0.03573082014918327	-0.035651363	No	
+row_13	NCOA7	nuclear receptor coactivator 7 [Source:HGNC Symbol;Acc:HGNC:21081]	450	0.019657695665955544	-0.047317997	No	
+row_14	MAP7	microtubule associated protein 7 [Source:HGNC Symbol;Acc:HGNC:6869]	462	0.015636160969734192	-0.052720353	No	
+row_15	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	489	0.002353942720219493	-0.07008294	No	
+row_16	TAFA1	TAFA chemokine like family member 1 [Source:HGNC Symbol;Acc:HGNC:21587]	509	-0.0062446617521345615	-0.082170404	No	
+row_17	RASSF2	Ras association domain family member 2 [Source:HGNC Symbol;Acc:HGNC:9883]	561	-0.034461136907339096	-0.11226631	No	
+row_18	SSH2	slingshot protein phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:30580]	589	-0.05011158809065819	-0.12396934	No	
+row_19	TENT5A	terminal nucleotidyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:18345]	592	-0.052059054374694824	-0.11841862	No	
+row_20	ELAVL2	ELAV like RNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:3313]	621	-0.06393291056156158	-0.12896681	No	
+row_21	PTP4A1	protein tyrosine phosphatase 4A1 [Source:HGNC Symbol;Acc:HGNC:9634]	667	-0.08830108493566513	-0.14783713	No	
+row_22	EPHA5	EPH receptor A5 [Source:HGNC Symbol;Acc:HGNC:3389]	692	-0.10254675894975662	-0.15054046	No	
+row_23	RBMS3	RNA binding motif single stranded interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:13427]	701	-0.1054629385471344	-0.14197975	No	
+row_24	TMEM245	transmembrane protein 245 [Source:HGNC Symbol;Acc:HGNC:1363]	775	-0.14895659685134888	-0.17183329	No	
+row_25	MAP3K20	mitogen-activated protein kinase kinase kinase 20 [Source:HGNC Symbol;Acc:HGNC:17797]	782	-0.1524379849433899	-0.15567748	No	
+row_26	DLK1	delta like non-canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2907]	844	-0.18641993403434753	-0.17240041	No	
+row_27	POU2F1	POU class 2 homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9212]	920	-0.22857260704040527	-0.19304532	No	
+row_28	CDC42EP3	CDC42 effector protein 3 [Source:HGNC Symbol;Acc:HGNC:16943]	1027	-0.2772000730037689	-0.2283095	No	
+row_29	OGN	osteoglycin [Source:HGNC Symbol;Acc:HGNC:8126]	1321	-0.3579358458518982	-0.3799812	Yes	
+row_30	IPP	intracisternal A particle-promoted polypeptide [Source:HGNC Symbol;Acc:HGNC:6108]	1326	-0.36114180088043213	-0.3347623	Yes	
+row_31	ACTA1	"actin alpha 1, skeletal muscle [Source:HGNC Symbol;Acc:HGNC:129]"	1369	-0.38165703415870667	-0.312653	Yes	
+row_32	LOX	lysyl oxidase [Source:HGNC Symbol;Acc:HGNC:6664]	1380	-0.3862215280532837	-0.26818392	Yes	
+row_33	MAP3K2	mitogen-activated protein kinase kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6854]	1384	-0.38765156269073486	-0.21876633	Yes	
+row_34	TFPI	tissue factor pathway inhibitor [Source:HGNC Symbol;Acc:HGNC:11760]	1446	-0.4395908713340759	-0.20188326	Yes	
+row_35	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5 [Source:HGNC Symbol;Acc:HGNC:221]	1448	-0.4412517547607422	-0.14399114	Yes	
+row_36	RTP4	receptor transporter protein 4 [Source:HGNC Symbol;Acc:HGNC:23992]	1456	-0.45406287908554077	-0.08847732	Yes	
+row_37	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.030971628	Yes	
+row_38	VNN1	vanin 1 [Source:HGNC Symbol;Acc:HGNC:12705]	1466	-0.4689059555530548	0.0292317	Yes	

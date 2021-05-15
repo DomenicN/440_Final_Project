@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TFAP2B	transcription factor AP-2 beta [Source:HGNC Symbol;Acc:HGNC:11743]	386	0.06433679163455963	-0.24428	No	
+row_1	HEY1	hes related family bHLH transcription factor with YRPW motif 1 [Source:HGNC Symbol;Acc:HGNC:4880]	470	0.012571563012897968	-0.29708976	No	
+row_2	PRRX1	paired related homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9142]	501	-0.004290629178285599	-0.31623444	No	
+row_3	NGFR	nerve growth factor receptor [Source:HGNC Symbol;Acc:HGNC:7809]	528	-0.015897255390882492	-0.33009437	No	
+row_4	ADGRF5	adhesion G protein-coupled receptor F5 [Source:HGNC Symbol;Acc:HGNC:19030]	553	-0.027423739433288574	-0.340028	No	
+row_5	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	685	-0.0990724042057991	-0.40560395	No	
+row_6	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	796	-0.16015076637268066	-0.44340268	No	
+row_7	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	975	-0.2552524507045746	-0.505443	No	
+row_8	PDE2A	phosphodiesterase 2A [Source:HGNC Symbol;Acc:HGNC:8777]	1101	-0.29664963483810425	-0.5226735	No	
+row_9	LOXL1	lysyl oxidase like 1 [Source:HGNC Symbol;Acc:HGNC:6665]	1210	-0.31210803985595703	-0.52504206	Yes	
+row_10	HPGD	15-hydroxyprostaglandin dehydrogenase [Source:HGNC Symbol;Acc:HGNC:5154]	1262	-0.3306087255477905	-0.48505646	Yes	
+row_11	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1283	-0.3376322090625763	-0.42271775	Yes	
+row_12	MDK	midkine [Source:HGNC Symbol;Acc:HGNC:6972]	1312	-0.3533845543861389	-0.3622071	Yes	
+row_13	LOX	lysyl oxidase [Source:HGNC Symbol;Acc:HGNC:6664]	1380	-0.3862215280532837	-0.32046935	Yes	
+row_14	FOLR1	folate receptor alpha [Source:HGNC Symbol;Acc:HGNC:3791]	1431	-0.42704227566719055	-0.25817984	Yes	
+row_15	COMP	cartilage oligomeric matrix protein [Source:HGNC Symbol;Acc:HGNC:2227]	1445	-0.4394041895866394	-0.16831818	Yes	
+row_16	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.07611021	Yes	
+row_17	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	1469	-0.4766983687877655	0.02680963	Yes	

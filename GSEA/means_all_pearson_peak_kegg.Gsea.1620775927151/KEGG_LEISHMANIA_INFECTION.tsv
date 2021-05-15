@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	10	0.4853570759296417	0.09865407	Yes	
+row_1	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	50	0.3796742558479309	0.15494457	Yes	
+row_2	NCF2	neutrophil cytosolic factor 2 [Source:HGNC Symbol;Acc:HGNC:7661]	52	0.3780738413333893	0.23633978	Yes	
+row_3	FCGR2A	Fc fragment of IgG receptor IIa [Source:HGNC Symbol;Acc:HGNC:3616]	80	0.3490060567855835	0.29401094	Yes	
+row_4	PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	82	0.3473512828350067	0.3687375	Yes	
+row_5	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	107	0.3139176666736603	0.42080167	Yes	
+row_6	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	150	0.26287075877189636	0.44972932	Yes	
+row_7	FCGR3A	Fc fragment of IgG receptor IIIa [Source:HGNC Symbol;Acc:HGNC:3619]	216	0.18445321917533875	0.44623038	No	
+row_8	NCF4	neutrophil cytosolic factor 4 [Source:HGNC Symbol;Acc:HGNC:7662]	415	0.04607854411005974	0.32361335	No	
+row_9	HLA-DRB1	"major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]"	441	0.02703806199133396	0.31273746	No	
+row_10	JUN	"Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]"	668	-0.08976595103740692	0.18084905	No	
+row_11	IL12A	interleukin 12A [Source:HGNC Symbol;Acc:HGNC:5969]	683	-0.09727256000041962	0.19258602	No	
+row_12	FOS	"Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]"	887	-0.20903688669204712	0.10199188	No	
+row_13	HLA-DOB	"major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]"	1209	-0.311649888753891	-0.045364495	No	
+row_14	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	1215	-0.3140980005264282	0.019464906	No	
+row_15	HLA-DQA1	"major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]"	1289	-0.3401789367198944	0.044409573	No	
+row_16	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	1468	-0.47118115425109863	0.027461488	No	

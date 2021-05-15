@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	107	0.3139176666736603	-0.03613891	No	
+row_1	COL6A6	collagen type VI alpha 6 chain [Source:HGNC Symbol;Acc:HGNC:27023]	343	0.09169887006282806	-0.18464004	No	
+row_2	COL4A3	collagen type IV alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2204]	379	0.06700477749109268	-0.20058748	No	
+row_3	COL18A1	collagen type XVIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2195]	526	-0.013883547857403755	-0.29783082	No	
+row_4	JAM2	junctional adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:14686]	566	-0.03696415573358536	-0.3199607	No	
+row_5	COL4A1	collagen type IV alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2202]	578	-0.042106542736291885	-0.32253855	No	
+row_6	VCAM1	vascular cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:12663]	641	-0.07495652884244919	-0.35584664	No	
+row_7	COL4A2	collagen type IV alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2203]	696	-0.10371076315641403	-0.38041288	No	
+row_8	COL6A3	collagen type VI alpha 3 chain [Source:HGNC Symbol;Acc:HGNC:2213]	798	-0.16234524548053741	-0.43001917	No	
+row_9	COL6A1	collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211]	871	-0.19874824583530426	-0.45578098	Yes	
+row_10	COL2A1	collagen type II alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2200]	882	-0.20470409095287323	-0.43887702	Yes	
+row_11	COL8A1	collagen type VIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2215]	888	-0.2091706395149231	-0.4180712	Yes	
+row_12	LUM	lumican [Source:HGNC Symbol;Acc:HGNC:6724]	903	-0.2159879356622696	-0.40257046	Yes	
+row_13	COL3A1	collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	957	-0.24593979120254517	-0.41001055	Yes	
+row_14	COL6A2	collagen type VI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2212]	962	-0.24952976405620575	-0.3838601	Yes	
+row_15	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	995	-0.2660684585571289	-0.37475425	Yes	
+row_16	COL1A2	collagen type I alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2198]	1001	-0.27010810375213623	-0.34690094	Yes	
+row_17	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	1068	-0.2885275185108185	-0.3582173	Yes	
+row_18	TNC	tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	1116	-0.2997637987136841	-0.35537025	Yes	
+row_19	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	1135	-0.30151131749153137	-0.33268672	Yes	
+row_20	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	1154	-0.30151134729385376	-0.31000316	Yes	
+row_21	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	1232	-0.31841161847114563	-0.3253109	Yes	
+row_22	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	1254	-0.32789701223373413	-0.30160692	Yes	
+row_23	ITGA5	integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	1258	-0.32986360788345337	-0.26548865	Yes	
+row_24	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	1331	-0.3630671501159668	-0.27224666	Yes	
+row_25	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	1335	-0.36475124955177307	-0.23209356	Yes	
+row_26	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	1336	-0.36551499366760254	-0.18982099	Yes	
+row_27	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	1381	-0.38649383187294006	-0.17491229	Yes	
+row_28	COL7A1	collagen type VII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2214]	1414	-0.4112602174282074	-0.14901473	Yes	
+row_29	ICAM1	intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	1436	-0.429869145154953	-0.11351747	Yes	
+row_30	COMP	cartilage oligomeric matrix protein [Source:HGNC Symbol;Acc:HGNC:2227]	1445	-0.4394041895866394	-0.068115845	Yes	
+row_31	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	1467	-0.46908071637153625	-0.028083699	Yes	
+row_32	ITGA11	integrin subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:6136]	1472	-0.4828512966632843	0.025050867	Yes	

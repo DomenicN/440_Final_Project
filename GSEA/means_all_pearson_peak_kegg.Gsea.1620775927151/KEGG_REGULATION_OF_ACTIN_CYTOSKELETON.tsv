@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TMSB4X	thymosin beta 4 X-linked [Source:HGNC Symbol;Acc:HGNC:11881]	35	0.4056137800216675	0.041595172	No	
+row_1	CD14	CD14 molecule [Source:HGNC Symbol;Acc:HGNC:1628]	51	0.3785676658153534	0.092321254	No	
+row_2	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	107	0.3139176666736603	0.10570424	No	
+row_3	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor 6 [Source:HGNC Symbol;Acc:HGNC:685]	285	0.12975330650806427	0.0072827023	No	
+row_4	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	288	0.12626564502716064	0.02622524	No	
+row_5	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	437	0.02967085875570774	-0.06873726	No	
+row_6	PAK3	p21 (RAC1) activated kinase 3 [Source:HGNC Symbol;Acc:HGNC:8592]	507	-0.005295726470649242	-0.114382215	No	
+row_7	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	550	-0.025797415524721146	-0.13853858	No	
+row_8	ITGB4	integrin subunit beta 4 [Source:HGNC Symbol;Acc:HGNC:6158]	570	-0.038728244602680206	-0.14511839	No	
+row_9	SSH2	slingshot protein phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:30580]	589	-0.05011158809065819	-0.14919509	No	
+row_10	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	670	-0.08983606100082397	-0.18866725	No	
+row_11	VAV1	vav guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:12657]	686	-0.09925055503845215	-0.182826	No	
+row_12	RAC2	Rac family small GTPase 2 [Source:HGNC Symbol;Acc:HGNC:9802]	710	-0.11015617847442627	-0.18062311	No	
+row_13	CYFIP2	cytoplasmic FMR1 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:13760]	854	-0.1907426416873932	-0.24633293	No	
+row_14	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	975	-0.2552524507045746	-0.2861777	No	
+row_15	FGF19	fibroblast growth factor 19 [Source:HGNC Symbol;Acc:HGNC:3675]	1026	-0.27699562907218933	-0.27535862	No	
+row_16	MYL10	myosin light chain 10 [Source:HGNC Symbol;Acc:HGNC:29825]	1077	-0.290318101644516	-0.2623987	No	
+row_17	MYL9	myosin light chain 9 [Source:HGNC Symbol;Acc:HGNC:15754]	1202	-0.30955663323402405	-0.29621246	Yes	
+row_18	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	1232	-0.31841161847114563	-0.2645871	Yes	
+row_19	ITGA5	integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	1258	-0.32986360788345337	-0.22842605	Yes	
+row_20	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	1296	-0.3439367115497589	-0.1980898	Yes	
+row_21	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	1335	-0.36475124955177307	-0.16508259	Yes	
+row_22	MYL7	myosin light chain 7 [Source:HGNC Symbol;Acc:HGNC:21719]	1349	-0.37208110094070435	-0.11405115	Yes	
+row_23	MYLPF	"myosin light chain, phosphorylatable, fast skeletal muscle [Source:HGNC Symbol;Acc:HGNC:29824]"	1410	-0.4085484743118286	-0.088830754	Yes	
+row_24	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	1469	-0.4766983687877655	-0.051311303	Yes	
+row_25	ITGA11	integrin subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:6136]	1472	-0.4828512966632843	0.024932744	Yes	

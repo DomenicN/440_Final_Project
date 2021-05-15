@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC13A4	solute carrier family 13 member 4 [Source:HGNC Symbol;Acc:HGNC:15827]	68	0.3674572706222534	0.0146683715	No	
+row_1	SLC6A16	solute carrier family 6 member 16 [Source:HGNC Symbol;Acc:HGNC:13622]	210	0.1905261129140854	-0.04855134	No	
+row_2	SERPINE2	serpin family E member 2 [Source:HGNC Symbol;Acc:HGNC:8951]	396	0.05675011873245239	-0.16316344	No	
+row_3	DLG1	discs large MAGUK scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:2900]	541	-0.020672962069511414	-0.2562259	No	
+row_4	P2RX4	purinergic receptor P2X 4 [Source:HGNC Symbol;Acc:HGNC:8535]	1034	-0.2793797254562378	-0.5399825	Yes	
+row_5	TESC	tescalcin [Source:HGNC Symbol;Acc:HGNC:26065]	1051	-0.2841969132423401	-0.50412863	Yes	
+row_6	SCN4B	sodium voltage-gated channel beta subunit 4 [Source:HGNC Symbol;Acc:HGNC:10592]	1052	-0.28443220257759094	-0.45751944	Yes	
+row_7	SLC12A3	solute carrier family 12 member 3 [Source:HGNC Symbol;Acc:HGNC:10912]	1074	-0.2896798849105835	-0.42411602	Yes	
+row_8	SLC38A4	solute carrier family 38 member 4 [Source:HGNC Symbol;Acc:HGNC:14679]	1268	-0.33319729566574097	-0.4987858	Yes	
+row_9	FXYD3	FXYD domain containing ion transport regulator 3 [Source:HGNC Symbol;Acc:HGNC:4027]	1393	-0.3954697847366333	-0.5170354	Yes	
+row_10	PRSS8	serine protease 8 [Source:HGNC Symbol;Acc:HGNC:9491]	1438	-0.4326160252094269	-0.47561467	Yes	
+row_11	FXYD1	FXYD domain containing ion transport regulator 1 [Source:HGNC Symbol;Acc:HGNC:4025]	1459	-0.45822805166244507	-0.4139219	Yes	
+row_12	MAGED2	MAGE family member D2 [Source:HGNC Symbol;Acc:HGNC:16353]	1483	-0.5014716386795044	-0.34715226	Yes	
+row_13	SCN1B	sodium voltage-gated channel beta subunit 1 [Source:HGNC Symbol;Acc:HGNC:10586]	1485	-0.5023329854011536	-0.2655061	Yes	
+row_14	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	1494	-0.5321084856987	-0.18366921	Yes	
+row_15	SLC5A5	solute carrier family 5 member 5 [Source:HGNC Symbol;Acc:HGNC:11040]	1499	-0.563143253326416	-0.09406759	Yes	
+row_16	SGK1	serum/glucocorticoid regulated kinase 1 [Source:HGNC Symbol;Acc:HGNC:10810]	1504	-0.6108329892158508	0.0033488276	Yes	

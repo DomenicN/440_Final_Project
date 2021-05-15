@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH3A1	aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405]	3	0.5612565279006958	0.058075473	Yes	
+row_1	MGST1	microsomal glutathione S-transferase 1 [Source:HGNC Symbol;Acc:HGNC:7061]	7	0.509557843208313	0.11061476	Yes	
+row_2	TBXAS1	thromboxane A synthase 1 [Source:HGNC Symbol;Acc:HGNC:11609]	22	0.4301963746547699	0.14722314	Yes	
+row_3	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.1648137	Yes	
+row_4	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.2046537	Yes	
+row_5	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.24435408	Yes	
+row_6	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.28404036	Yes	
+row_7	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.3228847	Yes	
+row_8	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.35886365	Yes	
+row_9	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.39753214	Yes	
+row_10	CYP1A1	cytochrome P450 family 1 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2595]	95	0.3292864263057709	0.41590208	Yes	
+row_11	ADH7	"alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide [Source:HGNC Symbol;Acc:HGNC:256]"	98	0.32291388511657715	0.44913015	Yes	
+row_12	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	106	0.315805047750473	0.4782186	Yes	
+row_13	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	147	0.2687534689903259	0.4799712	Yes	
+row_14	MGST3	microsomal glutathione S-transferase 3 [Source:HGNC Symbol;Acc:HGNC:7064]	153	0.25936466455459595	0.50436705	Yes	
+row_15	GSTM1	glutathione S-transferase mu 1 [Source:HGNC Symbol;Acc:HGNC:4632]	175	0.2340511679649353	0.5152414	Yes	
+row_16	FDX2	ferredoxin 2 [Source:HGNC Symbol;Acc:HGNC:30546]	233	0.1696966141462326	0.49489993	No	
+row_17	GLYAT	glycine-N-acyltransferase [Source:HGNC Symbol;Acc:HGNC:13734]	344	0.09095744043588638	0.43031582	No	
+row_18	MTARC2	mitochondrial amidoxime reducing component 2 [Source:HGNC Symbol;Acc:HGNC:26064]	364	0.07740970700979233	0.42576745	No	
+row_19	MGST2	microsomal glutathione S-transferase 2 [Source:HGNC Symbol;Acc:HGNC:7063]	500	-0.003220265032723546	0.3348961	No	
+row_20	GSTT2	glutathione S-transferase theta 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:4642]	865	-0.19598440825939178	0.10993724	No	
+row_21	POMC	proopiomelanocortin [Source:HGNC Symbol;Acc:HGNC:9201]	960	-0.24701076745986938	0.07287502	No	
+row_22	SULT2A1	sulfotransferase family 2A member 1 [Source:HGNC Symbol;Acc:HGNC:11458]	978	-0.2557598948478699	0.088776745	No	
+row_23	PODXL2	podocalyxin like 2 [Source:HGNC Symbol;Acc:HGNC:17936]	1094	-0.2943032681941986	0.042589687	No	
+row_24	SULT1E1	sulfotransferase family 1E member 1 [Source:HGNC Symbol;Acc:HGNC:11377]	1146	-0.30151134729385376	0.040417753	No	
+row_25	AOC1	amine oxidase copper containing 1 [Source:HGNC Symbol;Acc:HGNC:80]	1158	-0.30151134729385376	0.065272845	No	
+row_26	CYP26A1	cytochrome P450 family 26 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2603]	1236	-0.3197312653064728	0.047484435	No	
+row_27	CYP11A1	cytochrome P450 family 11 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2590]	1270	-0.33434054255485535	0.0609902	No	
+row_28	ADH1B	"alcohol dehydrogenase 1B (class I), beta polypeptide [Source:HGNC Symbol;Acc:HGNC:250]"	1358	-0.3775678873062134	0.042638503	No	
+row_29	PTGIS	prostaglandin I2 synthase [Source:HGNC Symbol;Acc:HGNC:9603]	1497	-0.5482802391052246	0.008108182	No	

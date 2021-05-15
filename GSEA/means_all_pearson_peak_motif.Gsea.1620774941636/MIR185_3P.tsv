@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.0266084	Yes	
+row_1	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.09067339	Yes	
+row_2	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.15451387	Yes	
+row_3	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.21833163	Yes	
+row_4	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.28121182	Yes	
+row_5	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.34114942	Yes	
+row_6	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.40374678	Yes	
+row_7	NTNG1	netrin G1 [Source:HGNC Symbol;Acc:HGNC:23319]	482	0.0077674901112914085	0.12894493	No	
+row_8	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	685	-0.0990724042057991	0.010616423	No	
+row_9	SOX10	SRY-box transcription factor 10 [Source:HGNC Symbol;Acc:HGNC:11190]	1018	-0.2749854326248169	-0.16455127	No	
+row_10	PAX5	paired box 5 [Source:HGNC Symbol;Acc:HGNC:8619]	1035	-0.27939334511756897	-0.12716368	No	
+row_11	BCAM	basal cell adhesion molecule (Lutheran blood group) [Source:HGNC Symbol;Acc:HGNC:6722]	1053	-0.2844359874725342	-0.08957799	No	
+row_12	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	1054	-0.28443652391433716	-0.040598102	No	
+row_13	KLK4	kallikrein related peptidase 4 [Source:HGNC Symbol;Acc:HGNC:6365]	1167	-0.30151137709617615	-0.063744955	No	
+row_14	GAS7	growth arrest specific 7 [Source:HGNC Symbol;Acc:HGNC:4169]	1205	-0.31015604734420776	-0.035135098	No	
+row_15	LRRC32	leucine rich repeat containing 32 [Source:HGNC Symbol;Acc:HGNC:4161]	1327	-0.3612273633480072	-0.054031044	No	
+row_16	ESPN	espin [Source:HGNC Symbol;Acc:HGNC:13281]	1434	-0.4286288619041443	-0.05126685	No	
+row_17	MFGE8	milk fat globule EGF and factor V/VIII domain containing [Source:HGNC Symbol;Acc:HGNC:7036]	1502	-0.5857418775558472	0.004691571	No	

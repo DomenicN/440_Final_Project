@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPL38	ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:10349]	78	0.3552364110946655	-0.017214065	No	
+row_1	GNGT1	G protein subunit gamma transducin 1 [Source:HGNC Symbol;Acc:HGNC:4411]	145	0.26934534311294556	-0.034919534	No	
+row_2	SOX11	SRY-box transcription factor 11 [Source:HGNC Symbol;Acc:HGNC:11191]	320	0.106447733938694	-0.1422671	No	
+row_3	CALB1	calbindin 1 [Source:HGNC Symbol;Acc:HGNC:1434]	385	0.06442269682884216	-0.17921154	No	
+row_4	TFAP2B	transcription factor AP-2 beta [Source:HGNC Symbol;Acc:HGNC:11743]	386	0.06433679163455963	-0.17274535	No	
+row_5	EFEMP1	EGF containing fibulin extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	444	0.025409085676074028	-0.20886189	No	
+row_6	SPRY2	sprouty RTK signaling antagonist 2 [Source:HGNC Symbol;Acc:HGNC:11270]	457	0.01795578934252262	-0.21519834	No	
+row_7	PRRX1	paired related homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9142]	501	-0.004290629178285599	-0.24393943	No	
+row_8	OSR2	odd-skipped related transciption factor 2 [Source:HGNC Symbol;Acc:HGNC:15830]	503	-0.0046761115081608295	-0.24414788	No	
+row_9	AHI1	Abelson helper integration site 1 [Source:HGNC Symbol;Acc:HGNC:21575]	600	-0.05414270609617233	-0.30383515	No	
+row_10	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	670	-0.08983606100082397	-0.34161755	No	
+row_11	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	705	-0.10849088430404663	-0.35378012	No	
+row_12	MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	857	-0.1917077898979187	-0.4369548	No	
+row_13	COL11A1	collagen type XI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2186]	866	-0.19655415415763855	-0.42262745	No	
+row_14	COL2A1	collagen type II alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2200]	882	-0.20470409095287323	-0.41222998	No	
+row_15	COL8A1	collagen type VIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2215]	888	-0.2091706395149231	-0.39459935	No	
+row_16	PTN	pleiotrophin [Source:HGNC Symbol;Acc:HGNC:9630]	944	-0.2417324185371399	-0.40761736	No	
+row_17	FGF8	fibroblast growth factor 8 [Source:HGNC Symbol;Acc:HGNC:3686]	975	-0.2552524507045746	-0.4023159	No	
+row_18	NEUROG1	neurogenin 1 [Source:HGNC Symbol;Acc:HGNC:7764]	1110	-0.2979762554168701	-0.4632768	No	
+row_19	ATOH1	atonal bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:797]	1156	-0.30151134729385376	-0.46350247	Yes	
+row_20	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	1185	-0.3032148480415344	-0.45202366	Yes	
+row_21	GJB6	gap junction protein beta 6 [Source:HGNC Symbol;Acc:HGNC:4288]	1206	-0.3103110194206238	-0.43440425	Yes	
+row_22	AQP5	aquaporin 5 [Source:HGNC Symbol;Acc:HGNC:638]	1214	-0.3134567141532898	-0.40764916	Yes	
+row_23	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	1323	-0.3583299219608307	-0.4449051	Yes	
+row_24	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	1331	-0.3630671501159668	-0.41316387	Yes	
+row_25	COL5A2	collagen type V alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2210]	1336	-0.36551499366760254	-0.37914136	Yes	
+row_26	CTHRC1	collagen triple helix repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:18831]	1419	-0.41518479585647583	-0.393044	Yes	
+row_27	TH	tyrosine hydroxylase [Source:HGNC Symbol;Acc:HGNC:11782]	1428	-0.4217941164970398	-0.35607883	Yes	
+row_28	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	1451	-0.4470980167388916	-0.32606846	Yes	
+row_29	TULP1	TUB like protein 1 [Source:HGNC Symbol;Acc:HGNC:12423]	1460	-0.458818256855011	-0.28538218	Yes	
+row_30	MFAP5	microfibril associated protein 5 [Source:HGNC Symbol;Acc:HGNC:29673]	1461	-0.4588227868080139	-0.23926803	Yes	
+row_31	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.19315356	Yes	
+row_32	NKD1	NKD inhibitor of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:17045]	1480	-0.49371251463890076	-0.15506604	Yes	
+row_33	GATA2	GATA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4171]	1484	-0.5016074180603027	-0.10668709	Yes	
+row_34	RBP4	retinol binding protein 4 [Source:HGNC Symbol;Acc:HGNC:9922]	1495	-0.5419747233390808	-0.05899998	Yes	
+row_35	PITX2	paired like homeodomain 2 [Source:HGNC Symbol;Acc:HGNC:9005]	1506	-0.6747854351997375	0.002035315	Yes	

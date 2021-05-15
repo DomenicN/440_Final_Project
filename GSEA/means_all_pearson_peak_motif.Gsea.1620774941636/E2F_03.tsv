@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]	173	0.2374507635831833	-0.03115516	Yes	
+row_1	CDKN1A	cyclin dependent kinase inhibitor 1A [Source:HGNC Symbol;Acc:HGNC:1784]	209	0.1912640482187271	0.013830046	Yes	
+row_2	PTMA	prothymosin alpha [Source:HGNC Symbol;Acc:HGNC:9623]	211	0.18934187293052673	0.08096105	Yes	
+row_3	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9847]	225	0.1756497323513031	0.13512984	Yes	
+row_4	NSD3	nuclear receptor binding SET domain protein 3 [Source:HGNC Symbol;Acc:HGNC:12767]	236	0.16765473783016205	0.18845044	Yes	
+row_5	H2AZ1	H2A.Z variant histone 1 [Source:HGNC Symbol;Acc:HGNC:4741]	259	0.14821434020996094	0.2267504	Yes	
+row_6	KMT5A	lysine methyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:29489]	279	0.1323014199733734	0.26136678	Yes	
+row_7	EIF5A	eukaryotic translation initiation factor 5A [Source:HGNC Symbol;Acc:HGNC:3300]	282	0.13109681010246277	0.30696887	Yes	
+row_8	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	290	0.12412277609109879	0.3467156	Yes	
+row_9	TRIR	telomerase RNA component interacting RNase [Source:HGNC Symbol;Acc:HGNC:28424]	299	0.11749348044395447	0.38341683	Yes	
+row_10	SLC16A2	solute carrier family 16 member 2 [Source:HGNC Symbol;Acc:HGNC:10923]	332	0.09842228144407272	0.39717054	Yes	
+row_11	ID3	"inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]"	345	0.09081735461950302	0.42163277	Yes	
+row_12	SLBP	stem-loop binding protein [Source:HGNC Symbol;Acc:HGNC:10904]	420	0.040670063346624374	0.38649878	No	
+row_13	TMEM131L	transmembrane 131 like [Source:HGNC Symbol;Acc:HGNC:29146]	480	0.00854493584483862	0.3499348	No	
+row_14	PLAGL1	PLAG1 like zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:9046]	485	0.005343432072550058	0.34916186	No	
+row_15	PEG3	paternally expressed 3 [Source:HGNC Symbol;Acc:HGNC:8826]	532	-0.018905723467469215	0.32503873	No	
+row_16	DPYSL2	dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	576	-0.041564974933862686	0.31104454	No	
+row_17	PCLAF	PCNA clamp associated factor [Source:HGNC Symbol;Acc:HGNC:28961]	702	-0.1057509258389473	0.26496458	No	
+row_18	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	877	-0.2021513283252716	0.22049724	No	
+row_19	ARHGAP36	Rho GTPase activating protein 36 [Source:HGNC Symbol;Acc:HGNC:26388]	1002	-0.2715805470943451	0.23447181	No	
+row_20	RET	ret proto-oncogene [Source:HGNC Symbol;Acc:HGNC:9967]	1092	-0.2942045331001282	0.28005368	No	

@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP3	aquaporin 3 (Gill blood group) [Source:HGNC Symbol;Acc:HGNC:636]	260	0.1476917713880539	-0.14819692	No	
+row_1	LYN	"LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]"	548	-0.025067318230867386	-0.33624125	No	
+row_2	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	670	-0.08983606100082397	-0.40146878	No	
+row_3	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:HGNC:633]	677	-0.09304129332304001	-0.38899863	No	
+row_4	TESC	tescalcin [Source:HGNC Symbol;Acc:HGNC:26065]	1051	-0.2841969132423401	-0.58878404	Yes	
+row_5	PTGES	prostaglandin E synthase [Source:HGNC Symbol;Acc:HGNC:9599]	1076	-0.29016634821891785	-0.55344015	Yes	
+row_6	RET	ret proto-oncogene [Source:HGNC Symbol;Acc:HGNC:9967]	1092	-0.2942045331001282	-0.5113442	Yes	
+row_7	GJB3	gap junction protein beta 3 [Source:HGNC Symbol;Acc:HGNC:4285]	1102	-0.29673612117767334	-0.46477523	Yes	
+row_8	TNC	tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	1116	-0.2997637987136841	-0.4203523	Yes	
+row_9	STRA8	stimulated by retinoic acid 8 [Source:HGNC Symbol;Acc:HGNC:30653]	1160	-0.30151134729385376	-0.3957403	Yes	
+row_10	CYP26A1	cytochrome P450 family 26 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2603]	1236	-0.3197312653064728	-0.38936037	Yes	
+row_11	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	1238	-0.3201323449611664	-0.33327824	Yes	
+row_12	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	1277	-0.3357487916946411	-0.29924318	Yes	
+row_13	IGFBP7	insulin like growth factor binding protein 7 [Source:HGNC Symbol;Acc:HGNC:5476]	1314	-0.3542184829711914	-0.26059246	Yes	
+row_14	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	1366	-0.38103729486465454	-0.22724769	Yes	
+row_15	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	1381	-0.38649383187294006	-0.16812001	Yes	
+row_16	IGFBP2	insulin like growth factor binding protein 2 [Source:HGNC Symbol;Acc:HGNC:5471]	1424	-0.41954001784324646	-0.121913284	Yes	
+row_17	SERPINF1	serpin family F member 1 [Source:HGNC Symbol;Acc:HGNC:8824]	1463	-0.45972543954849243	-0.065899745	Yes	
+row_18	RBP4	retinol binding protein 4 [Source:HGNC Symbol;Acc:HGNC:9922]	1495	-0.5419747233390808	0.009389715	Yes	

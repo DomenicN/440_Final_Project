@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EFEMP1	EGF containing fibulin extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	444	0.025409085676074028	-0.29430977	No	
+row_1	FBLN5	fibulin 5 [Source:HGNC Symbol;Acc:HGNC:3602]	448	0.02207306958734989	-0.29295662	No	
+row_2	FBN2	fibrillin 2 [Source:HGNC Symbol;Acc:HGNC:3604]	705	-0.10849088430404663	-0.4483305	No	
+row_3	LOXL2	lysyl oxidase like 2 [Source:HGNC Symbol;Acc:HGNC:6666]	931	-0.23377342522144318	-0.56376934	No	
+row_4	EMILIN1	elastin microfibril interfacer 1 [Source:HGNC Symbol;Acc:HGNC:19880]	1070	-0.28862062096595764	-0.6124111	Yes	
+row_5	MFAP4	microfibril associated protein 4 [Source:HGNC Symbol;Acc:HGNC:7035]	1108	-0.29764971137046814	-0.59184444	Yes	
+row_6	VTN	vitronectin [Source:HGNC Symbol;Acc:HGNC:12724]	1135	-0.30151131749153137	-0.563301	Yes	
+row_7	LOXL1	lysyl oxidase like 1 [Source:HGNC Symbol;Acc:HGNC:6665]	1210	-0.31210803985595703	-0.56537724	Yes	
+row_8	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	1232	-0.31841161847114563	-0.53089726	Yes	
+row_9	FBLN1	fibulin 1 [Source:HGNC Symbol;Acc:HGNC:3600]	1243	-0.3235108256340027	-0.4882517	Yes	
+row_10	ITGA5	integrin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6141]	1258	-0.32986360788345337	-0.4473232	Yes	
+row_11	LOXL3	lysyl oxidase like 3 [Source:HGNC Symbol;Acc:HGNC:13869]	1269	-0.33326563239097595	-0.40318927	Yes	
+row_12	LTBP2	latent transforming growth factor beta binding protein 2 [Source:HGNC Symbol;Acc:HGNC:6715]	1287	-0.33892595767974854	-0.3628928	Yes	
+row_13	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	1323	-0.3583299219608307	-0.33172435	Yes	
+row_14	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	1335	-0.36475124955177307	-0.2834579	Yes	
+row_15	FBLN2	fibulin 2 [Source:HGNC Symbol;Acc:HGNC:3601]	1350	-0.37246015667915344	-0.23603003	Yes	
+row_16	LOX	lysyl oxidase [Source:HGNC Symbol;Acc:HGNC:6664]	1380	-0.3862215280532837	-0.1965763	Yes	
+row_17	ELN	elastin [Source:HGNC Symbol;Acc:HGNC:3327]	1454	-0.4497087001800537	-0.17698568	Yes	
+row_18	MFAP5	microfibril associated protein 5 [Source:HGNC Symbol;Acc:HGNC:29673]	1461	-0.4588227868080139	-0.1110078	Yes	
+row_19	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.040999886	Yes	
+row_20	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	1468	-0.47118115425109863	0.02753524	Yes	

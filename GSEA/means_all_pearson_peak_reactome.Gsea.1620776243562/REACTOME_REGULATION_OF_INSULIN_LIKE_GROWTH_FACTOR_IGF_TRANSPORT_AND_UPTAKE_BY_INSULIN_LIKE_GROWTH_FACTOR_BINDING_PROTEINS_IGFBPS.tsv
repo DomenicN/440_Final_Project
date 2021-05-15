@@ -1,0 +1,43 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	50	0.3796742558479309	-0.0030030678	No	
+row_1	IGFBP3	insulin like growth factor binding protein 3 [Source:HGNC Symbol;Acc:HGNC:5472]	148	0.26837459206581116	-0.047126655	No	
+row_2	DMP1	dentin matrix acidic phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:2932]	169	0.24279646575450897	-0.040890187	No	
+row_3	TIMP1	TIMP metallopeptidase inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:11820]	275	0.13542653620243073	-0.10133835	No	
+row_4	MSLN	mesothelin [Source:HGNC Symbol;Acc:HGNC:7371]	371	0.07167182862758636	-0.16018958	No	
+row_5	CST3	cystatin C [Source:HGNC Symbol;Acc:HGNC:2475]	395	0.05742673575878143	-0.17115971	No	
+row_6	PAPPA2	pappalysin 2 [Source:HGNC Symbol;Acc:HGNC:14615]	479	0.008589123375713825	-0.22699665	No	
+row_7	SCG2	secretogranin II [Source:HGNC Symbol;Acc:HGNC:10575]	629	-0.06810969859361649	-0.322924	No	
+row_8	CHGB	chromogranin B [Source:HGNC Symbol;Acc:HGNC:1930]	681	-0.09634135663509369	-0.34978455	No	
+row_9	CCN1	cellular communication network factor 1 [Source:HGNC Symbol;Acc:HGNC:2654]	740	-0.12823736667633057	-0.37880442	No	
+row_10	SPARCL1	SPARC like 1 [Source:HGNC Symbol;Acc:HGNC:11220]	744	-0.1306728720664978	-0.37015915	No	
+row_11	IGFBP5	insulin like growth factor binding protein 5 [Source:HGNC Symbol;Acc:HGNC:5474]	755	-0.13605229556560516	-0.36584222	No	
+row_12	APLP2	amyloid beta precursor like protein 2 [Source:HGNC Symbol;Acc:HGNC:598]	795	-0.15959520637989044	-0.3793543	No	
+row_13	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	867	-0.19688302278518677	-0.41161463	Yes	
+row_14	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	877	-0.2021513283252716	-0.40120968	Yes	
+row_15	GPC3	glypican 3 [Source:HGNC Symbol;Acc:HGNC:4451]	884	-0.20671699941158295	-0.3883877	Yes	
+row_16	PRSS23	serine protease 23 [Source:HGNC Symbol;Acc:HGNC:14370]	928	-0.23228007555007935	-0.39867902	Yes	
+row_17	PENK	proenkephalin [Source:HGNC Symbol;Acc:HGNC:8831]	938	-0.23778246343135834	-0.38535953	Yes	
+row_18	VGF	VGF nerve growth factor inducible [Source:HGNC Symbol;Acc:HGNC:12684]	946	-0.24289412796497345	-0.37025946	Yes	
+row_19	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	992	-0.264244943857193	-0.3792985	Yes	
+row_20	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	1058	-0.2857552468776703	-0.40020204	Yes	
+row_21	KLK1	kallikrein 1 [Source:HGNC Symbol;Acc:HGNC:6357]	1065	-0.2876818776130676	-0.3807572	Yes	
+row_22	LAMB1	laminin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6486]	1078	-0.29063165187835693	-0.3651583	Yes	
+row_23	TNC	tenascin C [Source:HGNC Symbol;Acc:HGNC:5318]	1116	-0.2997637987136841	-0.36584234	Yes	
+row_24	SERPINA1	serpin family A member 1 [Source:HGNC Symbol;Acc:HGNC:8941]	1136	-0.30151134729385376	-0.35412186	Yes	
+row_25	CSF1	colony stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:2432]	1217	-0.31442275643348694	-0.3828984	Yes	
+row_26	IGFBP6	insulin like growth factor binding protein 6 [Source:HGNC Symbol;Acc:HGNC:5475]	1266	-0.33205363154411316	-0.38843438	Yes	
+row_27	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1283	-0.3376322090625763	-0.37171566	Yes	
+row_28	IGFBP7	insulin like growth factor binding protein 7 [Source:HGNC Symbol;Acc:HGNC:5476]	1314	-0.3542184829711914	-0.363177	Yes	
+row_29	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]	1335	-0.36475124955177307	-0.34696478	Yes	
+row_30	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	1343	-0.3690465986728668	-0.32154563	Yes	
+row_31	KNG1	kininogen 1 [Source:HGNC Symbol;Acc:HGNC:6383]	1357	-0.37718725204467773	-0.29954776	Yes	
+row_32	LAMC1	laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	1372	-0.38212400674819946	-0.2778273	Yes	
+row_33	MXRA8	matrix remodeling associated 8 [Source:HGNC Symbol;Acc:HGNC:7542]	1403	-0.40419819951057434	-0.26520035	Yes	
+row_34	NOTUM	"notum, palmitoleoyl-protein carboxylesterase [Source:HGNC Symbol;Acc:HGNC:27106]"	1406	-0.40571537613868713	-0.23337573	Yes	
+row_35	IGFBP2	insulin like growth factor binding protein 2 [Source:HGNC Symbol;Acc:HGNC:5471]	1424	-0.41954001784324646	-0.21063827	Yes	
+row_36	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1462	-0.4588259756565094	-0.19831124	Yes	
+row_37	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	1467	-0.46908071637153625	-0.16266581	Yes	
+row_38	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	1471	-0.48159700632095337	-0.12531538	Yes	
+row_39	CP	ceruloplasmin [Source:HGNC Symbol;Acc:HGNC:2295]	1500	-0.5777613520622253	-0.0971288	Yes	
+row_40	MFGE8	milk fat globule EGF and factor V/VIII domain containing [Source:HGNC Symbol;Acc:HGNC:7036]	1502	-0.5857418775558472	-0.049897045	Yes	
+row_41	IGFBP4	insulin like growth factor binding protein 4 [Source:HGNC Symbol;Acc:HGNC:5473]	1505	-0.6599653959274292	0.0027248962	Yes	

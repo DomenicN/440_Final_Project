@@ -1,0 +1,53 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SHISA3	shisa family member 3 [Source:HGNC Symbol;Acc:HGNC:25159]	0	0.6350057721138	0.044954605	No	
+row_1	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	202	0.19746707379817963	-0.07892599	No	
+row_2	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	269	0.1396396905183792	-0.11430783	No	
+row_3	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	288	0.12626564502716064	-0.11771465	No	
+row_4	DKK4	dickkopf WNT signaling pathway inhibitor 4 [Source:HGNC Symbol;Acc:HGNC:2894]	294	0.12082095444202423	-0.11259061	No	
+row_5	ISL1	ISL LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6132]	318	0.10786421597003937	-0.1207295	No	
+row_6	TLE5	"TLE family member 5, transcriptional modulator [Source:HGNC Symbol;Acc:HGNC:307]"	449	0.021407170221209526	-0.20837724	No	
+row_7	PSME2	proteasome activator subunit 2 [Source:HGNC Symbol;Acc:HGNC:9569]	458	0.016846800222992897	-0.21267155	No	
+row_8	TMEM131L	transmembrane 131 like [Source:HGNC Symbol;Acc:HGNC:29146]	480	0.00854493584483862	-0.22646992	No	
+row_9	OPRM1	opioid receptor mu 1 [Source:HGNC Symbol;Acc:HGNC:8156]	487	0.003329536644741893	-0.23034944	No	
+row_10	RACK1	receptor for activated C kinase 1 [Source:HGNC Symbol;Acc:HGNC:4399]	490	0.00206623412668705	-0.2315749	No	
+row_11	EGR1	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	597	-0.05299721285700798	-0.30052534	No	
+row_12	DKK2	dickkopf WNT signaling pathway inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:2892]	622	-0.06507532298564911	-0.3123793	No	
+row_13	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	670	-0.08983606100082397	-0.33825538	No	
+row_14	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	685	-0.0990724042057991	-0.34084386	No	
+row_15	PSMB8	proteasome 20S subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:9545]	690	-0.10144675523042679	-0.33640552	No	
+row_16	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	694	-0.10333802551031113	-0.3311474	No	
+row_17	RBMS3	RNA binding motif single stranded interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:13427]	701	-0.1054629385471344	-0.3277965	No	
+row_18	CPZ	carboxypeptidase Z [Source:HGNC Symbol;Acc:HGNC:2333]	810	-0.16810040175914764	-0.38997006	No	
+row_19	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	816	-0.17124798893928528	-0.3812761	No	
+row_20	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	825	-0.17866285145282745	-0.3741148	No	
+row_21	GPC3	glypican 3 [Source:HGNC Symbol;Acc:HGNC:4451]	884	-0.20671699941158295	-0.399261	No	
+row_22	CITED1	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 1 [Source:HGNC Symbol;Acc:HGNC:1986]	890	-0.2101229876279831	-0.3878149	No	
+row_23	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	900	-0.2144712209701538	-0.37880445	No	
+row_24	DKK1	dickkopf WNT signaling pathway inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:2891]	923	-0.2301630824804306	-0.37759945	No	
+row_25	HHEX	hematopoietically expressed homeobox [Source:HGNC Symbol;Acc:HGNC:4901]	966	-0.25175294280052185	-0.38858345	No	
+row_26	SOX10	SRY-box transcription factor 10 [Source:HGNC Symbol;Acc:HGNC:11190]	1018	-0.2749854326248169	-0.40409553	No	
+row_27	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	1056	-0.2848147749900818	-0.4093096	No	
+row_28	SOX17	SRY-box transcription factor 17 [Source:HGNC Symbol;Acc:HGNC:18122]	1172	-0.30151140689849854	-0.46683955	Yes	
+row_29	WNT1	Wnt family member 1 [Source:HGNC Symbol;Acc:HGNC:12774]	1185	-0.3032148480415344	-0.45360422	Yes	
+row_30	ARNTL	aryl hydrocarbon receptor nuclear translocator like [Source:HGNC Symbol;Acc:HGNC:701]	1211	-0.31243962049484253	-0.44863215	Yes	
+row_31	WNT6	Wnt family member 6 [Source:HGNC Symbol;Acc:HGNC:12785]	1238	-0.3201323449611664	-0.44380134	Yes	
+row_32	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	1257	-0.32975485920906067	-0.43280235	Yes	
+row_33	IGFBP6	insulin like growth factor binding protein 6 [Source:HGNC Symbol;Acc:HGNC:5475]	1266	-0.33205363154411316	-0.4147819	Yes	
+row_34	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	1283	-0.3376322090625763	-0.4018535	Yes	
+row_35	RSPO3	R-spondin 3 [Source:HGNC Symbol;Acc:HGNC:20866]	1299	-0.344847172498703	-0.38772845	Yes	
+row_36	MDK	midkine [Source:HGNC Symbol;Acc:HGNC:6972]	1312	-0.3533845543861389	-0.3709414	Yes	
+row_37	SFRP2	secreted frizzled related protein 2 [Source:HGNC Symbol;Acc:HGNC:10777]	1337	-0.3655227720737457	-0.36152548	Yes	
+row_38	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	1381	-0.38649383187294006	-0.3636565	Yes	
+row_39	SOSTDC1	sclerostin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21748]	1405	-0.40488001704216003	-0.35076842	Yes	
+row_40	NOTUM	"notum, palmitoleoyl-protein carboxylesterase [Source:HGNC Symbol;Acc:HGNC:27106]"	1406	-0.40571537613868713	-0.32204622	Yes	
+row_41	CTHRC1	collagen triple helix repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:18831]	1419	-0.41518479585647583	-0.30088407	Yes	
+row_42	IGFBP2	insulin like growth factor binding protein 2 [Source:HGNC Symbol;Acc:HGNC:5471]	1424	-0.41954001784324646	-0.27392662	Yes	
+row_43	FOLR1	folate receptor alpha [Source:HGNC Symbol;Acc:HGNC:3791]	1431	-0.42704227566719055	-0.24780981	Yes	
+row_44	SFRP5	secreted frizzled related protein 5 [Source:HGNC Symbol;Acc:HGNC:10779]	1441	-0.43607234954833984	-0.22311135	Yes	
+row_45	RSPO1	R-spondin 1 [Source:HGNC Symbol;Acc:HGNC:21679]	1474	-0.486124724149704	-0.2106445	Yes	
+row_46	NKD1	NKD inhibitor of WNT signaling pathway 1 [Source:HGNC Symbol;Acc:HGNC:17045]	1480	-0.49371251463890076	-0.17912196	Yes	
+row_47	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	1489	-0.5104344487190247	-0.14847323	Yes	
+row_48	SFRP4	secreted frizzled related protein 4 [Source:HGNC Symbol;Acc:HGNC:10778]	1490	-0.5148093104362488	-0.11202781	Yes	
+row_49	DKKL1	dickkopf like acrosomal protein 1 [Source:HGNC Symbol;Acc:HGNC:16528]	1493	-0.5319274067878723	-0.075742275	Yes	
+row_50	BAMBI	BMP and activin membrane bound inhibitor [Source:HGNC Symbol;Acc:HGNC:30251]	1496	-0.5455656051635742	-0.03849124	Yes	
+row_51	IGFBP4	insulin like growth factor binding protein 4 [Source:HGNC Symbol;Acc:HGNC:5473]	1505	-0.6599653959274292	0.0027433895	Yes	

@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CAVIN3	caveolae associated protein 3 [Source:HGNC Symbol;Acc:HGNC:9400]	49	0.38140639662742615	0.016450256	No	
+row_1	CRYAB	crystallin alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	156	0.25614890456199646	-0.021788538	No	
+row_2	NPPB	natriuretic peptide B [Source:HGNC Symbol;Acc:HGNC:7940]	171	0.24238938093185425	2.2364536E-4	No	
+row_3	CCND2	cyclin D2 [Source:HGNC Symbol;Acc:HGNC:1583]	203	0.19677749276161194	0.0048539685	No	
+row_4	PRRX1	paired related homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9142]	501	-0.004290629178285599	-0.19485901	No	
+row_5	MLLT11	MLLT11 transcription factor 7 cofactor [Source:HGNC Symbol;Acc:HGNC:16997]	547	-0.024709777906537056	-0.22199656	No	
+row_6	BDNF	brain derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:1033]	604	-0.05579611286520958	-0.25251773	No	
+row_7	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	670	-0.08983606100082397	-0.28469068	No	
+row_8	CCN1	cellular communication network factor 1 [Source:HGNC Symbol;Acc:HGNC:2654]	740	-0.12823736667633057	-0.31457788	No	
+row_9	ELAVL4	ELAV like RNA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:3315]	818	-0.17247247695922852	-0.34411958	No	
+row_10	ANKRD1	ankyrin repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:15819]	963	-0.2509682774543762	-0.40865433	No	
+row_11	PDZK1IP1	PDZK1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:16887]	964	-0.25110363960266113	-0.37607107	No	
+row_12	PTPRCAP	protein tyrosine phosphatase receptor type C associated protein [Source:HGNC Symbol;Acc:HGNC:9667]	1042	-0.28116220235824585	-0.39150918	No	
+row_13	MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	1222	-0.31656068563461304	-0.47113347	Yes	
+row_14	CYP26A1	cytochrome P450 family 26 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2603]	1236	-0.3197312653064728	-0.4384111	Yes	
+row_15	FIBIN	fin bud initiation factor homolog [Source:HGNC Symbol;Acc:HGNC:33747]	1261	-0.3304855227470398	-0.4117106	Yes	
+row_16	OLFML3	olfactomedin like 3 [Source:HGNC Symbol;Acc:HGNC:24956]	1284	-0.3381318747997284	-0.38266933	Yes	
+row_17	MDK	midkine [Source:HGNC Symbol;Acc:HGNC:6972]	1312	-0.3533845543861389	-0.35502037	Yes	
+row_18	LRRC32	leucine rich repeat containing 32 [Source:HGNC Symbol;Acc:HGNC:4161]	1327	-0.3612273633480072	-0.31758776	Yes	
+row_19	ACTA1	"actin alpha 1, skeletal muscle [Source:HGNC Symbol;Acc:HGNC:129]"	1369	-0.38165703415870667	-0.2957105	Yes	
+row_20	LAMC1	laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	1372	-0.38212400674819946	-0.24747461	Yes	
+row_21	ELF3	E74 like ETS transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:3318]	1375	-0.38262030482292175	-0.19917433	Yes	
+row_22	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	1389	-0.3925377130508423	-0.15700455	Yes	
+row_23	TINAGL1	tubulointerstitial nephritis antigen like 1 [Source:HGNC Symbol;Acc:HGNC:19168]	1392	-0.3947867453098297	-0.107125536	Yes	
+row_24	FOLR1	folate receptor alpha [Source:HGNC Symbol;Acc:HGNC:3791]	1431	-0.42704227566719055	-0.07733616	Yes	
+row_25	MFAP5	microfibril associated protein 5 [Source:HGNC Symbol;Acc:HGNC:29673]	1461	-0.4588227868080139	-0.037354156	Yes	
+row_26	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	1494	-0.5321084856987	0.010114495	Yes	

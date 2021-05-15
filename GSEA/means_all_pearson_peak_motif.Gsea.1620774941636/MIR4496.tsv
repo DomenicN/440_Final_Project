@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GCH1	GTP cyclohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:4193]	14	0.4541090726852417	0.041547876	Yes	
+row_1	SBSPON	somatomedin B and thrombospondin type 1 domain containing [Source:HGNC Symbol;Acc:HGNC:30362]	26	0.42632174491882324	0.08200749	Yes	
+row_2	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.10420379	Yes	
+row_3	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.14602421	Yes	
+row_4	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.1876981	Yes	
+row_5	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.22935715	Yes	
+row_6	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.27016327	Yes	
+row_7	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.30808488	Yes	
+row_8	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.34870636	Yes	
+row_9	GPM6B	glycoprotein M6B [Source:HGNC Symbol;Acc:HGNC:4461]	208	0.1920117437839508	0.2766674	No	
+row_10	PRELID3B	PRELI domain containing 3B [Source:HGNC Symbol;Acc:HGNC:15892]	222	0.17722727358341217	0.28776973	No	
+row_11	GFRA1	GDNF family receptor alpha 1 [Source:HGNC Symbol;Acc:HGNC:4243]	272	0.1385548859834671	0.27010164	No	
+row_12	NREP	neuronal regeneration related protein [Source:HGNC Symbol;Acc:HGNC:16834]	303	0.11592654883861542	0.26278004	No	
+row_13	KCNQ5	potassium voltage-gated channel subfamily Q member 5 [Source:HGNC Symbol;Acc:HGNC:6299]	380	0.06616978347301483	0.21865772	No	
+row_14	PAK3	p21 (RAC1) activated kinase 3 [Source:HGNC Symbol;Acc:HGNC:8592]	507	-0.005295726470649242	0.13377132	No	
+row_15	LYN	"LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]"	548	-0.025067318230867386	0.10945206	No	
+row_16	CHST2	carbohydrate sulfotransferase 2 [Source:HGNC Symbol;Acc:HGNC:1970]	549	-0.025331921875476837	0.11229959	No	
+row_17	GMCL1	"germ cell-less 1, spermatogenesis associated [Source:HGNC Symbol;Acc:HGNC:23843]"	586	-0.04833207279443741	0.0933092	No	
+row_18	DMKN	dermokine [Source:HGNC Symbol;Acc:HGNC:25063]	587	-0.04881071671843529	0.09879595	No	
+row_19	RPRD1A	regulation of nuclear pre-mRNA domain containing 1A [Source:HGNC Symbol;Acc:HGNC:25560]	611	-0.06076836585998535	0.09002305	No	
+row_20	SYT1	synaptotagmin 1 [Source:HGNC Symbol;Acc:HGNC:11509]	632	-0.06993547827005386	0.08431589	No	
+row_21	EDIL3	EGF like repeats and discoidin domains 3 [Source:HGNC Symbol;Acc:HGNC:3173]	653	-0.08180677890777588	0.079943165	No	
+row_22	EPHA5	EPH receptor A5 [Source:HGNC Symbol;Acc:HGNC:3389]	692	-0.10254675894975662	0.06569013	No	
+row_23	RBMS3	RNA binding motif single stranded interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:13427]	701	-0.1054629385471344	0.072117686	No	
+row_24	MS4A1	membrane spanning 4-domains A1 [Source:HGNC Symbol;Acc:HGNC:7315]	806	-0.1666489690542221	0.02029418	No	
+row_25	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	816	-0.17124798893928528	0.033438124	No	
+row_26	PHF13	PHD finger protein 13 [Source:HGNC Symbol;Acc:HGNC:22983]	833	-0.18246303498744965	0.043093752	No	
+row_27	NHLH2	nescient helix-loop-helix 2 [Source:HGNC Symbol;Acc:HGNC:7818]	918	-0.2273315191268921	0.01166002	No	
+row_28	SGO1	shugoshin 1 [Source:HGNC Symbol;Acc:HGNC:25088]	1316	-0.3551689386367798	-0.21775103	No	
+row_29	GABRP	gamma-aminobutyric acid type A receptor subunit pi [Source:HGNC Symbol;Acc:HGNC:4089]	1344	-0.36989372968673706	-0.19448923	No	
+row_30	RFLNB	refilin B [Source:HGNC Symbol;Acc:HGNC:28705]	1354	-0.3742354214191437	-0.15852772	No	
+row_31	LAMC1	laminin subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:6492]	1372	-0.38212400674819946	-0.12710688	No	
+row_32	STEAP4	STEAP4 metalloreductase [Source:HGNC Symbol;Acc:HGNC:21923]	1443	-0.43776988983154297	-0.12538752	No	
+row_33	RTP4	receptor transporter protein 4 [Source:HGNC Symbol;Acc:HGNC:23992]	1456	-0.45406287908554077	-0.082487985	No	
+row_34	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	1464	-0.46386289596557617	-0.03509471	No	
+row_35	CP	ceruloplasmin [Source:HGNC Symbol;Acc:HGNC:2295]	1500	-0.5777613520622253	0.0061058253	No	

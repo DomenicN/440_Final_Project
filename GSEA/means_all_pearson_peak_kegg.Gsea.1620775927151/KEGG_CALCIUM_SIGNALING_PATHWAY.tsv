@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNA14	G protein subunit alpha 14 [Source:HGNC Symbol;Acc:HGNC:4382]	24	0.4288164973258972	0.096124664	Yes	
+row_1	PRKCB	protein kinase C beta [Source:HGNC Symbol;Acc:HGNC:9395]	82	0.3473512828350067	0.1488645	Yes	
+row_2	ATP2A3	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 3 [Source:HGNC Symbol;Acc:HGNC:813]	177	0.23048673570156097	0.14628345	Yes	
+row_3	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	202	0.19746707379817963	0.18188722	Yes	
+row_4	SLC25A5	solute carrier family 25 member 5 [Source:HGNC Symbol;Acc:HGNC:10991]	304	0.11572198569774628	0.14460151	No	
+row_5	PHKG1	phosphorylase kinase catalytic subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:8930]	404	0.052547380328178406	0.092127144	No	
+row_6	ATP2B1	ATPase plasma membrane Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:814]	655	-0.08206415921449661	-0.053628992	No	
+row_7	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	816	-0.17124798893928528	-0.11585402	No	
+row_8	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	825	-0.17866285145282745	-0.07446708	No	
+row_9	RYR3	ryanodine receptor 3 [Source:HGNC Symbol;Acc:HGNC:10485]	873	-0.2001262903213501	-0.05355227	No	
+row_10	P2RX4	purinergic receptor P2X 4 [Source:HGNC Symbol;Acc:HGNC:8535]	1034	-0.2793797254562378	-0.08749008	No	
+row_11	BST1	bone marrow stromal cell antigen 1 [Source:HGNC Symbol;Acc:HGNC:1118]	1050	-0.2841063141822815	-0.023201464	No	
+row_12	NOS2	nitric oxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:7873]	1215	-0.3140980005264282	-0.050732587	No	
+row_13	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	1464	-0.46386289596557617	-0.09527257	No	
+row_14	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	1469	-0.4766983687877655	0.026755888	No	

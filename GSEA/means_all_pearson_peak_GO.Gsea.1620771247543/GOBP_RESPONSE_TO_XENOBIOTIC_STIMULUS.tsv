@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH3A1	aldehyde dehydrogenase 3 family member A1 [Source:HGNC Symbol;Acc:HGNC:405]	3	0.5612565279006958	0.08974736	Yes	
+row_1	MGST1	microsomal glutathione S-transferase 1 [Source:HGNC Symbol;Acc:HGNC:7061]	7	0.509557843208313	0.17104241	Yes	
+row_2	UGT1A1	UDP glucuronosyltransferase family 1 member A1 [Source:HGNC Symbol;Acc:HGNC:12530]	56	0.37248560786247253	0.19972596	Yes	
+row_3	UGT1A3	UDP glucuronosyltransferase family 1 member A3 [Source:HGNC Symbol;Acc:HGNC:12535]	57	0.3720388412475586	0.2605512	Yes	
+row_4	UGT1A4	UDP glucuronosyltransferase family 1 member A4 [Source:HGNC Symbol;Acc:HGNC:12536]	58	0.3707350492477417	0.32116333	Yes	
+row_5	UGT1A6	UDP glucuronosyltransferase family 1 member A6 [Source:HGNC Symbol;Acc:HGNC:12538]	59	0.3706032633781433	0.3817539	Yes	
+row_6	UGT1A10	UDP glucuronosyltransferase family 1 member A10 [Source:HGNC Symbol;Acc:HGNC:12531]	61	0.3690507113933563	0.44141948	Yes	
+row_7	UGT1A8	UDP glucuronosyltransferase family 1 member A8 [Source:HGNC Symbol;Acc:HGNC:12540]	67	0.3675314486026764	0.4981521	Yes	
+row_8	UGT1A7	UDP glucuronosyltransferase family 1 member A7 [Source:HGNC Symbol;Acc:HGNC:12539]	69	0.36740824580192566	0.5575492	Yes	
+row_9	CYP1A1	cytochrome P450 family 1 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2595]	95	0.3292864263057709	0.5946062	Yes	
+row_10	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	106	0.315805047750473	0.6395263	Yes	
+row_11	GSTA1	glutathione S-transferase alpha 1 [Source:HGNC Symbol;Acc:HGNC:4626]	147	0.2687534689903259	0.65661967	Yes	
+row_12	MGST3	microsomal glutathione S-transferase 3 [Source:HGNC Symbol;Acc:HGNC:7064]	153	0.25936466455459595	0.6956679	Yes	
+row_13	GSTM1	glutathione S-transferase mu 1 [Source:HGNC Symbol;Acc:HGNC:4632]	175	0.2340511679649353	0.7198394	Yes	
+row_14	GLYAT	glycine-N-acyltransferase [Source:HGNC Symbol;Acc:HGNC:13734]	344	0.09095744043588638	0.6219585	No	
+row_15	MTARC2	mitochondrial amidoxime reducing component 2 [Source:HGNC Symbol;Acc:HGNC:26064]	364	0.07740970700979233	0.62186265	No	
+row_16	MGST2	microsomal glutathione S-transferase 2 [Source:HGNC Symbol;Acc:HGNC:7063]	500	-0.003220265032723546	0.53178513	No	
+row_17	SULT2A1	sulfotransferase family 2A member 1 [Source:HGNC Symbol;Acc:HGNC:11458]	978	-0.2557598948478699	0.25346547	No	
+row_18	AOC1	amine oxidase copper containing 1 [Source:HGNC Symbol;Acc:HGNC:80]	1158	-0.30151134729385376	0.18262585	No	
+row_19	CYP26A1	cytochrome P450 family 26 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2603]	1236	-0.3197312653064728	0.1832214	No	

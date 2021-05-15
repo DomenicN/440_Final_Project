@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ISL1	ISL LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6132]	318	0.10786421597003937	-0.18491305	No	
+row_1	ID3	"inhibitor of DNA binding 3, HLH protein [Source:HGNC Symbol;Acc:HGNC:5362]"	345	0.09081735461950302	-0.17846747	No	
+row_2	TFAP2B	transcription factor AP-2 beta [Source:HGNC Symbol;Acc:HGNC:11743]	386	0.06433679163455963	-0.18837552	No	
+row_3	CRH	corticotropin releasing hormone [Source:HGNC Symbol;Acc:HGNC:2355]	522	-0.013239412568509579	-0.275437	No	
+row_4	WFDC3	WAP four-disulfide core domain 3 [Source:HGNC Symbol;Acc:HGNC:15957]	607	-0.05807055905461311	-0.31650338	No	
+row_5	PHOX2B	paired like homeobox 2B [Source:HGNC Symbol;Acc:HGNC:9143]	609	-0.058212652802467346	-0.30186504	No	
+row_6	ATF3	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	637	-0.07348579913377762	-0.30064806	No	
+row_7	GAP43	growth associated protein 43 [Source:HGNC Symbol;Acc:HGNC:4140]	648	-0.07981465011835098	-0.28636497	No	
+row_8	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	685	-0.0990724042057991	-0.28445533	No	
+row_9	ESM1	endothelial cell specific molecule 1 [Source:HGNC Symbol;Acc:HGNC:3466]	738	-0.12801337242126465	-0.28566572	No	
+row_10	SNAP25	synaptosome associated protein 25 [Source:HGNC Symbol;Acc:HGNC:11132]	739	-0.1280413717031479	-0.25199282	No	
+row_11	FAM180A	family with sequence similarity 180 member A [Source:HGNC Symbol;Acc:HGNC:33773]	1091	-0.29403671622276306	-0.4100782	No	
+row_12	ZNF646	zinc finger protein 646 [Source:HGNC Symbol;Acc:HGNC:29004]	1216	-0.3143059015274048	-0.41058627	Yes	
+row_13	PCOLCE	procollagen C-endopeptidase enhancer [Source:HGNC Symbol;Acc:HGNC:8738]	1245	-0.32452428340911865	-0.34402078	Yes	
+row_14	CSF3	colony stimulating factor 3 [Source:HGNC Symbol;Acc:HGNC:2438]	1295	-0.3426288068294525	-0.28677857	Yes	
+row_15	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	1296	-0.3439367115497589	-0.19632854	Yes	
+row_16	SLC4A2	solute carrier family 4 member 2 [Source:HGNC Symbol;Acc:HGNC:11028]	1338	-0.366493821144104	-0.12744467	Yes	
+row_17	FAM181B	family with sequence similarity 181 member B [Source:HGNC Symbol;Acc:HGNC:28512]	1340	-0.3669992685317993	-0.031600256	Yes	
+row_18	MSX2	msh homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7392]	1498	-0.5486116409301758	0.0073776427	Yes	
